@@ -20,15 +20,11 @@ layout: default
   padding: 15px;
   margin: auto;">
 <form action="https://smartforms.dev/submit/5e20e9c5d2b1f304f0563ae2" method="POST">
- We kindly ask your opinion for the development of a Global Ecosystem Typology for the profile of the Biome:
- <input type="text" name="EFG" value="{{ page.name }}"><br/>
+ We kindly ask your opinion for the development of a Global Ecosystem Typology.
+ <input type="hidden" name="EFG" value="{{ page.name }}"><br/>
  <h3>Contact information</h3>
  Your name: <input type="text" name="name"><br/>
 Your affiliation: <input type="text" name="affiliation"><br/>
-Academic profile: <input type="url" name="profile"><br/>
- <font size=2 color='#451101'>Please add the url of a public profesional profile for verification of expertise.For example: public profile in ORCID, google scholar, linkedIn, university portal or own webpage.</font><br/>
-Your e-mail : <input type="email" name="email"><br/>
- <font size=2 color='#451101'>Add your e-mail, if you would like to be contacted by our team.</font> <br/>
 
    <h3>Your opinion</h3>
    <div style="padding: 3px;">
@@ -56,8 +52,8 @@ Strongly disagree <input type="range" name="diagram" min="0" max="10" step="1">S
 </div>
 
    <h3>Your suggestions</h3>
-   <textarea rows=3 cols=40 name="suggestions">Add your comments and suggestions.</textarea><br/>
-   <textarea rows=2 cols=40 name="references">Suggest additional references.</textarea><br/>
+   <textarea rows=3 cols=50 name="suggestions">Add your comments and suggestions.</textarea><br/>
+   <textarea rows=2 cols=50 name="references">Suggest additional references.</textarea><br/>
 
   <button type="submit">Send</button>
 </form>
