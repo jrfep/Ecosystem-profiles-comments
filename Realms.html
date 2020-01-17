@@ -1,0 +1,13 @@
+---
+layout: default
+title: Realms
+---
+<h1>Realms</h1>
+
+<ul>
+  {% for Realm in site.Realms %}
+    <li>
+      <h3><a href="Realms/{{ Realm.name }}">{{ Realm.name }}</a></h3>
+    </li>
+  {% endfor %}
+</ul>
