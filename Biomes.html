@@ -1,0 +1,15 @@
+---
+layout: default
+title: Biomes
+---
+<h1>Biomes</h1>
+
+<ul>
+  {% for Biome in site.Biomes %}
+    <li>
+      <h2><a href="Biomes/{{ Biome.code }}">{{ Biome.name }}</a></h2>
+
+         <h4>{{ Biome.contributors }}</h4>
+    </li>
+  {% endfor %}
+</ul>
