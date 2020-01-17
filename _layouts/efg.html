@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+<h2>Biome: {{ page.biome }}</h2>
+<h4>Contributors: {{ page.contributors }}</h4>
+<div style=";
+   position: relative;
+  left: 0px;
+  padding: 15px;
+  border: 3px solid #AD2221;
+  width: 60%;">
+
+   <div style="background-color:#67A6F5;
+   position: fixed;
+  bottom: 0;
+  font-size: 13px;
+  right: 0;
+  border: 3px solid #2173AD;
+  max-width: 35%;
+  padding: 15px;
+  margin: auto;">
+<form action="https://smartforms.dev/submit/5e20e9c5d2b1f304f0563ae2" method="POST">
+ We kindly ask your opinion for the development of a Global Ecosystem Typology for the profile of the Ecosystem Functional Group:
+ <input type="text" name="EFG" value="{{ page.name }}"><br/>
+ <h3>Contact information</h3>
+ Your name: <input type="text" name="name"><br/>
+Your affiliation: <input type="text" name="affiliation"><br/>
+Academic profile: <input type="url" name="profile"><br/>
+ <font size=2 color='#451101'>Please add the url of a public profesional profile for verification of expertise.For example: public profile in ORCID, google scholar, linkedIn, university portal or own webpage.</font><br/>
+Your e-mail : <input type="email" name="email"><br/>
+ <font size=2 color='#451101'>Add your e-mail, if you would like to be contacted by our team.</font> <br/>
+
+   <h3>Your opinion</h3>
+   <div style="padding: 3px;">
+  <b>This profile is informative</b> <br/>
+  Strongly disagree <input type="range" name="informative" min="0" max="10" step="1">Strongly agree
+</div>
+<div style="padding: 3px;">
+
+  <b>This profile is accurate</b> <br/>
+  Strongly disagree <input type="range" name="accurate" min="0" max="10" step="1">Strongly agree
+  <!--//
+       <input type="radio" name="accurate" value="-2"> Strongly disagree
+       <input type="radio" name="accurate" value="-1"> Disagree
+       <input type="radio" name="accurate" value="0"> Neither
+       <input type="radio" name="accurate" value="1"> Agree
+       <input type="radio" name="accurate" value="2"> Strongly agree<br/> //-->
+</div>
+<div style="padding: 3px;">
+  <b>The indicative map is informative</b> <br/>
+Strongly disagree <input type="range" name="map" min="0" max="10" step="1">Strongly agree
+</div>
+<div style="padding: 3px;">
+  <b>The diagram is informative</b> <br/>
+Strongly disagree <input type="range" name="diagram" min="0" max="10" step="1">Strongly agree
+</div>
+
+   <h3>Your suggestions</h3>
+   <textarea rows=3 cols=40 name="suggestions">Add your comments and suggestions.</textarea><br/>
+   <textarea rows=2 cols=40 name="references">Suggest additional references.</textarea><br/>
+
+  <button type="submit">Send</button>
+</form>
+</div>
+
+{{ content }}
+</div>
