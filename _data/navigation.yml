@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Realms
+  link: /Realms.html
+- name: Biomes
+  link: /Biomes.html
+- name: Functional Groups
+  link: /EFGs.html
