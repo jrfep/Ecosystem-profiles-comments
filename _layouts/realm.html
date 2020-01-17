@@ -8,7 +8,7 @@ layout: default
 <h2>Biomes</h2>
 <ul>
   {% for post in site.Biomes %}
-  {% if post.realm contains page.realm %}
+  {% if post.realm contains page.name %}
     <li><a href="../Biomes/{{ post.code }}.html">{{ post.name }}</a></li>
     {% endif %}
   {% endfor %}
