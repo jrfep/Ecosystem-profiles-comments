@@ -1,7 +1,4 @@
----
-layout: default
-title: Ecosystem Functional Groups
----
+
 # Global ecosystem typology
 
 This site is dedicated to open consultation and review of profiles for Ecosystem Functional Groups (level 3) of the Global Ecosystem Typology.
