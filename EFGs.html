@@ -8,7 +8,7 @@ title: Ecosystem Functional Groups
   {% for EFG in site.EFGs %}
     <li>
       <h2><a href="EFGs/{{ EFG.code }}">{{ EFG.name }}</a></h2>
-      <h3><a href="Biomes/{{ EFG.biomecode }}.html">{{ EFG.biome }}</a></h3>
+      Biome: <a href="Biomes/{{ EFG.biomecode }}.html">{{ EFG.biome }}</a>
          <h4>{{ EFG.contributors }}</h4>
     </li>
   {% endfor %}
