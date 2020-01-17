@@ -1,7 +1,6 @@
 ---
 name: MT1 Coast
-realm: Marine
-realm: Terrestrial
+realm: Marine,Terrestrial
 code: MT1
 contributors: DA Keith
 ---
