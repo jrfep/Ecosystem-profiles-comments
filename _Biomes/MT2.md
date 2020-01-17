@@ -1,0 +1,10 @@
+---
+name: MT2. Supralittoral coastal biome
+realm: Marine,Terrestrial
+code: MT2
+contributors: DA Keith
+---
+
+# Description
+     The supralittoral coastal biome marks the landward extent of the transition from marine to terrestrial biomes. It is elevated above the direct influence of waves and tides (see shoreline biome) and beyond the direct influence of freshwater seepage or rivers (see brackish tidal biome). Supratidal coastal ecosystems extend around all of the world’s land masses, occupying a fringe from tens of metres to a few kilometres wide and covering the entire extent of many small islands. Onshore winds, created by differences in air pressure related to the differing heat capacities of water and dry land, are a key driver of ecosystem function. These winds create desiccating conditions on elevated landforms such as headlands and coastal dunes, as well as continual inputs of aerosol salts and salt spray. Even though the supralittoral zone is located above high spring tide, it is exposed to recurring disturbance from storms producing exceptional waves and tides that reduce standing biomass and destabilises substrates. These strong environmental gradients select for a specialised low-diversity biota. Although much of this biota is confined to supralittoral ecosystems, it may be widely distributed across different land masses by coastal winds, oceanic currents and/or migratory behaviour. Autochthonous energy is produced by wind-pruned vegetation with traits promoting tolerance to desiccation, high salinity and substrate instability (e.g. stomatal regulation, extensive rhizomes or root systems, succulence). The sea supplies allochthonous energy subsidies such as wrack and faeces of sea-foraging birds, but also transports a portion of primary production to other ecosystems. Invertebrate detritivores and physical weathering contribute to rapid decay. Supralittoral ecosystems also provide nesting habitat for seabirds on the surface, amongst vegetation or in burrows, especially on islands free from terrestrial mammalian predators.   
+
