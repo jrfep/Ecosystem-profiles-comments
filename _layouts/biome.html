@@ -64,4 +64,13 @@ Strongly disagree <input type="range" name="diagram" min="0" max="10" step="1">S
 </div>
 
 {{ content }}
+
+<h2>Biomes</h2>
+<ul>
+  {% assign filtered_posts = site.EFGs | where: 'biomecode', page.code %}
+  {% for post in filtered_posts %}
+    <li><a href="EFGs/{{ post.code }}.html">{{ post.name }}</a></li>
+  {% endfor %}
+</ul>
+
 </div>

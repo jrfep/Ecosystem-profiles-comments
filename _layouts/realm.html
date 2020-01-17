@@ -9,6 +9,6 @@ layout: default
 <ul>
   {% assign filtered_posts = site.Biomes | where: 'realm', page.name %}
   {% for post in filtered_posts %}
-    <li><a href="{{ post.code }}">{{ post.name }}</a></li>
+    <li><a href="Biomes/{{ post.code }}.html">{{ post.name }}</a></li>
   {% endfor %}
 </ul>
