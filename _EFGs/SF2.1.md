@@ -1,7 +1,7 @@
 ---
-name: SF2.1 Water pipes and subterranean canals
-biome: SF2 Anthropogenic subterranean freshwaters
-realm: Subterranean/Freshwater
+name: SM1.1 Anchialine caves
+biome: SM1 Subterranean tidal systems
+realm: Subterranean
 code: SF2.1
 biomecode: SF2
 contributors: DA Keith
@@ -9,23 +9,66 @@ contributors: DA Keith
 
 # Ecological traits
 
-Constructed subterranean canals and water pipes are dark, low-productivity systems, acting as conduits for water, nutrients and biota between artificial or natural freshwater ecosystems. Energy sources are therefore entirely or almost entirely allochthonous from surface systems. Although similar to underground streams (S2.1), these systems are structurally simpler, younger and much less biologically diverse with few evolutionary lineages and no local endemism. Diversity and abundance are low, often resulting from accidental transport of biota from source to receiving ecosystems.  Trophic networks are truncated, with very few or no primary producers and no vertebrate predators except incidental transients. The majority of the resident heterotrophic biota are bacteria, aquatic fungi and protists that live in biofilms covering mostly smooth artificial surfaces. The biofilms provide food sources for detritivores and predators including protozoans and planktonic invertebrates, as well as filter feeders such as molluscs. The structure of the biofilm community varies considerably with hydraulic regime, as does the biota in the water column. Transient vertebrates, notably fish, occupy well connected ecosystems with abundant food and predominantly depend on transported nutrients and behaviour of prey. A range of organisms may survive in these environments, but only some maintain reproductive populations. All biota are capable of surviving under no or low light conditions, at least temporarily while in transit. Other traits vary with hydraulic regimes and hydrochemistry, with physiological tolerance to toxins important in highly eutrophic, slow-flowing drains and tolerance to low nutrients and turbulence typical in high-velocity minerotrophic water pipes.
+
+These systems are bodies of saline or brackish waters with subterranean connections to the sea and limited exposure to open air. Virtually all anchialine biota are marine in origin, hence these caves have a larger and more diverse species pool than underground streams and pools. The trophic network is truncated and dominated by heterotrophs (scavenging and filter-feeding detritivores and their predators), with photosynthetic primary producers and herbivores only present where sinkholes connect caves to the surface and sunlight. Productivity is limited by scarcity of light and food, but less so than insular freshwater subterranean systems (S2.1) due to influx of marine detritus and biota. The biota include planktonic bacteria, protozoans, annelids, crustaceans and fish. A number of these are anchialine obligates that inhabit locations deep within the caves, with marine biota increasing in frequency with proximity to the sea connection. Sponges and hydroids, for example, occur in strongly tidal cave waters. Distinctive traits of the obligates that reflect selection under darkness and food scarcity include varying degrees of eye loss and depigmentation, increased tactile and chemical sensitivity, reproduction with few large eggs, long life spans, slow metabolism and growth rates. Some biota have close relatives in deep ocean systems, including shrimps that retain red pigmentation in both systems.
+
 
 # Key-ecological-drivers
 
-Subterranean canals and water pipes are engineered structures designed to connect and move waters between artificial (or more rarely natural) sources. They are united by an absence of light and usually by low oxygen levels and low variability in temperatures, but hydraulic regimes, nutrient levels, water chemistry, flow and turbulence vary greatly between different systems. Water supply pipes are extreme oligotrophic systems with rapid flow, high turbulence, low nutrients and low connectivity to the atmosphere, often sourced from de-oxygenated water at depth within large reservoirs (F3.1). In contrast, subterranean wastewater or stormwater canals have slower, more intermittent flows, low turbulence, and very high nutrient levels and chemical pollutants including toxins.  Many of these eutrophic systems have an in situ atmosphere, but dissolved oxygen levels are very low in connection with high levels of dissolved organic carbon and microbial activity.
+
+Anchialine caves derive from seawater penetration into faults, fractures and lava tubes, and sea-level rise into limestone caves formed by solution. Cave waters are characterised by an absence or scarcity of light, low food abundance and strong salinity gradients. Salt concentration increases with depth (often with a sharp halocline boundary), declines horizontally with distance from the sea, and varies with tides and rainfall percolation. Tidal connections result in suck and blow phases of water movement that diminish with increasing stratification of the water column and increasing distance from the sea.  Bedrock porosity influences infiltration of fresh groundwater, and hence salinity gradients. Temperatures are moderate but increase and become less variable with depth. Dissolved oxygen declines with depth.
+
 
 # Distribution
 
-Common in landscapes with urban or industrial infrastructure including water supply and sewerage reticulation systems, hydroelectricity, irrigation and other intensive agricultural industries.
+
+Scattered worldwide, mostly in the northern hemisphere in limestones, basalt flows and more rarely other lithic substrates.
+
 
 ## Map details
 
-Freshwater ecoregions (Abell et al. 2008) containing occurrences of Water pipes and subterranean canals were identified by consulting available ecoregion descriptions (http://www.feow.org/),   maps of irrigation and other water infrastructure, and expertise of authors. Due to uncertainty and limited verification, all inferred occurrences are shown in yellow
+Indicative distributions of Anchialine caves were based on mapped areas of carbonate rock outcrop (Williams & Ting Fong 2016) and lava flows intersecting with the coast.
 
 ## References
 ### Text references
-* Douterelo I, Sharpe RL, Boxall JB (2013) Influence of hydraulic regimes on bacterial community structure and composition in an experimental drinking water distribution system. Water Research 47, 503-516.
+* Iliffe TM (2000) Ancialine cave ecology. In: Subterranean ecosystems (Eds. H Wilkens, DC Culver, WF Humphreys), pp59-76. Ecosystems of the world vol. 30. Elsevier, Amsterdam. 
 ### Map References
-* Abell R, Thieme ML, Revenga C, Bryer M, Kottelat M, Bogutskaya N, Coad B, Mandrak N, Contreras Balderas S, Bussing W, Stiassny MLJ, Skelton P, Allen GR, Unmack P, Naseka A, Ng R, Sindorf N, Robertson J, Armijo E, Higgins JV, Heibel TJ, Wikramanayake E, Olson D, López HL, Reis RE, Lundberg JG, Sabaj Pérez MH, Petry P (2008) Freshwater ecoregions of the world: A new map of biogeographic units for freshwater biodiversity conservation, BioScience 58: 403–414.
+* Williams P, Ting Fong Y (2016) World map of carbonate rock outcrops v3.0. The University of Auckland, Auckland. [https://www.fos.auckland.ac.nz/our_research/karst/]
+
+ ---
+name: SM1.1 Anchialine caves
+biome: SM1 Subterranean tidal systems
+realm: Marine
+code: SF2.1
+biomecode: SF2
+contributors: DA Keith
+---
+
+# Ecological traits
+
+
+These systems are bodies of saline or brackish waters with subterranean connections to the sea and limited exposure to open air. Virtually all anchialine biota are marine in origin, hence these caves have a larger and more diverse species pool than underground streams and pools. The trophic network is truncated and dominated by heterotrophs (scavenging and filter-feeding detritivores and their predators), with photosynthetic primary producers and herbivores only present where sinkholes connect caves to the surface and sunlight. Productivity is limited by scarcity of light and food, but less so than insular freshwater subterranean systems (S2.1) due to influx of marine detritus and biota. The biota include planktonic bacteria, protozoans, annelids, crustaceans and fish. A number of these are anchialine obligates that inhabit locations deep within the caves, with marine biota increasing in frequency with proximity to the sea connection. Sponges and hydroids, for example, occur in strongly tidal cave waters. Distinctive traits of the obligates that reflect selection under darkness and food scarcity include varying degrees of eye loss and depigmentation, increased tactile and chemical sensitivity, reproduction with few large eggs, long life spans, slow metabolism and growth rates. Some biota have close relatives in deep ocean systems, including shrimps that retain red pigmentation in both systems.
+
+
+# Key-ecological-drivers
+
+
+Anchialine caves derive from seawater penetration into faults, fractures and lava tubes, and sea-level rise into limestone caves formed by solution. Cave waters are characterised by an absence or scarcity of light, low food abundance and strong salinity gradients. Salt concentration increases with depth (often with a sharp halocline boundary), declines horizontally with distance from the sea, and varies with tides and rainfall percolation. Tidal connections result in suck and blow phases of water movement that diminish with increasing stratification of the water column and increasing distance from the sea.  Bedrock porosity influences infiltration of fresh groundwater, and hence salinity gradients. Temperatures are moderate but increase and become less variable with depth. Dissolved oxygen declines with depth.
+
+
+# Distribution
+
+
+Scattered worldwide, mostly in the northern hemisphere in limestones, basalt flows and more rarely other lithic substrates.
+
+
+## Map details
+
+Indicative distributions of Anchialine caves were based on mapped areas of carbonate rock outcrop (Williams & Ting Fong 2016) and lava flows intersecting with the coast.
+
+## References
+### Text references
+* Iliffe TM (2000) Ancialine cave ecology. In: Subterranean ecosystems (Eds. H Wilkens, DC Culver, WF Humphreys), pp59-76. Ecosystems of the world vol. 30. Elsevier, Amsterdam. 
+### Map References
+* Williams P, Ting Fong Y (2016) World map of carbonate rock outcrops v3.0. The University of Auckland, Auckland. [https://www.fos.auckland.ac.nz/our_research/karst/]
 

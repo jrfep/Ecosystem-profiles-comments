@@ -44,4 +44,14 @@ Your e-mail : <input type="email" name="email"><br/>
 
 
 <p>We are seeking specialist comment from ecosystem experts. If you are interested in participating, we will request details of qualifications, link to profesional profiles (ORCID, google scholar, or similar) and affiliation, as well as area of expertise.</p>
+
+<h1>Navigate through the Realms</h1>
+
+<ul>
+  {% for Realm in site.Realms %}
+    <li>
+      <h4><a href="Realms/{{ Realm.name }}">{{ Realm.name }}</a></h4>
+    </li>
+  {% endfor %}
+</ul>
 </div>

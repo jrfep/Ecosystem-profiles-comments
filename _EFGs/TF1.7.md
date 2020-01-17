@@ -1,11 +1,10 @@
 ---
-short_name: TF1.7 Boreal/temperate fens
 name: TF1.7 Boreal and temperate fens
 biome: TF1 Palustrine wetlands
 realm: Freshwater/Terrestrial
 code: TF1.7
 biomecode: TF1
-contributors: DA KeithRT KingsfordF EsslLJ JacksonT Tahvanainen
+contributors: DA Keith / RT Kingsford / F Essl / LJ Jackson / T Tahvanainen
 ---
 
 # Ecological traits
@@ -21,7 +20,12 @@ Moisture inputs (precipitation, seepage and surface inflow) exceed outputs (evap
 Extensive across boreal-subarctic latitudes and cool temperate regions, especially mountains. Very restricted in the southern hemisphere.
 
 ## Map details
+
+Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurrences of each ecosystem functional group were identified by consulting available ecoregion descriptions (https://www.worldwildlife.org/biome-categories/terrestrial-ecoregions),  global and regional reviews , maps of relevant ecosystems, and expertise of authors.
+
 ## References
 ### Text references
+* Godwin KS., Shallenberger JP, Leopold DJ, Bedford BL (2002) Linking landscape properties to local hydrogeologic gradients and plant species occurrence in New York fens: a hydrogeologic setting (HGS) framework. Wetlands. 22: 722–737. / Wieder RK, Vitt DH (2006). Boreal peatland ecosystems. Ecological studies vol. 188. Springer-Verlag, Berlin.
 ### Map References
+* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 67: 534–545.
 
