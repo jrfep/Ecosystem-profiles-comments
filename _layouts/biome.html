@@ -59,7 +59,7 @@ Strongly disagree <input type="range" name="diagram" min="0" max="10" step="1">S
 
 {{ content }}
 
-<h2>Biomes</h2>
+<h2>Ecosystem functional groups in this biome</h2>
 <ul>
   {% assign filtered_posts = site.EFGs | where: 'biomecode', page.code %}
   {% for post in filtered_posts %}
