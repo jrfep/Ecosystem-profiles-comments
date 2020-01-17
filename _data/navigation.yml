@@ -1,10 +1,10 @@
 - name: Home
-  link: /
+  link: /Ecosystem-profiles-comments/
 - name: About
-  link: /about.html
+  link: /Ecosystem-profiles-comments/about.html
 - name: Realms
-  link: /Realms.html
+  link: /Ecosystem-profiles-comments/Realms.html
 - name: Biomes
-  link: /Biomes.html
+  link: /Ecosystem-profiles-comments/Biomes.html
 - name: Functional Groups
-  link: /EFGs.html
+  link: /Ecosystem-profiles-comments/EFGs.html
