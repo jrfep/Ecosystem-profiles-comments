@@ -2,6 +2,4 @@
 name: Freshwater
 ---
 
-# Freshwater realm
-
-Here comes a summary
+The *Freshwater Realm* includes flowing and standing waterbodies, wetlands and transitional waters.

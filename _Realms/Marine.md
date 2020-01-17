@@ -2,6 +2,4 @@
 name: Marine
 ---
 
-# Marine realm
-
-Here comes a summary
+The *Marine Realm* includes ocean waters, marine shelf, sea floors, transitional waters, and shoreline systems.

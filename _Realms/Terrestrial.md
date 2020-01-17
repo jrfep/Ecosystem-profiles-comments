@@ -2,6 +2,4 @@
 name: Terrestrial
 ---
 
-# Terrestrial realm
-
-Here comes a summary
+The **Terrestrial realm** includes different types of land vegetation, as well as deserts and cryogenic systems, some wetlands and shoreline systems.

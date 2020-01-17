@@ -50,7 +50,7 @@ Your e-mail : <input type="email" name="email"><br/>
 <ul>
   {% for Realm in site.Realms %}
     <li>
-      <h4><a href="Realms/{{ Realm.name }}">{{ Realm.name }}</a></h4>
+      <a href="Realms/{{ Realm.name }}">{{ Realm.name }}</a>
     </li>
   {% endfor %}
 </ul>
