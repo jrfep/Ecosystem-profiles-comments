@@ -1,1 +1,29 @@
 theme: jekyll-theme-dinky
+collections:
+  Realms:
+    output: true
+  Biomes:
+    output: true
+  EFGs:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "realms"
+    values:
+      layout: "realm"
+  - scope:
+      path: ""
+      type: "biomes"
+    values:
+      layout: "biome"
+  - scope:
+      path: ""
+      type: "EFGs"
+    values:
+      layout: "EFG"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
