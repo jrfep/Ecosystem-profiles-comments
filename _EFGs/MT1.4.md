@@ -1,5 +1,5 @@
 ---
-name: MT1.4 Boulder/cobble shores / MT1.4 Boulder and cobble shores
+name: MT1.4 Boulder and cobble shores
 biome: MT1 Shoreline systems
 realm: Marine/Terrestrial
 code: MT1.4
@@ -28,4 +28,3 @@ Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shor
 * Altieri AH, Silliman BR, Bertness MD (2007) Hierarchical organization via a facilitation cascade in intertidal cordgrass bed communities. The American Naturalist 169: 195-206. / Scott GAM (1963) The ecology of shingle beach plants.  Journal of Ecology 51: 517-527..
 ### Map References
 * Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583. / Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
-
