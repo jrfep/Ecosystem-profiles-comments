@@ -2,30 +2,36 @@
 <form action="https://smartforms.dev/submit/5e20e9c5d2b1f304f0563ae2" method="POST">
   <h3>Step 2: Review this profile</h3>
   <h4>Contact information</h4>
- <input type="hidden" name="EFG" value="{{ page.name }}">
- Your name: <input type="text" name="name"><br/>
-Your affiliation: <input type="text" name="affiliation">
-   <h4>Review each section</h4>
-   <div style="padding: 3px;">
-  <b>Ecological traits</b> <br/>
-  Uninformative <input type="range" name="ET-qual" min="0" max="10" step="1"> Very informative<br/>
-     <textarea rows=1 cols=50 name="ET-comments">Add your comments and suggestions.</textarea><br/> </div>
-     <div style="padding: 3px;">
-    <b>Key ecological drivers</b> <br/>
+  <input type="hidden" name="EFG" value="{{ page.name }}">
+  Your name: <input type="text" name="name"><br/>
+  Your affiliation: <input type="text" name="affiliation">
+
+  <h4>Ecological traits</h4>
+  <div style="padding: 3px;">
+    Uninformative <input type="range" name="ET-qual" min="0" max="10" step="1"> Very informative<br/>
+    <textarea rows=1 cols=50 name="ET-comments">Add your comments and suggestions.</textarea><br/>
+  </div>
+  <h5>Key ecological drivers</h5>
+  <div style="padding: 3px;">
     Uninformative <input type="range" name="KED-qual" min="0" max="10" step="1"> Very informative<br/>
-       <textarea rows=1 cols=50 name="KED-comments">Add your comments and suggestions.</textarea><br/> </div>
-       <div style="padding: 3px;">
-      <b>Diagramatic assembly model</b> <br/>
-      Uninformative <input type="range" name="DAM-qual" min="0" max="10" step="1"> Very informative<br/>
-         <textarea rows=1 cols=50 name="DAM-comments">Add your comments and suggestions.</textarea><br/> </div>
-         <div style="padding: 3px;">
-        <b>Distribution and map</b> <br/>
-        Uninformative <input type="range" name="MAP-qual" min="0" max="10" step="1"> Very informative<br/>
-           <textarea rows=1 cols=50 name="MAP-comments">Add your comments and suggestions.</textarea><br/> </div>
-<!--//
-   <h3>Your suggestions</h3>
-   <textarea rows=3 cols=50 name="suggestions">Add your comments and suggestions.</textarea><br/>
-   <textarea rows=2 cols=50 name="references">Suggest additional references.</textarea><br/>
-//-->
+    <textarea rows=1 cols=50 name="KED-comments">Add your comments and suggestions.</textarea><br/>
+  </div>
+
+  <b>Diagramatic assembly model</b> <br/>
+
+  <div style="padding: 3px;">
+    Uninformative <input type="range" name="DAM-qual" min="0" max="10" step="1"> Very informative<br/>
+    <textarea rows=1 cols=50 name="DAM-comments">Add your comments and suggestions.</textarea><br/>
+  </div>
+  <h5>Distribution and map</h5>
+  <div style="padding: 3px;">
+    Uninformative <input type="range" name="MAP-qual" min="0" max="10" step="1"> Very informative<br/>
+    <textarea rows=1 cols=50 name="MAP-comments">Add your comments and suggestions.</textarea><br/>
+  </div>
+    <!--//
+          <h3>Your suggestions</h3>
+          <textarea rows=3 cols=50 name="suggestions">Add your comments and suggestions.</textarea><br/>
+          <textarea rows=2 cols=50 name="references">Suggest additional references.</textarea><br/>
+          //-->
   <button type="submit">Send</button>
 </form>
