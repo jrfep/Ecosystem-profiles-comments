@@ -27,9 +27,11 @@ Aphotic	A zone where light intensity is too low to support photosynthesis
 # Notes
 ## Productivity
  Descriptive profiles use ordinal descriptors (high, medium and low)  of productivity, i.e. Net Primary Productivity, unless otherwise state.  For terrestrial and transitional realms, these descriptors are based on estimates from an ensemble of global vegetation models (Cramer et al. 1999; Kicklighter et al. 1999; Huston & Wolverton 2009). For marine surface systems, they are based on estimates of chlorophyll a concentration for upper (Sarmiento et la. 2004; Huston & Wolverton 2009):
-> High: >2000 g dry mass m-2.yr-1 for terrestrial and transitional ecosystems; >8 mg.m-3 chlorophyll a concentration for marine
-> Medium: 500 – 2000 g dry mass m-2.yr-1 for terrestrial and transitional ecosystems; 0.1 – 8  mg.m-3 chlorophyll a concentration for marine
-> Low: <500 g dry mass m-2.yr-1 for terrestrial and transitional ecosystems; <0.1 mg.m-3 chlorophyll a concentration for marine.
+ | Ordinal descriptor |	Terrestrial and transitional | Marine |
+ |---|---|---|
+| High | >2000 g dry mass m-2.yr-1 | >8 mg.m-3 chlorophyll a concentration |
+| Medium | 500 – 2000 g dry mass m-2.yr-1  | 0.1 – 8  mg.m-3 chlorophyll a concentration  |
+| Low | <500 g dry mass m-2.yr-1  | <0.1 mg.m-3 chlorophyll a concentration  |
 
 ## Leaf size
 
