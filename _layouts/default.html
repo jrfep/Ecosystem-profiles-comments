@@ -28,7 +28,7 @@
             {% endif %}
 <p class="header">
   {% include navigation.html %}
-    {% if page.section contains "browse" %}
+    {% if page.realm  %}
       {% include navigation1.html %}
     {% endif %}
   {% include navigation2.html %}
@@ -51,7 +51,7 @@
 
       <footer>
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-        <p><small> {{ page.name }} : {{ page.section }} </small></p>
+        <p><small> {{ page.name }} : {{ page.section }} : {{ page.realm }} </small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
