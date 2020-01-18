@@ -27,10 +27,16 @@
         </ul>
             {% endif %}
 <p class="header">
+  {% if page.name contains "index.html" %}
+{% include navigation1.html %}
+  {% elsif page.name contains "about.md" %}
+{% include navigation2.html %}
+ {% else %}
 {% include navigation.html %}
+ {% endif %}
 </p>
         {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="buttons github" href="{{ site.github.repository_url }}">{{ site.github.owner_name }}</a></p>
+          <p class="header">This site is maintained by <a class="buttons github" href="{{ site.github.repository_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
