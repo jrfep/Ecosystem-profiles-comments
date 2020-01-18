@@ -1,6 +1,6 @@
-- name: Home
-  link: /Ecosystem-profiles-comments/
-- name: About
-  link: /Ecosystem-profiles-comments/about.html
-- name: Biomes
-  link: /Ecosystem-profiles-comments/Biomes.html
+- name: Profile structure
+  link: /Ecosystem-profiles-comments/Profile-structure.html
+- name: Glossary
+  link: /Ecosystem-profiles-comments/Glossary.html
+- name: References
+  link: /Ecosystem-profiles-comments/General-references.html

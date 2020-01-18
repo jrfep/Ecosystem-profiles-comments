@@ -1,0 +1,37 @@
+---
+layout: default
+title: General references
+---
+
+# General references
+
+* Abell R, Thieme ML, Revenga C, Bryer M, Kottelat M, Bogutskaya N, Coad B, Mandrak N, Contreras Balderas S, Bussing W, Stiassny MLJ, Skelton P, Allen GR, Unmack P, Naseka A, Ng R, Sindorf N, Robertson J, Armijo E, Higgins JV, Heibel TJ, Wikramanayake E, Olson D, López HL, Reis RE, Lundberg JG, Sabaj Pérez MH, Petry P (2008)Freshwater ecoregions of the world: A new map of biogeographic units for freshwater biodiversity conservation, BioScience 58: 403–414.
+* Beck MW, Brumbaugh RD, Airoldi L, Carranza A,. Coen LD, Crawford C, Defeo O, Edgar GJ, Handcock B, Kay MC, Lenihan HS, Luckenbach M, Toropova CL, Zhang G, Guo X (2011) Oyster reefs at risk and recommendations for conservation, restoration, and management. BioScience 61: 107-116.
+* Becker JJ, Sandwell DT, Smith WHF, Braud J, Binder B, Depner J, Fabre D, Factor J, Ingalls S, Kim S-H, Ladner R, Marks K, Nelson S, Pharaoh A, Trimmer R, Von Rosenberg J, Wallace G, Weatherall P (2009) Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS, Marine Geodesy 32: 355-371.
+* Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) & UNESCO (2012) River and Groundwater Basins of the World 1 : 50 000 000 – Hannover, Paris
+* Cinzano P, Falchi F, C. D. Elvidge CD (2019). The world atlas of the artificial night sky brightness. Copyright Royal Astronomical Society. Reproduced from the Monthly Notices of the RAS by permission of Blackwell Science. (University of Padova & NOAA National Geophysical Data Center, Boulder) http://www.inquinamentoluminoso.it/worldatlas/pages/fig1.htm
+* Cramer W, Kicklighter DW, and Bondeau A, the Participants of the Potsdam NPP Model Intercomparison (1999) Comparing global models of terrestrial net primary productivity (NPP): overview and key results. Global Change Biology 5(Supplement 1):1–15.
+* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 67: 534–545.
+* Fetterer F, Knowles K, Meier WN, Savoie M, Windnagel AK (2017) Sea Ice Index, Version 3. Monthly Sea Ice Extent. Boulder, Colorado USA. NSIDC: National Snow and Ice Data Center. https://doi.org/10.7265/N5K072F8. [updated daily, Accessed September 2019].
+* GentryRR, Froehlich HE, Grimm D, Kareiva P, Parke M, Rust M, Gaines SD, Halpern BS (2017) Mapping the global potential for marine aquaculture. Nature Ecology & Evolution 1: 1317–1324.
+* Giri C, Ochieng E, Tieszen LL, Zhu Z, Singh A, Loveland T, Masek J, Duke N (2011) Status and distribution of mangrove forests of the world using earth observation satellite data. Global Ecology and Biogeography 20: 154-159.
+* Goodbred SL, Saito Y (2012) Tide-dominated deltas. In: Principles of tidal sedimentology (Eds. RA Davis, RW Dalrymple), pp129-149. Springer, Berin.
+* Green EP, Short FT (2003) World atlas of seagrasses. UNEP World Conservation Monitoring Centre. University of California Press, Berkeley. [map data from marine/WCMC_013_014_Seagrass_WMS]
+* Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
+* Huston MA, Wolverton S (2009) The global distribution of net primary production: resolving the paradox. Ecological monographs 79: 343-377.
+* Institute for Marine Remote Sensing, University of South Florida (IMaRS/USF), Institut de Recherche pour le Développement (IRD), UNEP-WCMC, The WorldFish Center, and WRI (2011) Global Coral Reefs composite dataset compiled from multiple sources for use in the Reefs at Risk Revisited project incorporating products from the Millennium Coral Reef Mapping Project prepared by IMaRS/USF and IRD.
+* Kicklighter DW, Bondeau A, Schloss AL, the Participants of the Potsdam NPP Model Intercomparison (1999) Comparing global models of terrestrial net primary productivity (NPP): global pattern and differentiation by major biomes. Global Change Biology 5(Supplement 1):16–24.
+* Klein Goldewijk K, van Drecht G (2006) HYDE 3: current and historical population and land cover. Integrated modelling of global environmental change. An overview of IMAGE 2.4 (Eds AF Bouwman, T Kram K Klein Goldewijk), pp. 93–111. Netherlands Environmental Assessment Agency (MNP). Bilthoven, The Netherlands.
+* Lehner B, Döll P (2004) Development and validation of a global database of lakes,reservoirs and wetlands. Journal of Hydrology 296: 1–22.
+* McOwen CJ, Weatherdon LV, van Bochove JW, Sullivan E, Blyth S, Zockler C, Stanwell-Smith D, Kingston N, Martin CS, Spalding M, Fletcher S (2017) A global map of saltmarshes. Biodiversity Data Journal 5: e11764. [https://doi.org/10.3897/BDJ.5.e11764]
+* Monfils R (2004) The global risk of marine pollution from WWII shipwrecks:  Examples from the Seven Seas. Sea Australia, Civic. [http://www.seaaustralia.com/documents/The%20Global%20Risk%20of%20Marine%20Pollution%20from%20WWII%20Shipwrecks-final.pdf]
+* Monfreda C, Ramankutty N, Foley JA (2008) Farming the planet: 2. Geographic distribution of crop areas, yields, physiological types, and net primary production in the year 2000. Global Biogeochemical Cycles 22: GB1022.
+* Mucina L (2019) Biome: evolution of a crucial ecological and biogeographical concept. New Phytologist 222: 97-114.
+* Murray NJ, Phinn SR, DeWitt M, Ferrari R, Johnston R, Lyons MB, Clinton N, Thau D, Fuller RA (2019) The global distribution and trajectory of tidal flats. Nature 565: 222–225.
+* Olson, DM, Dinerstein E, Wikramanayake ED, Burgess ND, Powell GVN, et al. (2001) Terrestrial Ecoregions of the World: A New Map of Life on Earth. Bioscience 51: 933-938.
+* Pérez-Harguindeguy N, Díaz S, Garnier E, Lavorel S, Poorter H, Jaureguiberry P, Bret-Harte MS, Cornwell WK, Craine JM, Gurvich DE, Urcelay C, Veneklaas EJ, Reich PB, Poorter L, Wright IJ, Ray P, Enrico L, Pausas JG, de Vos AC, Buchmann N, Funes G, Quétier F, Hodgson JG, Thompson K, Morgan HD, ter Steege H, van der Heijden MGA, Sack L, Blonder B, Poschlod P, Vaieretti MV, Conti G, Staver AC, Aquino S, Cornelissen JHC (2013) New handbook for standardised measurement of plant functional traits worldwide. Australian Journal of Botany 61, 167-234.
+* Raunkiaer C (1934) The use of leaf size in biological plant geography", in A.G.T. H. Gilbert-Carter, and A. Fausbøll, The life forms of plants and statistical biogeography, Oxford: Clarendon, pp. 368–378.
+* Sarmiento JL, Gruber N, Brzezinski MA, Dunne JP (2004) High-latitude controls of thermocline nutrients and low latitude biological productivity. Nature 427: 56–60.
+* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.
+* Steneck RS, Graham MH, Bourque BJ, Corbett D, Erlandson JM, Estes JA, Tegner MJ (2002) Kelp forest ecosystems - biodiversity, stability, resilience and future. In: Environmental Conservation 29: 436–459.
+* Williams P, Ting Fong Y (2016) World map of carbonate rock outcrops v3.0. The University of Auckland, Auckland. [https://www.fos.auckland.ac.nz/our_research/karst/]

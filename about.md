@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # Contact
 This page is maintained by [José R. Ferrer-Paris](https://github.com/jrfep) and David A. Keith.
 
