@@ -28,9 +28,9 @@ Deepwater coastal systems may exceed 300 km in length and 2000 m in depth. Almos
 Historically or currently glaciated coastlines at polar and cool temperate latitudes.
 
 
-## Map details
+{% include MAP.html %}
 
-Marine ecoregions (Spalding et al. 2008) containing major or minor occurrences of each ecosystem functional group were identified by consulting global and regional reviews, maps of relevant ecosystems, and expertise of authors. Marine ecoregions containing Deepwater inlets were clipped to the marine ‘shelf’ base layer as mapped by Harris et al. (2014).
+**Map details**: Marine ecoregions (Spalding et al. 2008) containing major or minor occurrences of each ecosystem functional group were identified by consulting global and regional reviews, maps of relevant ecosystems, and expertise of authors. Marine ecoregions containing Deepwater inlets were clipped to the marine ‘shelf’ base layer as mapped by Harris et al. (2014).
 
 ## References
 

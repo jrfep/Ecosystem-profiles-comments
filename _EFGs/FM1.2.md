@@ -25,13 +25,12 @@ Characteristics of these coastal systems are governed by the relative dominance 
 Coastlines of most landmasses, but rarely on arid or polar coasts.
 
 
-## Map details
+{% include MAP.html %}
 
-Marine ecoregions (Spalding et al. 2008) containing major or minor occurrences of each ecosystem functional group were identified by consulting global and regional reviews, maps of relevant ecosystems, and expertise of authors. Map was clipped to the terrestrial portion of the marine ecoregion due to their influence from coastal catchments.
+**Map details**: Marine ecoregions (Spalding et al. 2008) containing major or minor occurrences of each ecosystem functional group were identified by consulting global and regional reviews, maps of relevant ecosystems, and expertise of authors. Map was clipped to the terrestrial portion of the marine ecoregion due to their influence from coastal catchments.
 
 ## References
 ### Text references
 * Gillanders BM (2007) Linking terrestrial-freshwater and marine environments: an example from estuarine systems. Chapter 11 in Connell, SD and Gillanders, BM (eds) Marine ecology. Oxford University Press, Melbourne.
 ### Map References
 * Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.
-

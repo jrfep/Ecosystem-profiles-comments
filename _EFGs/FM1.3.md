@@ -19,13 +19,12 @@ These are shallow coastal water bodies that are intermittently connected with th
 
 Wave-dominated coastlines worldwide, but prevalent along microtidal to low mesotidal mid-latitude coastlines with high interannual variability in rainfall and wave climate. Intermittent Closed Open Lakes  & Lagoons (ICOLLs) are most prevalent in Australia (21% global ICOLLs), South Africa (16%) and Mexico (16%).
 
-## Map details
+{% include MAP.html %}
 
-Marine ecoregions (Spalding et al. 2008) containing major or minor occurrences of each ecosystem functional group were identified by consulting global and regional reviews, maps of relevant ecosystems, and expertise of authors. Map was clipped to the terrestrial portion of the marine ecoregion due to their influence from coastal catchments.
+**Map details**: Marine ecoregions (Spalding et al. 2008) containing major or minor occurrences of each ecosystem functional group were identified by consulting global and regional reviews, maps of relevant ecosystems, and expertise of authors. Map was clipped to the terrestrial portion of the marine ecoregion due to their influence from coastal catchments.
 
 ## References
 ### Text references
 * Maher W, Mikac KM, Foster S, Spooner D, Williams D (2011) Form and functioning of micro size Intermittent Closed Open Lake Lagoons (ICOLLs) in NSW, Australia, pp. 119-151 In: Friedman AG (ed) Lagoons: Biology, management and environmental impact. Nova Science Publisher. New York. / McSweeney SL, Kennedy DM, Rutherfurd ID, Stout JC (2017) Intermittently Closed/Open Lakes and Lagoons: Their global distribution and boundary conditions. Geomorphology 292:142-52.
 ### Map References
 * Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.
-
