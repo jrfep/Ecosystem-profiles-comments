@@ -23,13 +23,17 @@ These are depositional environments highly influenced by sediment supply and the
 
 Muddy shorelines occur along low-energy coastlines, in estuaries and embayments where the velocity of water is so low that the finest particles can settle to the bottom. In warmer regions, muddy shorelines compete with colonising mangroves.
 
-{% capture map_det %}  {% endcapture %}
+{% capture map_det %} The indicative map of Muddy shorelines was based on tidal flats mapped by Murray et al. (2019). {% endcapture %}
 {% include MAP.html %}
 
-The indicative map of Muddy shorelines was based on tidal flats mapped by Murray et al. (2019).
-
 ## References
+
 ### Text references
-* Murray N et al (2019) The global distribution and trajectory of tidal flats. Nature 656: 222-225. / Peterson CH (1991) Intertidal zonation of marine invertebrates in sand and mud. American Scientist 79:236-249. / Wilson WH (1990) Competition and predation in marine soft-sediment communities. Annual Review of Ecology and Systematics 21:221-41.
+
+* Murray N et al (2019) The global distribution and trajectory of tidal flats. Nature 656: 222-225.
+* Peterson CH (1991) Intertidal zonation of marine invertebrates in sand and mud. American Scientist 79:236-249.
+* Wilson WH (1990) Competition and predation in marine soft-sediment communities. Annual Review of Ecology and Systematics 21:221-41.
+
 ### Map References
+
 * Murray NJ, Phinn SR, DeWitt M, Ferrari R, Johnston R, Lyons MB, Clinton N, Thau D, Fuller RA (2019) The global distribution and trajectory of tidal flats. Nature 565: 222–225.

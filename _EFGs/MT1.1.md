@@ -23,13 +23,17 @@ These intertidal benthic systems, composed of sessile and mobile species, are hi
 
 Found globally at the margins of oceans, where waves have eroded softer rocks leaving only harder rocks. They are the most common ecosystems on open high-energy coasts and also occur on many sheltered and enclosed coastlines, such as sea lochs, fjords and rias.
 
-{% capture map_det %}  {% endcapture %}
+{% capture map_det %} Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shorelines and Boulder and cobble shorelines were identified by consulting regional substrate maps and expertise of authors. These were clipped to the extent of the marine ‘shelf’ base layer as mapped by Harris et al. (2014). {% endcapture %}
 {% include MAP.html %}
 
-Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shorelines and Boulder and cobble shorelines were identified by consulting regional substrate maps and expertise of authors. These were clipped to the extent of the marine ‘shelf’ base layer as mapped by Harris et al. (2014).
-
 ## References
+
 ### Text references
-* Connell JH (1972) Community interactions on marine rocky intertidal shores. Annual Review of Ecology and Systematics 3:169-192. / Thompson RC, Crowe TP, Hawkins SJ (2002) Rocky intertidal communities: past environmental changes, present status and predictions for the next 25 years. Environmental Conservation 29:168-91.
+
+* Connell JH (1972) Community interactions on marine rocky intertidal shores. Annual Review of Ecology and Systematics 3:169-192.
+* Thompson RC, Crowe TP, Hawkins SJ (2002) Rocky intertidal communities: past environmental changes, present status and predictions for the next 25 years. Environmental Conservation 29:168-91.
+
 ### Map References
-* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583. / Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
+
+* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.
+* Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.

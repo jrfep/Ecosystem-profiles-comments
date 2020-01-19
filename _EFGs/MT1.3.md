@@ -23,13 +23,17 @@ Physical factors are generally more important ecological drivers than biological
 
 Sandy shores are most extensive at temperate latitudes, accounting for 31% of the ice-free global coastline, including 66% of the African coast and 23% of the European coast.
 
-{% capture map_det %}  {% endcapture %}
+{% capture map_det %} Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shorelines and Boulder and cobble shorelines were identified by consulting regional substrate maps and expertise of authors. These were clipped to the extent of the marine ‘shelf’ base layer as mapped by Harris et al. (2014). {% endcapture %}
 {% include MAP.html %}
 
-Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shorelines and Boulder and cobble shorelines were identified by consulting regional substrate maps and expertise of authors. These were clipped to the extent of the marine ‘shelf’ base layer as mapped by Harris et al. (2014).
-
 ## References
+
 ### Text references
-* Luijendijk A, Hagenaars G, Ranasinghe R, Baart F, Donchyts G, Aarninkhof S (2018) The State of the World’s Beaches. Scientific reports 2018: 8. / Schlacher TA, Schoeman DS, Dugan J, Lastra M, Jones A, Scapini F, McLachlan A. (2008) Sandy beach ecosystems: key features, sampling issues, management challenges and climate change impacts. Marine Ecology 29:70-90.
+
+* Luijendijk A, Hagenaars G, Ranasinghe R, Baart F, Donchyts G, Aarninkhof S (2018) The State of the World’s Beaches. Scientific reports 2018: 8.
+* Schlacher TA, Schoeman DS, Dugan J, Lastra M, Jones A, Scapini F, McLachlan A. (2008) Sandy beach ecosystems: key features, sampling issues, management challenges and climate change impacts. Marine Ecology 29:70-90.
+
 ### Map References
-* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583. / Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
+
+* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.
+* Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.

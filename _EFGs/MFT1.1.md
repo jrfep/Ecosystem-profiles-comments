@@ -22,20 +22,20 @@ River inflows structure the dynamic mosaics of coastal river deltas. Inflows dep
 
 {% include DAM.html %}
 
-
 # Distribution
 
 Continental margins where rivers connect the coast to high rainfall catchments, usually with high mountains in their headwaters.
 
-## Map details
-
-Point locations for major coastal deltas were mapped based on Fig. 1 in Goodbred & Saito (2012).
-
-{% capture map_det %}  {% endcapture %}
+{% capture map_det %} Point locations for major coastal deltas were mapped based on Fig. 1 in Goodbred & Saito (2012). {% endcapture %}
 {% include MAP.html %}
 
 ## References
+
 ### Text references
-* Bianchi TS, Allison MA (2009). Large-river delta-front estuaries as natural "recorders'' of global environmental change. Proceedings of the National Academy of Sciences of the USA 106:8085-8092. / Orton GJ, Reading G (1993) Variability of deltaic processes in terms of sediment supply, with particular emphasis on grain-size. Sedimentology 40:475-512.
+
+* Bianchi TS, Allison MA (2009). Large-river delta-front estuaries as natural "recorders'' of global environmental change. Proceedings of the National Academy of Sciences of the USA 106:8085-8092.
+* Orton GJ, Reading G (1993) Variability of deltaic processes in terms of sediment supply, with particular emphasis on grain-size. Sedimentology 40:475-512.
+
 ### Map References
+
 * Goodbred SL, Saito Y (2012) Tide-dominated deltas. In: Principles of tidal sedimentology (Eds. RA Davis, RW Dalrymple), pp129-149. Springer, Berin.

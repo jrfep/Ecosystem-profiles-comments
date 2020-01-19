@@ -23,13 +23,16 @@ Mangroves are physiologically intolerant of low temperatures, which excludes the
 
 Widely distributed along tropical and warm temperate coastlines of the world. Large-scale currents may prevent buoyant seeds from reaching some areas.
 
-{% capture map_det %}  {% endcapture %}
+{% capture map_det %} The indicative map for Intertidal forests and shrublands was based on mapping by Giri et al. (2011) summarised within a template of 1-degree grid cells. {% endcapture %}
 {% include MAP.html %}
 
-The indicative map for Intertidal forests and shrublands was based on mapping by Giri et al. (2011) summarised within a template of 1-degree grid cells.
-
 ## References
+
 ### Text references
-* Duke N, Ball M, Ellison J (1998) Factors influencing biodiversity and distributional gradients in mangroves. Global Ecology & Biogeography Letters 7:27-47. / Krauss KW, Lovelock CE, McKee KL, López-Hoffman L, Ewe SM, Sousa WP (2008) Environmental drivers in mangrove establishment and early development: a review. Aquatic Botany 89:105-27.
+
+* Duke N, Ball M, Ellison J (1998) Factors influencing biodiversity and distributional gradients in mangroves. Global Ecology & Biogeography Letters 7:27-47.
+* Krauss KW, Lovelock CE, McKee KL, López-Hoffman L, Ewe SM, Sousa WP (2008) Environmental drivers in mangrove establishment and early development: a review. Aquatic Botany 89:105-27.
+
 ### Map References
+
 * Giri C, Ochieng E, Tieszen LL, Zhu Z, Singh A, Loveland T, Masek J, Duke N (2011) Status and distribution of mangrove forests of the world using earth observation satellite data. Global Ecology and Biogeography 20: 154-159.
