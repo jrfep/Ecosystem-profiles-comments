@@ -26,7 +26,7 @@ The text identifies key ecological drivers that shape the ecological character o
 
 # Diagrammatic assembly models
 
-For each Ecosystem Functional Group, the generic ecosystem assembly model presented in the main text (Fig. 1) has been adapted to illustrate key ecological traits and assembly filters (drivers that shape ecosystem traits). Only the major features are shown and anthropogenic processes are only shown for anthropogenic functional groups (see below). Ecological traits are listed in green circles at centre, while drivers are identified in peripheral boxes (pale blue - resources, dark blue – ambient environmental factors that influence resource availability or uptake, red – environmental disturbance regimes, orange – biotic interactions, black – human activities). Connecting arrows show influences of, and interactions among drivers (only major connections shown, feedbacks generally not shown).
+For each Ecosystem Functional Group, the generic ecosystem assembly model <!--//presented in the main text (Fig. 1) //--> has been adapted to illustrate key ecological traits and assembly filters (drivers that shape ecosystem traits). Only the major features are shown and anthropogenic processes are only shown for anthropogenic functional groups (see below). Ecological traits are listed in green circles at centre, while drivers are identified in peripheral boxes (pale blue - resources, dark blue – ambient environmental factors that influence resource availability or uptake, red – environmental disturbance regimes, orange – biotic interactions, black – human activities). Connecting arrows show influences of, and interactions among drivers (only major connections shown, feedbacks generally not shown).
 
 # Indicative distribution maps
 
