@@ -18,6 +18,9 @@ Deepwater coastal inlets (mostly fjords) are semi-confined aquatic systems with 
 
 Deepwater coastal systems may exceed 300 km in length and 2000 m in depth. Almost all have glacial origins and many are fed by active glaciers. The ocean interface at the mouth of the inlets, strongly influenced by regional currents, interacts with large seasonal inputs of freshwater to the inner inlet and wind-driven advection to produce strong and dynamic spatial gradients in nutrients, salinity and organic carbon. Advection is critical to productivity and carrying capacity in the system. It drives water movement in the upper and lower layers of the water column in different directions and thus links the inlet waters with coastal water masses. Coastal currents also mediate upwelling and downwelling depending on their direction of flow. However, submerged glacial moraines or sills at the inlet mouth may limit marine mixing, which can be limited to seasonal episodes in spring and autumn. Depth gradients in light typically extend beyond the photic zone, and are exacerbated at high latitudes by seasonal variation in insolation and surface ice. Vertical fluxes also create strong depth gradients in nutrients, oxygen, dissolved organic carbon, salinity and temperature.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
 
 # Distribution
 
@@ -30,8 +33,11 @@ Historically or currently glaciated coastlines at polar and cool temperate latit
 Marine ecoregions (Spalding et al. 2008) containing major or minor occurrences of each ecosystem functional group were identified by consulting global and regional reviews, maps of relevant ecosystems, and expertise of authors. Marine ecoregions containing Deepwater inlets were clipped to the marine ‘shelf’ base layer as mapped by Harris et al. (2014).
 
 ## References
-### Text references
-* Salvanes AGV (2001) Review of ecosystem models of fjords; new insights of relevance to fisheries management. Sarsia 86:441-463. / Zaborska A, Włodarska-Kowalczuk M, Legeżyńska J et al. (2018) Sedimentary organic matter sources, benthic consumption and burial in west Spitsbergen fjords – Signs of maturing of Arctic fjordic systems? Journal of Marine Systems 180: 112–123.
-### Map References
-* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583. / Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
 
+### Text references
+
+* Salvanes AGV (2001) Review of ecosystem models of fjords; new insights of relevance to fisheries management. Sarsia 86:441-463. / Zaborska A, Włodarska-Kowalczuk M, Legeżyńska J et al. (2018) Sedimentary organic matter sources, benthic consumption and burial in west Spitsbergen fjords – Signs of maturing of Arctic fjordic systems? Journal of Marine Systems 180: 112–123.
+
+### Map References
+
+* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583. / Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
