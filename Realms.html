@@ -7,13 +7,11 @@ section: browse
 
 <p>Navigate through the realms to see the list of biomes. Transitional biomes are linked to two or three realms.</p>
 
-
 <ul>
   {% for Realm in site.Realms %}
     <li>
       <h3><a href="Realms/{{ Realm.name }}">{{ Realm.name }}</a></h3>
-      {% capture my_include %}{% include_relative _Realms/{{ Realm.name }}.md %}{% endcapture %}
-      {{ my_include | markdownify }}
+      {{ Realm.content | markdownify }}
     </li>
   {% endfor %}
 </ul>
