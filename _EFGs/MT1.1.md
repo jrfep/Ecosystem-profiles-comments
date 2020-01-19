@@ -15,6 +15,10 @@ These intertidal benthic systems, composed of sessile and mobile species, are hi
 
  Tides and waves are the key ecological drivers, producing resource availability and physical disturbance gradients vertically and horizontally, respectively. Across the vertical gradient of increasing aerial exposure, desiccation and temperature stress increases, time available for filter feeding decreases, and interactions with marine/terrestrial predators vary. The horizontal gradient of diminishing wave exposure from headlands to bays or inlets influences community composition and morphology. Many organisms rely on microhabitats formed from natural rock features (eg. crevices, depressions, rockpools) or habitat-forming species (e.g. canopy forming algae, mussels and oysters, barnacles) to persist in an environment that would otherwise exceed their environmental tolerances. Rocky shores are open systems and community structure can be influenced by larval supply, coastal upwelling, and also competition. Competition for space may limit the lower vertical distributions of some sessile species. Additionally, the limited space available for growth of marine primary producers can result in competition for food among grazers. Disturbances (i.e. storms) that free space can have a strong influence on community structure and diversity.
 
+ # Diagramatic assembly model
+
+ {% include DAM.html %}
+
 # Distribution
 
 Found globally at the margins of oceans, where waves have eroded softer rocks leaving only harder rocks. They are the most common ecosystems on open high-energy coasts and also occur on many sheltered and enclosed coastlines, such as sea lochs, fjords and rias.
@@ -28,4 +32,3 @@ Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shor
 * Connell JH (1972) Community interactions on marine rocky intertidal shores. Annual Review of Ecology and Systematics 3:169-192. / Thompson RC, Crowe TP, Hawkins SJ (2002) Rocky intertidal communities: past environmental changes, present status and predictions for the next 25 years. Environmental Conservation 29:168-91.
 ### Map References
 * Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583. / Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
-

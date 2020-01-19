@@ -15,6 +15,10 @@ Constructed sea walls, breakwaters, piers, docks, tidal canals and other coastal
 
 The substrate material influences the texture, chemistry and thermal properties of the surface. Artificial structures of wood, concrete, rock or steel have flat, uniform and vertical surfaces that limit niche diversity and exacerbate the inter-tidal gradients in desiccation and temperature. Ecologically engineered structures have more complex surfaces and ponds to enhance biodiversity and ecosystem function.  Structures may be located in high (breakwaters) or low (harbours) energy waters. Tides and waves are key drivers of onshore resource and kinetic energy gradients. Brackish water plumes from polluted stormwater and sewage overflows add allochthonous nutrients and organic carbon, and open ecological space exploited by invasive species introduced by shipping and ballast water. The structures are often located close to vectors for invasive species (e.g. transport hubs). Boat traffic and stormwater outflows cause erosion, bank instability, and maintain high turbidity in the water column. This limits photosynthesis by primary producers, but nutrient run-off may increase planktonic productivity. Maintenance regimes (e.g. regular scraping) reduce biomass and reset succession.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 Urbanised coasts through tropical and temperate latitudes, especially north and central America, Europe, north and south Asia.

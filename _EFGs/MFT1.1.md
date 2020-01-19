@@ -4,7 +4,7 @@ biome: MFT1 Brackish tidal systems
 realm: Marine/Freshwater/Terestrial
 code: MFT1.1
 biomecode: MFT1
-contributors: 
+contributors:
 ---
 
 # Ecological traits
@@ -17,6 +17,10 @@ Coastal river deltas are prograding depositional systems, shaped by freshwater f
 
 
 River inflows structure the dynamic mosaics of coastal river deltas. Inflows depend on catchment geomorphology and climate, and influence water levels, nutrient input, turbidity (hence light penetration), tidal amplitude, salinity gradients, temperature, dissolved oxygen and organic carbon. Rates of delta aggradation depend on interactions between riverine sedimentation and ocean currents, tides and wave action, which disperse sediment loads. Coastal geomorphology influences depth gradients. These processes result in complex, spatio-temporally variable mosaics of distributary channels, islands, floodplains, mangroves, subtidal mud plains and sand beds. Regimes of floods and storm surges driven by weather events in the river catchment and ocean, respectively, have a profound impact on patch dynamics.
+
+# Diagramatic assembly model
+
+{% include DAM.html %}
 
 
 # Distribution
@@ -34,4 +38,3 @@ Point locations for major coastal deltas were mapped based on Fig. 1 in Goodbred
 * Bianchi TS, Allison MA (2009). Large-river delta-front estuaries as natural "recorders'' of global environmental change. Proceedings of the National Academy of Sciences of the USA 106:8085-8092. / Orton GJ, Reading G (1993) Variability of deltaic processes in terms of sediment supply, with particular emphasis on grain-size. Sedimentology 40:475-512.
 ### Map References
 * Goodbred SL, Saito Y (2012) Tide-dominated deltas. In: Principles of tidal sedimentology (Eds. RA Davis, RW Dalrymple), pp129-149. Springer, Berin.
-

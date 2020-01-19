@@ -15,6 +15,10 @@ These low-productivity ecosystems include aquifers (underground layers of water-
 
 Groundwater ecosystems are characterised by a scarcity of nutrients, carbon, dissolved oxygen and free space, and an absence of light. Groundwater flow, pore size, interstitial biogeochemistry and hydrological conductivity to adjacent aquifers and surface waters determine ecosystem properties. Subsurface water residence times vary from days in shallow, well-connected, coarse-grained hyporheic systems to thousands of years in deep, poorly connected aquifers confined between impermeable rock strata. Disconnectivity promotes insularity and endemism, as well as reductive biogeochemical processes that influence availability of food and nutrients.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 Globally distributed. Map shows only the major groundwater basins by recharge rates.
@@ -27,5 +31,4 @@ Indicative maps of Groundwater aquifers were based on Bundesanstalt für Geowiss
 ### Text references
 * Danielopol DL, Griebler C, Gunatilaka A, Notenboom J (2003) Present state and future prospects for groundwater ecosystems. Environmental Conservation 30: 104-130. / Hancock PJ Boulton AJ, Humphreys WF (2005) Aquifers and hyporheic zones: towards an understanding of groundwater. Hydrogeology Journal 13: 98–111. / Struckmeier W, Richts A (2008) Groundwater resources of the world. BGR Hannover / UNESCO Paris.
 ### Map References
-* Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) & UNESCO (2012) River and Groundwater Basins of the World 1 : 50 000 000 – Hannover, Paris 
-
+* Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) & UNESCO (2012) River and Groundwater Basins of the World 1 : 50 000 000 – Hannover, Paris

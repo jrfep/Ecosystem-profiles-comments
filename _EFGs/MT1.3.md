@@ -15,6 +15,10 @@ Sandy shorelines include beaches, sand bars and spits. These intertidal systems 
 
 Physical factors are generally more important ecological drivers than biological factors on sandy shorelines. Particle size, wave and tidal regime together determine beach morphology, all of which influence the spatial and temporal availability of resources and niche diversity. Particle size is influenced by sediment sources as well as physical conditions and affects interstitial habitat structure. Wave action maintains substrate instability and abundant supply of oxygen through turbulence. Tides and currents influence dispersal of biota and regulate daily cycles of desiccation/hydration, as well as salinity.  Beach morphology ranges from narrow and steep (reflective) to wide and flat (dissipative), as sand becomes finer and waves and tides larger. Reflective beaches are accretional and more prevalent in the tropics; dissipative beaches are erosional and more common in temperate regions. Sands filter large volumes of seawater, with the volume greater on reflective than dissipative beaches. Beaches are linked to nearshore surf zones and coastal dunes through the storage, transport and exchange of sand. Sand transport is the highest in exposed surf zones and sand storage often the greatest in well-developed dunes.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 Sandy shores are most extensive at temperate latitudes, accounting for 31% of the ice-free global coastline, including 66% of the African coast and 23% of the European coast.

@@ -15,6 +15,10 @@ Mangroves are structural engineers of these systems and possess traits including
 
 Mangroves are physiologically intolerant of low temperatures, which excludes them from regions where mean air temperature of the coldest months is below 20°C, where the seasonal temperature range exceeds 10°C, or where ground frost occurs. Regional distributions are influenced by interactions among landscape position, rainfall, hydrology, sea level, sediment dynamics, subsidence, storm driven processes and disturbance by pests and predators. Rainfall and sediment supply from rivers and currents promote mangrove establishment and persistence, while waves and large tidal currents destabilise and erode mangrove substrates, mediating local-scale dynamism in ecosystem distribution. High rainfall reduces salinity stress and increases nutrient loading from adjacent catchments, while tidal flushing also regulates salinity.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 Widely distributed along tropical and warm temperate coastlines of the world. Large-scale currents may prevent buoyant seeds from reaching some areas.
@@ -28,4 +32,3 @@ The indicative map for Intertidal forests and shrublands was based on mapping by
 * Duke N, Ball M, Ellison J (1998) Factors influencing biodiversity and distributional gradients in mangroves. Global Ecology & Biogeography Letters 7:27-47. / Krauss KW, Lovelock CE, McKee KL, López-Hoffman L, Ewe SM, Sousa WP (2008) Environmental drivers in mangrove establishment and early development: a review. Aquatic Botany 89:105-27.
 ### Map References
 * Giri C, Ochieng E, Tieszen LL, Zhu Z, Singh A, Loveland T, Masek J, Duke N (2011) Status and distribution of mangrove forests of the world using earth observation satellite data. Global Ecology and Biogeography 20: 154-159.
-

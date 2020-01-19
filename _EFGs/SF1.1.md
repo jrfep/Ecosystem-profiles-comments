@@ -18,6 +18,10 @@ Subterranean streams, pools and aquatic voids are low-productivity systems devoi
 
 A large majority of caves form from chemical weathering of limestone, others include lava tunnels. Cave waters are characterised by the absence of light, low oxygen and nutrient availability, scarcity of food and low variability in temperature. Resource supply and biotic dispersal depend critically on connectivity with surface waters, flow velocity and turbulence. In the absence of light, surface-connected streams are major allochthonous sources of energy and nutrients. Disconnected epigenic or hypogenic systems are the most biologically insular and oligotrophic, and may also be limited by nutrient imbalance. These features promote insular evolution in stable conditions.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 
 # Distribution
 
@@ -34,4 +38,3 @@ Distributions of Underground streams and pools were based on mapped area of carb
 * Gibert J, Deharveng L (2002) Subterranean ecosystems: a truncation functional biodiversity. BioScience 52: 473-481.
 ### Map References
 * Williams P, Ting Fong Y (2016) World map of carbonate rock outcrops v3.0. The University of Auckland, Auckland. [https://www.fos.auckland.ac.nz/our_research/karst/]
-

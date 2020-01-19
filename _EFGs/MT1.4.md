@@ -15,6 +15,10 @@ These low-productivity, net heterotrophic systems are founded on unstable rocky 
 
 Particle size (e.g. cobbles vs boulders) and wave activity determine substrate mobility and hence the frequency of physical disturbance to biota. Ecosystem engineers may modify these relationships by stabilising the substratum. Cobble beaches are typically steep because waves easily flow through large interstices between coarse beach particles, reducing effects of backwash erosion. The permeability of cobble beaches leads to desiccation and heat stress at low tide along a gradient on the beach surface from the low shore to high intertidal. Desiccation stress is also extreme on boulder shores, playing a similar role in structuring communities as on rocky shores.  The extent of the fine sediment matrix present amongst cobbles, water supply (i.e. rainfall), and the frequency of physical disturbance all influence beach vegetation.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 Cobble beaches occur where rivers deliver large quantities of cobbles to the coast or where they are eroded from nearby coastal cliffs. They are most common in Europe, also occurring in Bahrain, North America and New Zealand's South Island.

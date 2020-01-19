@@ -15,6 +15,10 @@ Fens are peatland ecosystems dominated by hydrophytic grasses, sedges or forbs. 
 
 Moisture inputs (precipitation, seepage and surface inflow) exceed outputs (evapotranspiration, percolation, run-off) for extended periods, enabling these systems to function as landscape sponges. Seasonally low temperatures and/or frequent cloud cover limit evapotranspiration. Fens typically develop by paludification of shallow lakes or around springs and thus shallow standing water is frequently present. Such lakes may be abundant in post-glacial landscapes. Substrates are waterlogged, anaerobic, highly organic (usually >30% dry weight), slightly acidic or alkaline and rich in mineral nutrients. Minerotrophic water (inflow from catchments) provides significant nutrient subsidies that vary with catchment geology. Fires rarely occur.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 Extensive across boreal-subarctic latitudes and cool temperate regions, especially mountains. Very restricted in the southern hemisphere.
@@ -28,4 +32,3 @@ Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurr
 * Godwin KS., Shallenberger JP, Leopold DJ, Bedford BL (2002) Linking landscape properties to local hydrogeologic gradients and plant species occurrence in New York fens: a hydrogeologic setting (HGS) framework. Wetlands. 22: 722–737. / Wieder RK, Vitt DH (2006). Boreal peatland ecosystems. Ecological studies vol. 188. Springer-Verlag, Berlin.
 ### Map References
 * Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 67: 534–545.
-

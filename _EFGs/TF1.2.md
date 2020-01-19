@@ -15,6 +15,10 @@ These hydrophilic forests and scrubs have an open to closed tree or shrub canopy
 
 These forests occur on lowland flats, floodplains and riparian corridors. Seasonally and interannually variable water supply influences ecosystem dynamics. Allochthonous water and nutrient subsidies from upstream catchments supplement local resources and promote extension of floodplain forests and their biota into arid regions (‘green tongues’). Water movement is critical for connectivity and movement of biota. High energy floods in riparian corridors displace standing vegetation and woody debris, redistribute nutrients and create opportunities for recruitment. Low energy environments with slow drainage promote peat accumulation. Extreme drying and heat events may generate episodes of tree dieback and mortality. Fires may occur in depending on frequency of fire weather, ignition sources and landscape context.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 Temperate and subtropical floodplains and riparian zones worldwide.
@@ -28,4 +32,3 @@ Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurr
 *  Mac Nally R, Cunningham SC, Baker PJ, Horner GJ, Thomson JR (2011) Dynamics of Murray-Darling floodplain forests under multiple stressors: The past, present, and future of an Australian icon. Water Resources Research, 47, W00g05.
 ### Map References
 * Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 67: 534–545.
-

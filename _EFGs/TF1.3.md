@@ -19,6 +19,10 @@ These shallow permanently inundated freshwater systems wetlands lack woody veget
 These systems occur in several geomorphic settings, including lake shores, groundwater seeps, river floodplains and deltas, always in low energy depositional environments. Shallow but perennial inundation and low variability are maintained by frequent floods, lake waters, sometimes independently of local climate. This sustains high levels of water and nutrients, but also sustains substrate anoxia. Substrates are typically organic. Their texture varies, but silt and clay substrates are associated with high levels of phosphorous and nitrogen. Salinity is low, but maybe transitional where wetlands connect with brackish lagoons (FM1.2, FM1.3). Fires may  occur in some areas, but are not pervasive drivers of these systems.
 
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 
@@ -34,4 +38,3 @@ Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurr
 * Grace JB, Wetzel RG (1981) Habitat partitioning and competitive displacement in cattails (Typha): experimental field studies.  The American Naturalist 118:463-474.
 ### Map References
 * Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 67: 534–545.
-

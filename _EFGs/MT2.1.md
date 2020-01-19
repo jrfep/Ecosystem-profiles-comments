@@ -18,6 +18,10 @@ Relatively low productivity grasslands, shrublands and low forests on exposed co
 
 Desiccating winds promote an overall water deficit, and appreciable exposure to salinity due to aerosol influx and salt spray. Warm-mild temperatures are moderated by direct maritime influence. Although above the regular intertidal zone, these systems are exposed to periodic disturbance from exceptional tides, coastal storm events, wind shear, bioturbation, and aeolian substrate mobility. Geomorphological depositional and erosional processes influence substrate stability and local vegetation succession.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 
 # Distribution
 
@@ -33,5 +37,4 @@ Coastal dunes and cliffs throughout tropical, temperate and boreal latitudes.
 ### Text references
 * van der Maarel E (2001) Dry coastal ecosystems: General aspects. Ecosystems of the world 2C. Elsevier, Amsterdam.
 ### Map References
-* 
-
+*

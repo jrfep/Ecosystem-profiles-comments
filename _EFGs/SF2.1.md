@@ -19,6 +19,10 @@ These systems are bodies of saline or brackish waters with subterranean connecti
 Anchialine caves derive from seawater penetration into faults, fractures and lava tubes, and sea-level rise into limestone caves formed by solution. Cave waters are characterised by an absence or scarcity of light, low food abundance and strong salinity gradients. Salt concentration increases with depth (often with a sharp halocline boundary), declines horizontally with distance from the sea, and varies with tides and rainfall percolation. Tidal connections result in suck and blow phases of water movement that diminish with increasing stratification of the water column and increasing distance from the sea.  Bedrock porosity influences infiltration of fresh groundwater, and hence salinity gradients. Temperatures are moderate but increase and become less variable with depth. Dissolved oxygen declines with depth.
 
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 
@@ -31,7 +35,7 @@ Indicative distributions of Anchialine caves were based on mapped areas of carbo
 
 ## References
 ### Text references
-* Iliffe TM (2000) Ancialine cave ecology. In: Subterranean ecosystems (Eds. H Wilkens, DC Culver, WF Humphreys), pp59-76. Ecosystems of the world vol. 30. Elsevier, Amsterdam. 
+* Iliffe TM (2000) Ancialine cave ecology. In: Subterranean ecosystems (Eds. H Wilkens, DC Culver, WF Humphreys), pp59-76. Ecosystems of the world vol. 30. Elsevier, Amsterdam.
 ### Map References
 * Williams P, Ting Fong Y (2016) World map of carbonate rock outcrops v3.0. The University of Auckland, Auckland. [https://www.fos.auckland.ac.nz/our_research/karst/]
 
@@ -68,7 +72,6 @@ Indicative distributions of Anchialine caves were based on mapped areas of carbo
 
 ## References
 ### Text references
-* Iliffe TM (2000) Ancialine cave ecology. In: Subterranean ecosystems (Eds. H Wilkens, DC Culver, WF Humphreys), pp59-76. Ecosystems of the world vol. 30. Elsevier, Amsterdam. 
+* Iliffe TM (2000) Ancialine cave ecology. In: Subterranean ecosystems (Eds. H Wilkens, DC Culver, WF Humphreys), pp59-76. Ecosystems of the world vol. 30. Elsevier, Amsterdam.
 ### Map References
 * Williams P, Ting Fong Y (2016) World map of carbonate rock outcrops v3.0. The University of Auckland, Auckland. [https://www.fos.auckland.ac.nz/our_research/karst/]
-

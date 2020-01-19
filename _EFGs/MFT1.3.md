@@ -15,6 +15,10 @@ Coastal saltmarshes are vegetated by salt-tolerant forbs, grasses and shrubs, wi
 
 High and variable salt concentration is driven by alternating episodes of soil desiccation and flushing, associated with cycles of tidal inundation and drying combined with freshwater seepage, rainfall and runoff in the upper intertidal zone. These interacting processes produce dynamic fine-scale hydrological and salinity gradients, which may drive transformation to intertidal forest (MFT1.2). Marshes are usually associated with low-energy depositional coasts, but may occur on sea cliffs and headlands where wind deposits salt from wave splash (saltspray) and aerosol inputs. Salt approaches hypersaline levels when flushing events are separated by long intervals of desiccation. Other essential nutrients are present as a low proportion of the total ionic content. Subsoils are generally anaerobic, but this varies depending on seepage water and the frequency of tidal inundation. Tidal cycles also influence temperature extremes, irregularity in photoperiod, mechanical disturbance and deposition of sediment over vegetation.
 
+# Diagramatic assembly model
+
+{% include DAM.html %}
+
 # Distribution
 
 Widely distributed, mostly on low-energy coasts, from arctic to tropical to subantarctic latitudes.
@@ -29,4 +33,3 @@ The indicative map for Coastal saltmarshes was based on mapping by McOwen et al.
 * Adam P (1990) Saltmarsh ecology. Cambridge University Press, Cambridge.
 ### Map References
 * McOwen CJ, Weatherdon LV, van Bochove JW, Sullivan E, Blyth S, Zockler C, Stanwell-Smith D, Kingston N, Martin CS, Spalding M, Fletcher S (2017) A global map of saltmarshes. Biodiversity Data Journal 5: e11764. [https://doi.org/10.3897/BDJ.5.e11764]
-
