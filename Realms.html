@@ -12,7 +12,7 @@ section: browse
   {% for Realm in site.Realms %}
     <li>
       <h3><a href="Realms/{{ Realm.name }}">{{ Realm.name }}</a></h3>
-      {% capture my_include %}{% include _Realms/{{ Realm.name }}.md %}{% endcapture %}
+      {% capture my_include %}{% include_relative _Realms/{{ Realm.name }}.md %}{% endcapture %}
       {{ my_include | markdownify }}
     </li>
   {% endfor %}
