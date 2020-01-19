@@ -29,7 +29,8 @@ A large majority of caves form from chemical weathering of limestone, others inc
 Scattered worldwide, mostly in the northern hemisphere in limestones (map), more rarely basalt flows and other lithic substrates.
 
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Distributions of Underground streams and pools were based on mapped area of carbonate rock outcrop (Williams & Ting Fong 2016). This. provides an upper limit on the area of exposed karst terrain, as not all carbonate rocks are karstified. Lava tubes and other rocks that may contain these ecosystem functional groups are not shown on this indicative map, but are less extensive than those in carbonate rock.
 

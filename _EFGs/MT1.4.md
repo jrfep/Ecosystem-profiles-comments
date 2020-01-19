@@ -23,7 +23,8 @@ Particle size (e.g. cobbles vs boulders) and wave activity determine substrate 
 
 Cobble beaches occur where rivers deliver large quantities of cobbles to the coast or where they are eroded from nearby coastal cliffs. They are most common in Europe, also occurring in Bahrain, North America and New Zealand's South Island.
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shorelines and Boulder and cobble shorelines were identified by consulting regional substrate maps and expertise of authors. These were clipped to the extent of the marine ‘shelf’ base layer as mapped by Harris et al. (2014).
 

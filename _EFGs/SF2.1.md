@@ -28,8 +28,8 @@ Anchialine caves derive from seawater penetration into faults, fractures and lav
 
 Scattered worldwide, mostly in the northern hemisphere in limestones, basalt flows and more rarely other lithic substrates.
 
-
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Indicative distributions of Anchialine caves were based on mapped areas of carbonate rock outcrop (Williams & Ting Fong 2016) and lava flows intersecting with the coast.
 

@@ -28,8 +28,8 @@ Multi-year dry periods are punctuated by brief intervals of shallow inundation c
 
 Connected to ephemeral rivers in semi-arid regions of all continents, less common in arid regions.
 
-
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Freshwater ecoregions (Abell et al. 2008) containing major or minor occurrences of Seasonal floodplain marshes and Episodic arid floodplains were identified by consulting available ecoregion descriptions (http://www.feow.org/),  global and regional reviews, maps of relevant ecosystems, and expertise of authors..
 

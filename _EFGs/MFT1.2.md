@@ -23,7 +23,8 @@ Mangroves are physiologically intolerant of low temperatures, which excludes the
 
 Widely distributed along tropical and warm temperate coastlines of the world. Large-scale currents may prevent buoyant seeds from reaching some areas.
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 The indicative map for Intertidal forests and shrublands was based on mapping by Giri et al. (2011) summarised within a template of 1-degree grid cells.
 

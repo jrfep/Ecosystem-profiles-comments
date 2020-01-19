@@ -29,8 +29,8 @@ Desiccating winds promote an overall water deficit, and appreciable exposure to 
 Coastal dunes and cliffs throughout tropical, temperate and boreal latitudes.
 
 
-## Map details
-
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 
 ## References

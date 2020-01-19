@@ -29,7 +29,8 @@ These systems occur in several geomorphic settings, including lake shores, groun
 Scattered throughout the tropics and temperate regions of the world.
 
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurrences of each ecosystem functional group were identified by consulting available ecoregion descriptions (https://www.worldwildlife.org/biome-categories/terrestrial-ecoregions),  global and regional reviews , maps of relevant ecosystems, and expertise of authors.
 

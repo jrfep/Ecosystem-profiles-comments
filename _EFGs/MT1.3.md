@@ -23,7 +23,8 @@ Physical factors are generally more important ecological drivers than biological
 
 Sandy shores are most extensive at temperate latitudes, accounting for 31% of the ice-free global coastline, including 66% of the African coast and 23% of the European coast.
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shorelines and Boulder and cobble shorelines were identified by consulting regional substrate maps and expertise of authors. These were clipped to the extent of the marine ‘shelf’ base layer as mapped by Harris et al. (2014).
 

@@ -23,7 +23,8 @@ These are depositional environments highly influenced by sediment supply and the
 
 Muddy shorelines occur along low-energy coastlines, in estuaries and embayments where the velocity of water is so low that the finest particles can settle to the bottom. In warmer regions, muddy shorelines compete with colonising mangroves.
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 The indicative map of Muddy shorelines was based on tidal flats mapped by Murray et al. (2019).
 

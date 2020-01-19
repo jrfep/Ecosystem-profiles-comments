@@ -23,7 +23,8 @@ Groundwater ecosystems are characterised by a scarcity of nutrients, carbon, dis
 
 Globally distributed. Map shows only the major groundwater basins by recharge rates.
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Indicative maps of Groundwater aquifers were based on Bundesanstalt für Geowissenschaften und Rohstoffe & UNESCO (2012) with colour ramp showing type of aquifer by recharge rate, only in major groundwater basins (type 11 (yellow) to type 15 (red)).
 

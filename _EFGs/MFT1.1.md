@@ -25,13 +25,14 @@ River inflows structure the dynamic mosaics of coastal river deltas. Inflows dep
 
 # Distribution
 
-
 Continental margins where rivers connect the coast to high rainfall catchments, usually with high mountains in their headwaters.
-
 
 ## Map details
 
 Point locations for major coastal deltas were mapped based on Fig. 1 in Goodbred & Saito (2012).
+
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 ## References
 ### Text references

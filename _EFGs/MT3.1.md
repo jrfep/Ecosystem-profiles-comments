@@ -23,8 +23,8 @@ The substrate material influences the texture, chemistry and thermal properties 
 
 Urbanised coasts through tropical and temperate latitudes, especially north and central America, Europe, north and south Asia.
 
-## Map details
-
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 ## References
 

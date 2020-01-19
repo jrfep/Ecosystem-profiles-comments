@@ -23,7 +23,8 @@ These intertidal benthic systems, composed of sessile and mobile species, are hi
 
 Found globally at the margins of oceans, where waves have eroded softer rocks leaving only harder rocks. They are the most common ecosystems on open high-energy coasts and also occur on many sheltered and enclosed coastlines, such as sea lochs, fjords and rias.
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shorelines and Boulder and cobble shorelines were identified by consulting regional substrate maps and expertise of authors. These were clipped to the extent of the marine ‘shelf’ base layer as mapped by Harris et al. (2014).
 

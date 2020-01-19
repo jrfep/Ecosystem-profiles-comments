@@ -23,7 +23,8 @@ High and variable salt concentration is driven by alternating episodes of soil d
 
 Widely distributed, mostly on low-energy coasts, from arctic to tropical to subantarctic latitudes.
 
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 The indicative map for Coastal saltmarshes was based on mapping by McOwen et al. (2017) summarised within a template of 1-degree grid cells.
 

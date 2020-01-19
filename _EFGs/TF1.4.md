@@ -28,8 +28,8 @@ Regular seasonal flooding is driven by the river flow regimes, reflecting season
 
 Throughout the seasonal tropics and humid temperate regions of the world.
 
-
-## Map details
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 Freshwater ecoregions (Abell et al. 2008) containing major or minor occurrences of Seasonal floodplain marshes and Episodic arid floodplains were identified by consulting available ecoregion descriptions (http://www.feow.org/),  global and regional reviews, maps of relevant ecosystems, and expertise of authors.
 
