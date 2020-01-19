@@ -15,6 +15,12 @@ These coastal water bodies have high spatial and temporal variability in structu
 
 These are shallow coastal water bodies that are intermittently connected with the ocean. Some lagoons are mostly open, closing only once every few decades, some open and close frequently, and some are closed most of the time. The timing and frequency of entrance opening depends on trade-offs between sedimentation from fluvial and shoreline processes, which act to close the connection, and flushes of catchment inflow or erosive wave action, which act to open the entrance. Opening leads to changes in water level, tidal amplitude, salinity gradients, temperature, nutrients, dissolved oxygen and sources of organic carbon.
 
+# Diagrammatic assembly model
+
+{% include DAM.html %}
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
+
 # Distribution
 
 Wave-dominated coastlines worldwide, but prevalent along microtidal to low mesotidal mid-latitude coastlines with high interannual variability in rainfall and wave climate. Intermittent Closed Open Lakes  & Lagoons (ICOLLs) are most prevalent in Australia (21% global ICOLLs), South Africa (16%) and Mexico (16%).

@@ -18,9 +18,11 @@ Deepwater coastal inlets (mostly fjords) are semi-confined aquatic systems with 
 
 Deepwater coastal systems may exceed 300 km in length and 2000 m in depth. Almost all have glacial origins and many are fed by active glaciers. The ocean interface at the mouth of the inlets, strongly influenced by regional currents, interacts with large seasonal inputs of freshwater to the inner inlet and wind-driven advection to produce strong and dynamic spatial gradients in nutrients, salinity and organic carbon. Advection is critical to productivity and carrying capacity in the system. It drives water movement in the upper and lower layers of the water column in different directions and thus links the inlet waters with coastal water masses. Coastal currents also mediate upwelling and downwelling depending on their direction of flow. However, submerged glacial moraines or sills at the inlet mouth may limit marine mixing, which can be limited to seasonal episodes in spring and autumn. Depth gradients in light typically extend beyond the photic zone, and are exacerbated at high latitudes by seasonal variation in insolation and surface ice. Vertical fluxes also create strong depth gradients in nutrients, oxygen, dissolved organic carbon, salinity and temperature.
 
-# Diagramatic assembly model
+# Diagrammatic assembly model
 
 {% include DAM.html %}
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 # Distribution
 

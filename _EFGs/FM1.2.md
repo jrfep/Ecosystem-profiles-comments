@@ -18,6 +18,11 @@ These coastal water bodies are mosaic systems characterized by high spatial and 
 
 Characteristics of these coastal systems are governed by the relative dominance of saline marine waters versus freshwater inflows (groundwater, riverine), the latter depending on the seasonality of precipitation and evaporative stress. Geomorphology ranges from wave-dominated estuaries to drowned river valleys, to tiny inlets (10s of m2) to enormous bays. These forms determine the residence time, proportion and distribution of saline waters, which, in turn, affect salinity and thermal gradients and stratification, dissolved O2 concentration, nutrients, and turbidity. The water column is closely linked to mud- and sand-flats, in which an array of biogeochemical processes occurs, including denitrification and N-fixation, nutrient cycling, etc.
 
+# Diagrammatic assembly model
+
+{% include DAM.html %}
+{% capture map_det %}  {% endcapture %}
+{% include MAP.html %}
 
 # Distribution
 
