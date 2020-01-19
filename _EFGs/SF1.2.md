@@ -23,13 +23,17 @@ Groundwater ecosystems are characterised by a scarcity of nutrients, carbon, dis
 
 Globally distributed. Map shows only the major groundwater basins by recharge rates.
 
-{% capture map_det %}  {% endcapture %}
+{% capture map_det %} Indicative maps of Groundwater aquifers were based on Bundesanstalt für Geowissenschaften und Rohstoffe & UNESCO (2012) with colour ramp showing type of aquifer by recharge rate, only in major groundwater basins (type 11 (yellow) to type 15 (red)). {% endcapture %}
 {% include MAP.html %}
 
-Indicative maps of Groundwater aquifers were based on Bundesanstalt für Geowissenschaften und Rohstoffe & UNESCO (2012) with colour ramp showing type of aquifer by recharge rate, only in major groundwater basins (type 11 (yellow) to type 15 (red)).
-
 ## References
+
 ### Text references
-* Danielopol DL, Griebler C, Gunatilaka A, Notenboom J (2003) Present state and future prospects for groundwater ecosystems. Environmental Conservation 30: 104-130. / Hancock PJ Boulton AJ, Humphreys WF (2005) Aquifers and hyporheic zones: towards an understanding of groundwater. Hydrogeology Journal 13: 98–111. / Struckmeier W, Richts A (2008) Groundwater resources of the world. BGR Hannover / UNESCO Paris.
+
+* Danielopol DL, Griebler C, Gunatilaka A, Notenboom J (2003) Present state and future prospects for groundwater ecosystems. Environmental Conservation 30: 104-130.
+* Hancock PJ Boulton AJ, Humphreys WF (2005) Aquifers and hyporheic zones: towards an understanding of groundwater. Hydrogeology Journal 13: 98–111.
+* Struckmeier W, Richts A (2008) Groundwater resources of the world. BGR Hannover / UNESCO Paris.
+
 ### Map References
+
 * Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) & UNESCO (2012) River and Groundwater Basins of the World 1 : 50 000 000 – Hannover, Paris
