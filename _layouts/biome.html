@@ -34,10 +34,12 @@ section: browse
 </ul>
 
 Back to: <a href="../Realms.html">Realm overview</a>
-{% for therealm in site.Realms %}
+{% for therealm in site.Realms.name %}
 <p>{{ therealm }}</p>
  {% if page.realm contains therealm %}
    / <a href="../Realm/{{ therealm }}.html">{{ therealm }}</a>
+   {% else %}
+   / not found
    {% endif %}
 {% endfor %}
 </div>
