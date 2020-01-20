@@ -35,6 +35,7 @@ section: browse
 
 Back to: <a href="../Realms.html">Realm overview</a>
 {% for therealm in site.Realms %}
+<p>{{ therealm }}</p>
  {% if page.realm contains therealm %}
    / <a href="../Realm/{{ therealm }}.html">{{ therealm }}</a>
    {% endif %}
