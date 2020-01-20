@@ -33,9 +33,9 @@ Back to: <a href="../Realms.html">Realm overview</a>
    / <a href="../Realm/{{ therealm.name }}.html">{{ therealm.name }} Realm</a>
    {% endif %}
 {% endfor %}
-<a href="../Biomes.html">Biome overview</a>
+/ <a href="../Biomes.html">Biome overview</a>
 {% for therealm in site.Biomes %}
- {% if page.biomecode contains therealm.code %}
+ {% if page.biomecode == therealm.code %}
    / <a href="../Biomes/{{ therealm.name }}.html">{{ therealm.name }} Biome</a>
    {% endif %}
 {% endfor %}
