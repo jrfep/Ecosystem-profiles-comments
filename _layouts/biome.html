@@ -35,11 +35,8 @@ section: browse
 
 Back to: <a href="../Realms.html">Realm overview</a>
 {% for therealm in site.Realms %}
-{{ therealm.name }}
  {% if page.realm contains therealm.name %}
-   / <a href="../Realm/{{ therealm.name }}.html">{{ therealm.name }}</a>
-   {% else %}
-   / not found
+   / <a href="../Realm/{{ therealm.name }}.html">{{ therealm.name }} Realm</a>
    {% endif %}
 {% endfor %}
 </div>
