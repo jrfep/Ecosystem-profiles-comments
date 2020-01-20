@@ -31,7 +31,3 @@ Urbanised coasts through tropical and temperate latitudes, especially north and 
 ### Text references
 
 * Dafforn KA, Glasby TM, Airoldi L, Rivero NK, Mayer-Pinto M, Johnston EL (2015) Marine urbanization: an ecological framework for designing multifunctional artificial structures. Frontiers in Ecology and the Environment 13: 82-90
-
-### Map References
-
-*
