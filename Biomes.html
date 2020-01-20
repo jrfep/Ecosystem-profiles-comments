@@ -8,8 +8,14 @@ section: browse
 <ul>
   {% for Biome in site.Biomes %}
     <li>
-      <h3><a href="Biomes/{{ Biome.code }}">{{ Biome.name }}</a></h3>
-         <h4>{{ Biome.contributors }}</h4>
+      <h2><a href="Biomes/{{ Biome.code }}">{{ Biome.name }}</a></h2>
+          {% for therealm in site.Realms %}
+ {% if Biome.realm contains therealm.name %}
+   <a href="../Realms/{{ therealm.name }}.html">{{ therealm.name }} Realm</a> |
+   {% endif %}
+{% endfor %}
+       Contributors: {{ Biome.contributors }}
     </li>
   {% endfor %}
 </ul>
+Back to: <a href="../Realms.html">Realm overview</a>
