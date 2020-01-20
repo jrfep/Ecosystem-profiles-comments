@@ -1,7 +1,7 @@
 ---
 name: SF1.1 Underground streams and pools
 biome: SF1 Subterranean freshwaters
-realm: Subterranean
+realm: Subterranean,Freshwater
 code: SF1.1
 biomecode: SF1
 contributors: DA Keith

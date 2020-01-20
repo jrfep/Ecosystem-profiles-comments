@@ -1,7 +1,7 @@
 ---
 name: SM1.1 Anchialine caves
 biome: SM1 Subterranean tidal systems
-realm: Subterranean
+realm: Subterranean,Marine
 code: SM1.1
 biomecode: SM1
 contributors: DA Keith

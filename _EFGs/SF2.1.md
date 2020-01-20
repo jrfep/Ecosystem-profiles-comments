@@ -1,7 +1,7 @@
 ---
 name: SF2.1 Water pipes and subterranean canals
 biome: SF2 Anthropogenic subterranean freshwaters
-realm: Subterranean
+realm: Subterranean/Freshwater
 code: SF2.1
 biomecode: SF2
 contributors: DA Keith
