@@ -25,16 +25,18 @@ Multi-year dry periods are punctuated by brief intervals of shallow inundation c
 
 # Distribution
 
-
 Connected to ephemeral rivers in semi-arid regions of all continents, less common in arid regions.
 
-{% capture map_det %}  {% endcapture %}
+{% capture map_det %} Freshwater ecoregions (Abell et al. 2008) containing major or minor occurrences of Seasonal floodplain marshes and Episodic arid floodplains were identified by consulting available ecoregion descriptions (http://www.feow.org/),  global and regional reviews, maps of relevant ecosystems, and expertise of authors. {% endcapture %}
 {% include MAP.html %}
 
-Freshwater ecoregions (Abell et al. 2008) containing major or minor occurrences of Seasonal floodplain marshes and Episodic arid floodplains were identified by consulting available ecoregion descriptions (http://www.feow.org/),  global and regional reviews, maps of relevant ecosystems, and expertise of authors..
-
 ## References
+
 ### Text references
-* Bunn SE, Balcombe SR, Davies PM, Fellows CS, McKenzie-Smith FJ (2006) Aquatic productivity and food webs of desert river ecosystems. In: Ecology of desert rivers (Ed. RT Kingsford), pp76-99. Cambridge University Press, Cambridge. / McInerney PJ, Rick J. Stoffels RJ, Shackleton ME, Davey CD (2017) Flooding drives a macroinvertebrate biomass boom in ephemeral floodplain wetlands. Freshwater Science 36: 726-738.
+
+* Bunn SE, Balcombe SR, Davies PM, Fellows CS, McKenzie-Smith FJ (2006) Aquatic productivity and food webs of desert river ecosystems. In: Ecology of desert rivers (Ed. RT Kingsford), pp76-99. Cambridge University Press, Cambridge.
+* McInerney PJ, Rick J. Stoffels RJ, Shackleton ME, Davey CD (2017) Flooding drives a macroinvertebrate biomass boom in ephemeral floodplain wetlands. Freshwater Science 36: 726-738.
+
 ### Map References
+
 * Abell R, Thieme ML, Revenga C, Bryer M, Kottelat M, Bogutskaya N, Coad B, Mandrak N, Contreras Balderas S, Bussing W, Stiassny MLJ, Skelton P, Allen GR, Unmack P, Naseka A, Ng R, Sindorf N, Robertson J, Armijo E, Higgins JV, Heibel TJ, Wikramanayake E, Olson D, López HL, Reis RE, Lundberg JG, Sabaj Pérez MH, Petry P (2008) Freshwater ecoregions of the world: A new map of biogeographic units for freshwater biodiversity conservation, BioScience 58: 403–414.

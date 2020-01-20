@@ -23,13 +23,16 @@ Bogs are restricted to cool humid climates where moisture inputs (precipitation,
 
 Extensive across boreal-subarctic latitudes, with small areas on tropical mountains of South America, New Guinea and central Africa and at cool temperate southern latitudes in Patagonia and Australasia.
 
-{% capture map_det %}  {% endcapture %}
+{% capture map_det %} Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurrences of each ecosystem functional group were identified by consulting available ecoregion descriptions (https://www.worldwildlife.org/biome-categories/terrestrial-ecoregions),  global and regional reviews , maps of relevant ecosystems, and expertise of authors. {% endcapture %}
 {% include MAP.html %}
 
-Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurrences of each ecosystem functional group were identified by consulting available ecoregion descriptions (https://www.worldwildlife.org/biome-categories/terrestrial-ecoregions),  global and regional reviews , maps of relevant ecosystems, and expertise of authors.
-
 ## References
+
 ### Text references
-* Palozzi JE, Lindo Z (2017) Boreal peat properties link to plant functional traits of ecosystem engineers. Plant and Soil 418: 277-291. / Wieder RK, Vitt DH (2006). Boreal peatland ecosystems. Ecological studies vol. 188. Springer-Verlag, Berlin.
+
+* Palozzi JE, Lindo Z (2017) Boreal peat properties link to plant functional traits of ecosystem engineers. Plant and Soil 418: 277-291.
+* Wieder RK, Vitt DH (2006). Boreal peatland ecosystems. Ecological studies vol. 188. Springer-Verlag, Berlin.
+
 ### Map References
+
 * Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 67: 534–545.
