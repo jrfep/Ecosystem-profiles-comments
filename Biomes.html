@@ -11,11 +11,11 @@ section: browse
       <h2><a href="Biomes/{{ Biome.code }}">{{ Biome.name }}</a></h2>
           {% for therealm in site.Realms %}
  {% if Biome.realm contains therealm.name %}
-   <a href="../Realms/{{ therealm.name }}.html">{{ therealm.name }} Realm</a> |
+   <a href="Realms/{{ therealm.name }}.html">{{ therealm.name }} Realm</a> |
    {% endif %}
 {% endfor %}
        Contributors: {{ Biome.contributors }}
     </li>
   {% endfor %}
 </ul>
-Back to: <a href="../Realms.html">Realm overview</a>
+Back to: <a href="Realms.html">Realm overview</a>
