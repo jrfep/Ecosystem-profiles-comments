@@ -2,9 +2,10 @@
 layout: default
 title: Development of the typology
 ---
-# Glossary of selected terms
 
-The typology has been through an extensive development & review process initiated and co-ordinated by the IUCN Commission on Ecosystem Management. The initial structure of the typology was developed at a forum attended by 48 specialists in marine, freshwater and terrestrial ecosystems at Kings College London in May 2017. Lead contributors then drafted descriptive profiles for each Ecosystem Functional Group in consultation with other experts. Review of the definition and arrangement of units within the typological hierarchy was co-ordinated by the lead author (D. Keith) through the IUCN Commission on Ecosystem Management.
+# Development of the typology
+
+The typology has been through an extensive development and review process initiated and co-ordinated by the IUCN Commission on Ecosystem Management. The initial structure of the typology was developed at a forum attended by 48 specialists in marine, freshwater and terrestrial ecosystems at Kings College London in May 2017. Lead contributors then drafted descriptive profiles for each Ecosystem Functional Group in consultation with other experts. Review of the definition and arrangement of units within the typological hierarchy was co-ordinated by the lead author (D. Keith) through the IUCN Commission on Ecosystem Management.
 
 This consultation and review process was an extensive community effort, with "ecosystem leaders" engaged for all major biomes and realms in the world representing the collective views of global research networks numbering hundreds of people. In all, some 30 specialists formally reviewed 1-14 profiles each, with less formal comment and input received through a much larger number of experts at international conferences, workshops and meetings during 2017-2019. As part of a broader consultation process, workshops arranged by IUCN Commission on Ecosystem Management and international conference symposia, each attended by 20-100 participants were held at the following locations and dates:
 
