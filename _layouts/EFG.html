@@ -27,8 +27,6 @@ section: browse
 
 {{ content }}
 
-<a href="../Glossary.html">Check the Glossary</a>
-<br/>
 Back to: <a href="../Realms.html">Realm overview</a>
 {% for therealm in site.Realms %}
  {% if page.realm contains therealm.name %}
@@ -41,5 +39,7 @@ Back to: <a href="../Realms.html">Realm overview</a>
    / <a href="../Biomes/{{ therealm.code }}.html">{{ therealm.name }}</a>
    {% endif %}
 {% endfor %}
+<br/>
+Check: <a href="../Glossary.html"> the Glossary</a> / <a href="../Profile-structure.html"> Profile structure</a> / <a href="https://iucnrle.org/about-rle/ongoing-initiatives/global-ecosystem-typology/" target="_blank">the public document</a>
 
 </div>
