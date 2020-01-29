@@ -18,6 +18,8 @@ David A. Keith, Jose R. Ferrer, Emily Nicholson, Melanie J. Bishop, Beth A. Poli
 
 # Related resources
 
+* The [IUCN Global Ecosystem Typology v1.0](https://iucnrle.org/static/media/uploads/references/research-development/keith_etal_iucnglobalecosystemtypology_v1-0.pdf)
+ 
 * The [IUCN Red List of Ecosystems official site](https://iucnrle.org/)
 
 * [Context of the Global Ecosystem Typology](https://iucnrle.org/about-rle/ongoing-initiatives/global-ecosystem-typology/)
