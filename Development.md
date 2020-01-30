@@ -27,4 +27,4 @@ This consultation and review process was an extensive community effort, with "ec
 * Helsinki, Finland, Oct 2019 – IUCN workshop/meeting
 * Sydney, Australia, Nov 2019 – Ocean Ecosystems Accounting symposium
 
-The process outlined above involved up to five iterations of review and revision for each descriptive profile, and sometimes involved significant addition of content, revision of group definitions or recognition of additional groups. All profiles were reviewed and edited for conceptual consistency by D. Keith, and subject to a final production edit.
+The process outlined above involved up to five iterations of review and revision for each descriptive profile, and sometimes involved significant addition of content, revision of group definitions or recognition of additional groups. [All profiles](EFGs.html) were reviewed and edited for conceptual consistency by ***D. Keith***, and subject to a final production edit.
