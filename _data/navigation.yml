@@ -8,9 +8,11 @@
   link: /Ecosystem-profiles-comments/Biomes.html
 - name: Functional Groups
   link: /Ecosystem-profiles-comments/EFGs.html
-- name: Realms
-  link: /Ecosystem-profiles-comments/Realms.html
-- name: Biomes
-  link: /Ecosystem-profiles-comments/Biomes.html
-- name: Functional Groups
-  link: /Ecosystem-profiles-comments/EFGs.html
+- name: Profile structure
+  link: /Ecosystem-profiles-comments/Profile-structure.html
+- name: Glossary
+  link: /Ecosystem-profiles-comments/Glossary.html
+- name: References
+  link: /Ecosystem-profiles-comments/General-references.html
+- name: About this site
+  link: /Ecosystem-profiles-comments/about.html
