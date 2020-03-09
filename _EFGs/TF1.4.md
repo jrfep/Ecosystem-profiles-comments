@@ -5,7 +5,7 @@ realm: Terrestrial, Freshwater
 code: TF1.4
 biomecode: TF1
 contributors: DA Keith, RT Kingsford, RC Mac Nally, KM Rodriguez-Clark, A Etter
-mapcontributors: DA Keith, JR Ferrer-Paris
+mapcontributors: JR Ferrer-Paris, DA Keith
 version: v1.0, 2020-01-20 12:00:00
 ---
 # Ecological Traits
@@ -31,7 +31,7 @@ Throughout the seasonal tropics and humid temperate regions of the world.
 
 
 {% capture map_det %}
-Freshwater ecoregions (Abell et al. 2008) containing major or minor occurrences of Seasonal floodplain marshes and Episodic arid floodplains were identified by consulting available ecoregion descriptions (http://www.feow.org/),  global and regional reviews, maps of relevant ecosystems, and expertise of authors.
+Location of freshwater marshes and floodplains was taken from the Global Lakes and Wetlands Database (Lehner and Döll 2004). Occurrences were aggregated to half degree spatial resolution and cells reclassified as major occurrences (>30%) and minor occurrences (< 30%).
 {% endcapture %}
 {% include MAP.html %}
 
@@ -39,4 +39,4 @@ Freshwater ecoregions (Abell et al. 2008) containing major or minor occurrences 
 ### Main references
 * Damasceno-Junior GA., Semir J, Dos Santos FAM, de Freitas Leitão-Filho H (2005) Structure, distribution of species and inundation in a riparian forest of Rio Paraguai, Pantanal, Brazil. Flora-Morphology, Distribution, Functional Ecology of Plants 200:119-135.
 ### Map References
-* Abell R, Thieme ML, Revenga C, Bryer M, Kottelat M, Bogutskaya N, Coad B, Mandrak N, Contreras Balderas S, Bussing W, Stiassny MLJ, Skelton P, Allen GR, Unmack P, Naseka A, Ng R, Sindorf N, Robertson J, Armijo E, Higgins JV, Heibel TJ, Wikramanayake E, Olson D, López HL, Reis RE, Lundberg JG, Sabaj Pérez MH, Petry P (2008)Freshwater ecoregions of the world: A new map of biogeographic units for freshwater biodiversity conservation, BioScience 58: 403–414.
+* Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)

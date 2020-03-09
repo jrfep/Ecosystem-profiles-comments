@@ -5,7 +5,7 @@ realm: Terrestrial, Freshwater
 code: TF1.2
 biomecode: TF1
 contributors: RC Mac Nally, RT Kingsford, DA Keith
-mapcontributors: DA Keith, JR Ferrer-Paris
+mapcontributors: JR Ferrer-Paris, DA Keith
 version: v1.0, 2020-01-20 12:00:00
 ---
 # Ecological Traits
@@ -25,7 +25,7 @@ These forests occur on lowland flats, floodplains and riparian corridors. Season
 Temperate and subtropical floodplains and riparian zones worldwide.
 
 {% capture map_det %}
-Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurrences of each ecosystem functional group were identified by consulting available ecoregion descriptions (https://www.worldwildlife.org/biome-categories/terrestrial-ecoregions),  global and regional reviews , maps of relevant ecosystems, and expertise of authors.
+Location of wetlands from the Global Lakes and Wetlands Database (Lehner and Döll 2004) were overlapped with mixed forest cover from consensus land cover maps (Tuanmu et al. 2014). Occurrences were aggregated to half degree spatial resolution and cells reclassified as major occurrences (>30%) and minor occurrences (< 30%).
 {% endcapture %}
 {% include MAP.html %}
 
@@ -33,4 +33,5 @@ Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurr
 ### Main references
 *  Mac Nally R, Cunningham SC, Baker PJ, Horner GJ, Thomson JR (2011) Dynamics of Murray-Darling floodplain forests under multiple stressors: The past, present, and future of an Australian icon. Water Resources Research, 47, W00g05.
 ### Map References
-* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 67: 534–545.
+* Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)
+* Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. Global Ecology and Biogeography 23(9): 1031-1045.
