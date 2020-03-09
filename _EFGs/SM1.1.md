@@ -39,4 +39,4 @@ Indicative distributions of Anchialine caves were based on mapped areas of carbo
 ### Main references
 * Iliffe TM (2000) Ancialine cave ecology. In: Subterranean ecosystems (Eds. H Wilkens, DC Culver, WF Humphreys), pp59-76. Ecosystems of the world vol. 30. Elsevier, Amsterdam. 
 ### Map References
-* Williams P, Ting Fong Y (2016) World map of carbonate rock outcrops v3.0. The University of Auckland, Auckland. [https://www.fos.auckland.ac.nz/our_research/karst/]
+* Williams P, Ting Fong Y (2016) *World map of carbonate rock outcrops v3.0*. The University of Auckland, Auckland. [Webpage](https://www.fos.auckland.ac.nz/our_research/karst/)

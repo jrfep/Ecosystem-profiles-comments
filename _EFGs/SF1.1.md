@@ -39,4 +39,4 @@ Distributions of Underground streams and pools were based on mapped area of carb
 ### Main references
 * Gibert J, Deharveng L (2002) Subterranean ecosystems: a truncated functional biodiversity. BioScience 52, 473-481.
 ### Map References
-* Williams P, Ting Fong Y (2016) World map of carbonate rock outcrops v3.0. The University of Auckland, Auckland. [https://www.fos.auckland.ac.nz/our_research/karst/]
+* Williams P, Ting Fong Y (2016) *World map of carbonate rock outcrops v3.0*. The University of Auckland, Auckland. [Webpage](https://www.fos.auckland.ac.nz/our_research/karst/)

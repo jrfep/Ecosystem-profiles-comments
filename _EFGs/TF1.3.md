@@ -5,7 +5,7 @@ realm: Terrestrial, Freshwater
 code: TF1.3
 biomecode: TF1
 contributors: RT Kingsford, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
+mapcontributors: DA Keith, JR Ferrer-Paris
 version: v1.0, 2020-01-20 12:00:00
 ---
 # Ecological Traits
@@ -31,7 +31,7 @@ Scattered throughout the tropics and temperate regions of the world.
 
 
 {% capture map_det %}
-Location of freshwater marshes and floodplains was taken from the Global Lakes and Wetlands Database (Lehner and Döll 2004). Occurrences were aggregated to half degree spatial resolution and cells reclassified as major occurrences (>30%) and minor occurrences (< 30%).
+Terrestrial ecoregions (Dinerstein et al. 2017) containing major or minor occurrences of each ecosystem functional group were identified by consulting available ecoregion descriptions (https://www.worldwildlife.org/biome-categories/terrestrial-ecoregions),  global and regional reviews , maps of relevant ecosystems, and expertise of authors.
 {% endcapture %}
 {% include MAP.html %}
 
@@ -39,4 +39,4 @@ Location of freshwater marshes and floodplains was taken from the Global Lakes a
 ### Main references
 * Grace JB, Wetzel RG (1981) Habitat partitioning and competitive displacement in cattails (Typha): experimental field studies.  The American Naturalist 118:463-474.
 ### Map References
-* Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)
+* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience 67: 534–545.

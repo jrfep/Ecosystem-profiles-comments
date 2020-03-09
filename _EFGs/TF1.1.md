@@ -25,7 +25,7 @@ High rainfall, overbank flows or high water tables maintain an abundant water su
 Flat equatorial lowlands of southeast Asia, South America and central and west Africa, notably in Borneo and the Amazonian lowlands.
 
 {% capture map_det %}
-Location of swamp and flooded forest was taken from the Global Lakes and Wetlands Database (Lehner and Döll 2004). Occurrences were aggregated to half degree spatial resolution and cells reclassified as major occurrences (>30%) and minor occurrences (< 30%).
+Location of swamp and flooded forest was taken from the Global Lakes and Wetlands Database (Lehner and Döll 2004). Occurrences were aggregated to half degree spatial resolution.
 {% endcapture %}
 {% include MAP.html %}
 

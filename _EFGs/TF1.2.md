@@ -25,7 +25,7 @@ These forests occur on lowland flats, floodplains and riparian corridors. Season
 Temperate and subtropical floodplains and riparian zones worldwide.
 
 {% capture map_det %}
-Location of wetlands from the Global Lakes and Wetlands Database (Lehner and Döll 2004) were overlapped with mixed forest cover from consensus land cover maps (Tuanmu et al. 2014). Occurrences were aggregated to half degree spatial resolution and cells reclassified as major occurrences (>30%) and minor occurrences (< 30%).
+Location of wetlands from the Global Lakes and Wetlands Database (Lehner and Döll 2004) were overlapped with mixed forest cover from consensus land cover maps (Tuanmu et al. 2014) and temperate climate zones (Beck et al. 2018). Occurrences were aggregated to half degree spatial resolution and cells reclassified as major occurrences (>30%) and minor occurrences (< 30%).
 {% endcapture %}
 {% include MAP.html %}
 
@@ -35,3 +35,4 @@ Location of wetlands from the Global Lakes and Wetlands Database (Lehner and Dö
 ### Map References
 * Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)
 * Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. Global Ecology and Biogeography 23(9): 1031-1045.
+* Beck, H., Zimmermann, N., McVicar, T. et al. *Present and future Köppen-Geiger climate classification maps at 1-km resolution*. **Sci Data** 5, 180214 (2018). DOI: [10.1038/sdata.2018.214](https://doi.org/10.1038/sdata.2018.214)

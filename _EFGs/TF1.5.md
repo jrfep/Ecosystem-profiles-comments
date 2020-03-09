@@ -31,7 +31,7 @@ Connected to ephemeral rivers in semi-arid regions of all continents, less commo
 
 
 {% capture map_det %}
-Location of pan, brackish and saline wetlands was taken from the Global Lakes and Wetlands Database (Lehner and Döll 2004). Occurrences were aggregated to half degree spatial resolution and cells reclassified as major occurrences (>30%) and minor occurrences (< 30%).
+Location of pan, brackish and saline wetlands was taken from the Global Lakes and Wetlands Database (Lehner and Döll 2004). Occurrences were aggregated to half degree spatial resolution.
 {% endcapture %}
 {% include MAP.html %}
 
