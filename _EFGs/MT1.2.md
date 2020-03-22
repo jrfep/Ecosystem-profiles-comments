@@ -5,7 +5,7 @@ realm: Marine, Terrestrial
 code: MT1.2
 biomecode: MT1
 contributors: MJ Bishop, NJ Murray, DA Keith
-mapcontributors: DA Keith, JR Ferrer-Paris
+mapcontributors: NJ Murray, DA Keith, JR Ferrer-Paris
 version: v1.0, 2020-01-20 12:00:00
 ---
 # Ecological Traits
