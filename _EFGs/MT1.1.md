@@ -34,5 +34,5 @@ Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shor
 * Connell JH (1972) Community interactions on marine rocky intertidal shores. Annual Review of Ecology and Systematics 3:169-192.
 * Thompson RC, Crowe TP, Hawkins SJ (2002) Rocky intertidal communities: past environmental changes, present status and predictions for the next 25 years. Environmental Conservation 29:168-91.
 ### Map References
-* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.
 * Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
+* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.

@@ -34,5 +34,5 @@ Marine ecoregions (Spalding et al. 2008) containing Rocky shorelines, Sandy shor
 * Luijendijk A, Hagenaars G, Ranasinghe R, Baart F, Donchyts G, Aarninkhof S (2018) The State of the World’s Beaches. Scientific reports 2018: 8.
 * Schlacher TA, Schoeman DS, Dugan J, Lastra M, Jones A, Scapini F, McLachlan A. (2008) Sandy beach ecosystems: key features, sampling issues, management challenges and climate change impacts. Marine Ecology 29:70-90.
 ### Map References
-* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.
 * Harris PT, Macmillan-Lawler M, Rupp J, Baker EK (2014) Geomorphology of the oceans. Marine Geology 352: 4-24.
+* Spalding MD et al. (2008) Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. Bioscience 57: 573–583.

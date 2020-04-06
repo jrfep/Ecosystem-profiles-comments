@@ -33,6 +33,6 @@ Location of wetlands from the Global Lakes and Wetlands Database (Lehner and Dö
 ### Main references
 *  Mac Nally R, Cunningham SC, Baker PJ, Horner GJ, Thomson JR (2011) Dynamics of Murray-Darling floodplain forests under multiple stressors: The past, present, and future of an Australian icon. Water Resources Research, 47, W00g05.
 ### Map References
+* Beck, H., Zimmermann, N., McVicar, T. et al. *Present and future Köppen-Geiger climate classification maps at 1-km resolution*. **Sci Data** 5, 180214 (2018). DOI: [10.1038/sdata.2018.214](https://doi.org/10.1038/sdata.2018.214)
 * Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)
 * Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. Global Ecology and Biogeography 23(9): 1031-1045.
-* Beck, H., Zimmermann, N., McVicar, T. et al. *Present and future Köppen-Geiger climate classification maps at 1-km resolution*. **Sci Data** 5, 180214 (2018). DOI: [10.1038/sdata.2018.214](https://doi.org/10.1038/sdata.2018.214)

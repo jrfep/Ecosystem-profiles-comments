@@ -39,5 +39,5 @@ Location of freshwater marshes and floodplains was taken from the Global Lakes a
 ### Main references
 * Damasceno-Junior GA., Semir J, Dos Santos FAM, de Freitas Leitão-Filho H (2005) Structure, distribution of species and inundation in a riparian forest of Rio Paraguai, Pantanal, Brazil. Flora-Morphology, Distribution, Functional Ecology of Plants 200:119-135.
 ### Map References
-* Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)
 * Beck, H., Zimmermann, N., McVicar, T. et al. *Present and future Köppen-Geiger climate classification maps at 1-km resolution*. **Sci Data** 5, 180214 (2018). DOI: [10.1038/sdata.2018.214](https://doi.org/10.1038/sdata.2018.214)
+* Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)
