@@ -5,7 +5,7 @@ realm: Marine, Freshwater, Terrestrial
 code: MFT1.1
 biomecode: MFT1
 contributors: DA Keith, RT Kingsford
-mapcontributors: DA Keith, JR Ferrer-Paris
+mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.0, 2020-05-28 12:15:31
 ---
 # Ecological Traits
@@ -25,7 +25,7 @@ River inflows structure the dynamic mosaics of coastal river deltas. Inflows dep
 Continental margins where rivers connect the coast to high-rainfall catchments, usually with high mountains in their headwaters.
 
 {% capture map_det %}
-Point locations for major coastal deltas were mapped directly from data used for  Fig. 1 in Goodbred & Saito (2012).
+The extent of major coastal deltas was taken directly from Tessler et al. (2015), which was checked for completeness against point locations shown in Fig. 1 of Goodbred & Saito (2012) and found to be inclusive of major occurrences. Represented at a spatial resolution of 30 arc-seconds. Original map at [Deltas at risk](http://www.globaldeltarisk.net/).
 {% endcapture %}
 {% include MAP.html %}
 
@@ -35,3 +35,4 @@ Point locations for major coastal deltas were mapped directly from data used for
 * Orton GJ, Reading G (1993) Variability of deltaic processes in terms of sediment supply, with particular emphasis on grain-size. Sedimentology 40:475-512.
 ### Map References
 * Goodbred SL, Saito Y (2012) *Tide-dominated deltas*. In: **Principles of tidal sedimentology** (Eds. RA Davis, RW Dalrymple), pp 129-149. Springer, Berin. DOI: [10.1007/978-94-007-0123-6_7](https://doi.org/10.1007/978-94-007-0123-6_7)
+* Z.D. Tessler, C.J. Vörösmarty, M. Grossberg, I. Gladkova, H. Aizenman, J.P.M. Syvitski, E. Foufoula-Georgiou. Profiling Risk and Sustainability in Coastal Deltas of the World. Science 349(6248), 638-643 (2015) doi:10.1126/science.aab3574.
