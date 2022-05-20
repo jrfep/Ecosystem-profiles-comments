@@ -5,3 +5,7 @@ _site
 php/
 .DS_Store
 vendor
+gemfiles
+Gemfile
+Gemfile.lock
+node_modules
