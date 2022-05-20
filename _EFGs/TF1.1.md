@@ -5,8 +5,8 @@ realm: Terrestrial, Freshwater
 code: TF1.1
 biomecode: TF1
 contributors: DA Keith, RT Kingsford, R Mac Nally, KM Rodriguez-Clark, A Etter
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: TF1.1.IM.alt_v4.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,14 @@ High rainfall, overbank flows or high water tables maintain an abundant water su
 
 Flat equatorial lowlands of Southeast Asia, South America, and Central and West Africa, notably in Borneo and the Amazonian lowlands.
 
-{% capture map_det %}
-Major occurrences of tropical swamp forest and flooded forest were taken from the map of Habitat type 1.8 by Jung et al. (2020) based on the IUCN Habitats Classification Scheme v3.1 (IUCN 2012). We compared this to areas of of tropical swamp forest and flooded forest mapped Global Lakes and Wetlands Database (Lehner and Döll, 2004) as well as ecoregions with such forests mentioned in their description (Dinerstein et al., 2017), and found that maps of Jung et al. (2020) more closely matched the concept of TF1.1. Occurrences were extracted from fractional aggregated 1 km resolution base data (Jung et al. 2020), approximating 30 arc second spatial resolution.
-{% endcapture %}
+{% assign map = site.data.mapinfo[page.mapcode] %}
+{% assign map_det = map.description %}
 {% include MAP.html %}
 
 ## References
 ### Main References
 * Page SE, Rieley JO, Wüst R (2014) Lowland tropical peatlands of Southeast Asia. In: Peatlands: Evolution and records of environmental and climate changes (Eds. IP Martini, Martínez A Cortizas, W Chesworth), pp145-172. Elsevier, Amsterdam. 
 ### Map References
-* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) *An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm*, **BioScience** 67: 534–545. DOI:[10.1093/biosci/bix014](https://doi.org/10.1093/biosci/bix014). [Data-set available on-line](https://ecoregions2017.appspot.com/)
-* Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)
-* Martin Jung, Prabhat Raj Dahal, Stuart H. M. Butchart, Paul F. Donald, Xavier De Lamo, Myroslava Lesiv, ... Piero Visconti. (2020). *A global map of terrestrial habitat types* [Data set]. **Zenodo**. DOI: [10.5281/zenodo.3673586](http://doi.org/10.5281/zenodo.3673586)
+{% for ref in map.contributors %}
+* {{ref}}
+{% endfor %}
