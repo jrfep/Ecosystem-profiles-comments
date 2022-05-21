@@ -12,6 +12,7 @@ F1.1.IM.mix_v2.0:
     \ 1st-3rd order streams taken from the RiverATLAS (v1.0) database at 30 arc seconds\
     \ spatial resolution (Linke et al., 2019). The remaining areas within selected\
     \ ecoregions (excluding freeze/thaw areas) were designated as minor occurrences."
+  efg: F1.1
   version: v2.0
 F1.1.web.mix_v2.0:
   code: F1.1.web.mix
@@ -27,6 +28,7 @@ F1.1.web.mix_v2.0:
     \ streams taken from the RiverATLAS (v1.0) database at 30 arc seconds spatial\
     \ resolution (Linke et al. 2019). The remaining areas within selected ecoregions\
     \ (excluding freeze/thaw areas) were designated as minor occurrences."
+  efg: F1.1
   version: v2.0
 F1.2.IM.grid_v1.0:
   code: F1.2.IM.grid
@@ -40,6 +42,7 @@ F1.2.IM.grid_v1.0:
     with global estimates of surface water phenology (classes 1, 2 and 7 from Pekel
     et al., 2016). The remaining area of selected ecoregions was designated as minor
     occurrences. Occurrences were aggregated to ten minute spatial resolution.'
+  efg: F1.2
   version: v1.0
 F1.2.web.map_v1.0:
   code: F1.2.web.map
@@ -53,6 +56,7 @@ F1.2.web.map_v1.0:
     with global estimates of surface water phenology (classes 1, 2 and 7 from Pekel
     et al. 2016). The remaining area of selected ecoregions was designated as minor
     occurrences.'
+  efg: F1.2
   version: v1.0
 F1.3.IM.grid_v1.0:
   code: F1.3.IM.grid
@@ -61,6 +65,7 @@ F1.3.IM.grid_v1.0:
     \ the Global River Classification database (Ouellet Dallaire et al., 2018), including\
     \ all reaches with minimum temperature below 0\xB0C. Occurrences were aggregated\
     \ to ten minute spatial resolution."
+  efg: F1.3
   version: v1.0
 F1.3.web.map_v1.0:
   code: F1.3.web.map
@@ -68,6 +73,7 @@ F1.3.web.map_v1.0:
   description: "The distribution of freeze-thaw rivers and streams was mapped from\
     \ the Global River Classification database (Ouellet Dallaire et al. 2018), including\
     \ all reaches with with minimum temperature below 0\xB0C."
+  efg: F1.3
   version: v1.0
 F1.4.IM.grid_v2.0:
   code: F1.4.IM.grid
@@ -80,6 +86,7 @@ F1.4.IM.grid_v2.0:
     1st-4th order streams (3km buffer) taken from the RiverATLAS (v1.0) database (Linke
     et al., 2019). The remaining areas of selected ecoregions were mapped as minor
     occurrences. Occurrences were aggregated to ten minute spatial resolution.'
+  efg: F1.4
   version: v2.0
 F1.4.web.map_v1.0:
   code: F1.4.web.map
@@ -92,6 +99,7 @@ F1.4.web.map_v1.0:
     using 1st-4th order streams (3km buffer) taken from the RiverATLAS (v1.0) database
     (Linke et al. 2019). The remaining areas of selected ecoregions were mapped as
     minor occurrences.'
+  efg: F1.4
   version: v1.0
 F1.5.IM.grid_v2.0:
   code: F1.5.IM.grid
@@ -105,6 +113,7 @@ F1.5.IM.grid_v2.0:
     with global estimates of surface water phenology (classes 1, 2 and 7 from Pekel
     et al., 2016). The remaining area of selected ecoregions was designated as minor
     occurrences. Occurrences were aggregated to ten minute spatial resolution.'
+  efg: F1.5
   version: v2.0
 F1.5.web.map_v1.0:
   code: F1.5.web.map
@@ -118,6 +127,7 @@ F1.5.web.map_v1.0:
     with global estimates of surface water phenology (classes 1, 2 and 7 from Pekel
     et al. 2016). The remaining area of selected ecoregions was designated as minor
     occurrences.'
+  efg: F1.5
   version: v1.0
 F1.6.IM.mix_v2.0:
   code: F1.6.IM.mix
@@ -131,6 +141,7 @@ F1.6.IM.mix_v2.0:
     major occurrences. The remaining areas of selected ecoregions were mapped as minor
     occurrences. We used MERIT Hydro river channels as proxies of the location of
     rivers and streams within these areas (Yamazaki et al. 2019).'
+  efg: F1.6
   version: v2.0
 F1.6.web.mix_v1.0:
   code: F1.6.web.mix
@@ -143,6 +154,7 @@ F1.6.web.mix_v1.0:
     surface water (classes 4, 5 and 8 from Pekel et al. 2016) were used to identify
     major occurrences. The remaining areas of selected ecoregions were mapped as minor
     occurrences.'
+  efg: F1.6
   version: v1.0
 F1.7.IM.orig_v2.0:
   code: F1.7.IM.orig
@@ -152,6 +164,7 @@ F1.7.IM.orig_v2.0:
     \ flow > 10,000 m3/s were mapped with a 20 km buffer as major occurrences, clipped\
     \ to exclude those with seasonal freezing temperatures (mean temperature of coldest\
     \ quarter <0\xB0C)."
+  efg: F1.7
   version: v2.0
 F1.7.web.orig_v2.0:
   code: F1.7.web.orig
@@ -161,6 +174,7 @@ F1.7.web.orig_v2.0:
     \ > 10,000 m3/s were mapped with a 20 km buffer as major occurrences, clipped\
     \ to exclude those with seasonal freezing temperatures (mean temperature of coldest\
     \ quarter <0\xB0C)."
+  efg: F1.7
   version: v2.0
 F2.1.IM.alt_v4.0:
   code: F2.1.IM.alt
@@ -171,6 +185,7 @@ F2.1.IM.alt_v4.0:
     \ lakes in boreal and polar climates (temperature of coldest quarter > -10\xB0\
     C) were excluded (Beck et al., 2018) (see F2.3). Occurrences were aggregated to\
     \ 30 arc second spatial resolution."
+  efg: F2.1
   version: v4.0
 F2.1.web.alt_v4.0:
   code: F2.1.web.alt
@@ -181,6 +196,7 @@ F2.1.web.alt_v4.0:
     \ in boreal and polar climates (temperature of coldest quarter > -10\xB0C) were\
     \ excluded (Beck et al. 2018) (see F2.3). Occurrences were aggregated to 30 arc\
     \ second spatial resolution."
+  efg: F2.1
   version: v4.0
 F2.10.IM.mix_v1.0:
   code: F2.10.IM.mix
@@ -191,6 +207,7 @@ F2.10.IM.mix_v1.0:
     \ are likely to occur within areas with permanent snow and ice cover and were\
     \ mapped as minor occurrences based on permanent snow and ice from Dinerstein\
     \ et al. (2017) and Tuanmu et al. (2014)."
+  efg: F2.10
   version: v1.0
 F2.10.web.mix_v2.0:
   code: F2.10.web.mix
@@ -200,6 +217,7 @@ F2.10.web.mix_v2.0:
     and Livingstone et al. (2016). Unmapped lakes are likely to occur within areas
     with permanent snow and ice cover and were mapped as minor occurrences based on
     permanent snow and ice from Dinerstein et al. (2017) and Tuanmu et al. (2014).
+  efg: F2.10
   version: v2.0
 F2.2.IM.mix_v2.0:
   code: F2.2.IM.mix
@@ -213,6 +231,7 @@ F2.2.IM.mix_v2.0:
     database (Messager et al., 2016) and combined with global estimates of surface
     water phenology (classes 1, 2 and 7 from Pekel et al., 2016), occurrences were
     aggregated to 10 minutes spatial resolution.'
+  efg: F2.2
   version: v2.0
 F2.2.web.mix_v2.0:
   code: F2.2.web.mix
@@ -226,6 +245,7 @@ F2.2.web.mix_v2.0:
     database (Messager et al. 2016) and combined with global estimates of surface
     water phenology (classes 1, 2 and 7 from Pekel et al. 2016), occurrences were
     aggregated to 10 minutes spatial resolution.'
+  efg: F2.2
   version: v2.0
 F2.3.IM.mix_v2.0:
   code: F2.3.IM.mix
@@ -239,6 +259,7 @@ F2.3.IM.mix_v2.0:
     database (Messager et al., 2016) and combined with global estimates of surface
     water phenology (classes 1, 2 and 7 from Pekel et al., 2016), occurrences were
     aggregated to 10 minutes spatial resolution.'
+  efg: F2.3
   version: v2.0
 F2.3.web.mix_v2.0:
   code: F2.3.web.mix
@@ -252,6 +273,7 @@ F2.3.web.mix_v2.0:
     database (Messager et al. 2016) and combined with global estimates of surface
     water phenology (classes 1, 2 and 7 from Pekel et al. 2016), occurrences were
     aggregated to 10 minutes spatial resolution.'
+  efg: F2.3
   version: v2.0
 F2.4.IM.mix_v1.0:
   code: F2.4.IM.mix
@@ -260,6 +282,7 @@ F2.4.IM.mix_v1.0:
     \ database (types 1 an 3 in Messager et al., 2016). We included all lakes with\
     \ minimum temperature below 0\xB0C (Linke et al., 2019). Occurrences were aggregated\
     \ to ten minute spatial resolution."
+  efg: F2.4
   version: v1.0
 F2.4.web.mix_v1.0:
   code: F2.4.web.mix
@@ -268,6 +291,7 @@ F2.4.web.mix_v1.0:
     \ database (types 1 an 3 in Messager et al. 2016). We included all lakes with\
     \ minimum temperature below 0\xB0C (Linke et al. 2019). Occurrences were aggregated\
     \ to ten minute spatial resolution."
+  efg: F2.4
   version: v1.0
 F2.5.IM.mix_v1.0:
   code: F2.5.IM.mix
@@ -278,6 +302,7 @@ F2.5.IM.mix_v1.0:
     \ and intersected with estimates of ephemeral surface water (classes 9 and 10\
     \ from Pekel et al., 2016). Occurrences were aggregated to 10 minutes spatial\
     \ resolution."
+  efg: F2.5
   version: v1.0
 F2.5.web.mix_v1.0:
   code: F2.5.web.mix
@@ -287,6 +312,7 @@ F2.5.web.mix_v1.0:
     \ excluding those from endorheic basins cf. F2.7 (Linke et al. 2019), and intersected\
     \ with estimates of ephemeral surface water (classes 9 and 10 from Pekel et al.\
     \ 2016). Occurrences were aggregated to 10 minutes spatial resolution."
+  efg: F2.5
   version: v1.0
 F2.6.IM.mix_v4.0:
   code: F2.6.IM.mix
@@ -302,6 +328,7 @@ F2.6.IM.mix_v4.0:
     those identified in the profile of the Ecosystem Functional Group; and ii) if
     their location was consistent with the ecological drivers described in the profile.
     Occurrences were aggregated to 10 minutes spatial resolution.'
+  efg: F2.6
   version: v4.0
 F2.6.web.mix_v4.0:
   code: F2.6.web.mix
@@ -317,6 +344,7 @@ F2.6.web.mix_v4.0:
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.
     Occurrences were aggregated to 10 minutes spatial resolution.'
+  efg: F2.6
   version: v4.0
 F2.7.IM.mix_v1.0:
   code: F2.7.IM.mix
@@ -327,6 +355,7 @@ F2.7.IM.mix_v1.0:
     \ and the distribution of arid and semi-arid, endorheic basins (Linke et al.,\
     \ 2019). Occurrences were aggregated to 10 minutes spatial resolution. Occurrences\
     \ were aggregated to 10 minutes spatial resolution."
+  efg: F2.7
   version: v1.0
 F2.7.web.mix_v1.0:
   code: F2.7.web.mix
@@ -337,6 +366,7 @@ F2.7.web.mix_v1.0:
     \ and the distribution of arid and semi-arid, endorheic basins (Linke et al. 2019).\
     \ Occurrences were aggregated to 10 minutes spatial resolution. Occurrences were\
     \ aggregated to 10 minutes spatial resolution."
+  efg: F2.7
   version: v1.0
 F2.8.IM.mix_v1.0:
   code: F2.8.IM.mix
@@ -350,6 +380,7 @@ F2.8.IM.mix_v1.0:
     database (Messager et al., 2016) and combined with global estimates of surface
     water phenology (classes 1, 2 and 7 from Pekel et al., 2016), occurrences were
     aggregated to 10 minutes spatial resolution.'
+  efg: F2.8
   version: v1.0
 F2.8.web.mix_v1.0:
   code: F2.8.web.mix
@@ -363,6 +394,7 @@ F2.8.web.mix_v1.0:
     database (Messager et al. 2016) and combined with global estimates of surface
     water phenology (classes 1, 2 and 7 from Pekel et al. 2016), occurrences were
     aggregated to 10 minutes spatial resolution.'
+  efg: F2.8
   version: v1.0
 F2.9.IM.mix_v1.0:
   code: F2.9.IM.mix
@@ -376,6 +408,7 @@ F2.9.IM.mix_v1.0:
     database (Messager et al., 2016) and combined with global estimates of surface
     water phenology (classes 1, 2 and 7 from Pekel et al., 2016), occurrences were
     aggregated to 10 minutes spatial resolution.'
+  efg: F2.9
   version: v1.0
 F2.9.web.mix_v1.0:
   code: F2.9.web.mix
@@ -389,6 +422,7 @@ F2.9.web.mix_v1.0:
     database (Messager et al. 2016) and combined with global estimates of surface
     water phenology (classes 1, 2 and 7 from Pekel et al. 2016), occurrences were
     aggregated to 10 minutes spatial resolution.'
+  efg: F2.9
   version: v1.0
 F3.1.WM.nwx_v1.0:
   code: F3.1.WM.nwx
@@ -400,6 +434,7 @@ F3.1.WM.nwx_v1.0:
     et al. 2020), adding a spatial buffer of 15 arc-minutes to represent uncertainty
     in their exact location and extent. Major and minor occurrences were not distinguished
     .
+  efg: F3.1
   version: v1.0
 F3.1.web.orig_v1.0:
   code: F3.1.web.orig
@@ -408,6 +443,7 @@ F3.1.web.orig_v1.0:
     \ tagged as 'reservoirs' in \"reservoirs\" in vector layers GLWD1 and GLWD2 of\
     \ Lehner & D\xF6ll (2004). These were mapped with a spatial buffer of 15 minutes,\
     \ enabling reservoirs to be represented in 0.5 degree grid cells."
+  efg: F3.1
   version: v1.0
 F3.2.WM.nwx_v1.0:
   code: F3.2.WM.nwx
@@ -421,6 +457,7 @@ F3.2.WM.nwx_v1.0:
     and the intersection of the lakes-buffer with 0.05<(PAF+CAF)<0.5 as minor occurrences.
     The resulting map should show the main concentrations of  constructed lacustrine
     wetlands but will underestimate occurrences in non-agricultural areas.'
+  efg: F3.2
   version: v1.0
 F3.3.IM.alt_v2.0:
   code: F3.3.IM.alt
@@ -429,6 +466,7 @@ F3.3.IM.alt_v2.0:
     of rice cover at a 5 arc minute resolution based on Monfreda et al. (2008). Cells
     with > 10% rice cover were designated as major occurrences, and those with 1-10%
     rice cover were designated as minor occurrences.
+  efg: F3.3
   version: v2.0
 F3.3.web.alt_v2.0:
   code: F3.3.web.alt
@@ -437,6 +475,7 @@ F3.3.web.alt_v2.0:
     of rice cover at a 5 arc minute  resolution based on Monfreda et al. (2008). Cells
     with > 10% rice cover were designated as major occurrences, and those with 1-10%
     rice cover were designated as minor occurrences.
+  efg: F3.3
   version: v2.0
 F3.4.IM.orig_v1.0:
   code: F3.4.IM.orig
@@ -449,6 +488,7 @@ F3.4.IM.orig_v1.0:
     consistent with the ecological drivers described in the profile. The selections
     were checked by expert reviewers. Occurrences were mapped at 30 arc seconds spatial
     resolution.'
+  efg: F3.4
   version: v1.0
 F3.4.web.orig_v1.0:
   code: F3.4.web.orig
@@ -459,6 +499,7 @@ F3.4.web.orig_v1.0:
     Functional Group; and ii) if their location was consistent with the ecological
     drivers described in the profile. The selections were check by expert reviewers.
     Occurrences were mapped at 30 arc seconds spatial resolution.'
+  efg: F3.4
   version: v1.0
 F3.5.WM.nwx_v2.0:
   code: F3.5.WM.nwx
@@ -476,6 +517,7 @@ F3.5.WM.nwx_v2.0:
     was >20% (Siebert et al. 2013) or the proportion of built area was >5% (Karra
     et al. 2021). We mapped minor occurrences where irrigation-equipped area was 10-20%)
     or where there was low cover of built area (1-5%).
+  efg: F3.5
   version: v2.0
 FM1.1.IM.alt_v3.0:
   code: FM1.1.IM.alt
@@ -490,6 +532,7 @@ FM1.1.IM.alt_v3.0:
     \ with at least one known occurrence) and minor occurrences (cells with > 5% occurrence\
     \ of coastal/marine shelf areas). Minor occurrences were clipped to a 50km buffer\
     \ along the coast to remove inland and oceanic areas."
+  efg: FM1.1
   version: v3.0
 FM1.1.web.map_v1.0:
   code: FM1.1.web.map
@@ -504,6 +547,7 @@ FM1.1.web.map_v1.0:
     \ occurrence) and minor occurrences (cells with > 5% occurrence of coastal/marine\
     \ shelf areas). Minor occurrences were clipped to a 10km buffer along the coast\
     \ to remove inland and oceanic areas."
+  efg: FM1.1
   version: v1.0
 FM1.2.IM.orig_v2.0:
   code: FM1.2.IM.orig
@@ -514,6 +558,7 @@ FM1.2.IM.orig_v2.0:
     Earth and expertise of authors. Occurrences were converted to 30 arc second spatial
     resolution and clipped to a 50 km buffer along the coastline to exclude inland
     and offshore areas of the ecoregions.
+  efg: FM1.2
   version: v2.0
 FM1.2.web.map_v1.0:
   code: FM1.2.web.map
@@ -524,6 +569,7 @@ FM1.2.web.map_v1.0:
     Earth and expertise of authors. Occurrences were converted to 30 arc second spatial
     resolution and clipped to a 20 km buffer along the coastline to exlcude inland
     and offshore areas of the ecoregions.
+  efg: FM1.2
   version: v1.0
 FM1.3.IM.orig_v2.0:
   code: FM1.3.IM.orig
@@ -534,6 +580,7 @@ FM1.3.IM.orig_v2.0:
     Earth and expertise of authors. Occurrences were converted to 30 arc second spatial
     resolution and clipped to a 50 km buffer along the coastline to exclude inland
     and offshore areas of the ecoregions.
+  efg: FM1.3
   version: v2.0
 FM1.3.web.orig_v2.0:
   code: FM1.3.web.orig
@@ -544,6 +591,7 @@ FM1.3.web.orig_v2.0:
     Earth and expertise of authors. Occurrences were converted to 30 arc second spatial
     resolution and clipped to a 20 km buffer along the coastline to exlcude inland
     and offshore areas of the ecoregions.
+  efg: FM1.3
   version: v2.0
 M1.1.IM.orig_v1.0:
   code: M1.1.IM.orig
@@ -551,6 +599,7 @@ M1.1.IM.orig_v1.0:
   description: Indicative maps of Seagrass meadows were obtained from UNEP-WCMC &
     Short (2017) based on Green & Short (2003). Occurrences were converted to 30 arc
     second spatial resolution.
+  efg: M1.1
   version: v1.0
 M1.1.web.orig_v1.0:
   code: M1.1.web.orig
@@ -558,6 +607,7 @@ M1.1.web.orig_v1.0:
   description: Indicative maps of Seagrass meadows were obtained from UNEP-WCMC &
     Short (2017) based on Green & Short (2003). Occurrences were converted to 30 arc
     second spatial resolution.
+  efg: M1.1
   version: v1.0
 M1.10.WM.nwx_v1.0:
   code: M1.10.WM.nwx
@@ -566,6 +616,7 @@ M1.10.WM.nwx_v1.0:
     of suitable habitats for rhodolith forming species at global scales, including
     both tropical  - warm temperate and polar - cold temperate affiliated rhodolith
     species (Fragkopoulou et al. 2021). Maps have a spatial resolution of 5 arc-minute. '
+  efg: M1.10
   version: v1.0
 M1.2.IM.orig_v2.1:
   code: M1.2.IM.orig
@@ -577,6 +628,7 @@ M1.2.IM.orig_v2.1:
     and minor occurrences based on information in Wernberg and Filbee-Dexter (2019)
     and author expertise, and proofed by specialist reviewers. Occurrences were converted
     to 30 arc second spatial resolution.
+  efg: M1.2
   version: v2.1
 M1.2.web.orig_v2.2:
   code: M1.2.web.orig
@@ -588,6 +640,7 @@ M1.2.web.orig_v2.2:
     minor occurrences based on information in Wernberg and Filbee-Dexter (2019) and
     author expertise, and proofed by specialist reviewers. Occurrences were converted
     to 30 arc second spatial resolution.
+  efg: M1.2
   version: v2.2
 M1.3.IM.orig_v1.0:
   code: M1.3.IM.orig
@@ -595,6 +648,7 @@ M1.3.IM.orig_v1.0:
   description: Indicative maps of Photic coral reefs were obtained from Institute
     for Marine Remote Sensing et al. (2011). Occurrences were converted to 30 arc
     second spatial resolution.
+  efg: M1.3
   version: v1.0
 M1.3.web.orig_v1.0:
   code: M1.3.web.orig
@@ -602,6 +656,7 @@ M1.3.web.orig_v1.0:
   description: Indicative maps of Photic coral reefs were obtained from Institute
     for Marine Remote Sensing et al. (2011). Occurrences were converted to 30 arc
     second spatial resolution.
+  efg: M1.3
   version: v1.0
 M1.4.IM.orig_v1.0:
   code: M1.4.IM.orig
@@ -611,6 +666,7 @@ M1.4.IM.orig_v1.0:
     \ (Spalding et al., 2008), and then clipping to the extent of the marine \u2018\
     shelf\u2019 base layer as mapped by Harris et al. (2014b). Occurrences were converted\
     \ to 30 arc second spatial resolution."
+  efg: M1.4
   version: v1.0
 M1.4.web.orig_v1.0:
   code: M1.4.web.orig
@@ -620,6 +676,7 @@ M1.4.web.orig_v1.0:
     \ (Spalding et al. 2008), and then clipping to the extent of the marine \u2018\
     shelf\u2019 base layer as mapped by Harris et al. (2014b). Occurrences were converted\
     \ to 30 arc second spatial resolution."
+  efg: M1.4
   version: v1.0
 M1.5.IM.orig_v1.0:
   code: M1.5.IM.orig
@@ -630,6 +687,7 @@ M1.5.IM.orig_v1.0:
     \ distributions were mapped in as minor occurrences through the full extent of\
     \ the marine \u2018shelf\u2019 base layer as mapped by Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.5
   version: v1.0
 M1.5.web.orig_v1.0:
   code: M1.5.web.orig
@@ -640,6 +698,7 @@ M1.5.web.orig_v1.0:
     \ distributions were mapped in as minor occurrences through the full extent of\
     \ the marine \u2018shelf\u2019 base layer as mapped by Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.5
   version: v1.0
 M1.6.IM.orig_v1.0:
   code: M1.6.IM.orig
@@ -650,6 +709,7 @@ M1.6.IM.orig_v1.0:
     \ distributions were mapped in as minor occurrences through the full extent of\
     \ the marine \u2018shelf\u2019 base layer as mapped by Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.6
   version: v1.0
 M1.6.web.orig_v1.0:
   code: M1.6.web.orig
@@ -660,6 +720,7 @@ M1.6.web.orig_v1.0:
     \ distributions were mapped in as minor occurrences through the full extent of\
     \ the marine \u2018shelf\u2019 base layer as mapped by Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.6
   version: v1.0
 M1.7.IM.orig_v1.0:
   code: M1.7.IM.orig
@@ -670,6 +731,7 @@ M1.7.IM.orig_v1.0:
     \ distributions were mapped in as minor occurrences through the full extent of\
     \ the marine \u2018shelf\u2019 base layer as mapped by Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.7
   version: v1.0
 M1.7.web.orig_v1.0:
   code: M1.7.web.orig
@@ -680,6 +742,7 @@ M1.7.web.orig_v1.0:
     \ distributions were mapped in as minor occurrences through the full extent of\
     \ the marine \u2018shelf\u2019 base layer as mapped by Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.7
   version: v1.0
 M1.8.IM.orig_v1.0:
   code: M1.8.IM.orig
@@ -690,6 +753,7 @@ M1.8.IM.orig_v1.0:
     \ distributions were mapped in as minor occurrences through the full extent of\
     \ the marine \u2018shelf\u2019 base layer as mapped by Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.8
   version: v1.0
 M1.8.web.orig_v1.0:
   code: M1.8.web.orig
@@ -700,6 +764,7 @@ M1.8.web.orig_v1.0:
     \ distributions were mapped in as minor occurrences through the full extent of\
     \ the marine \u2018shelf\u2019 base layer as mapped by Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.8
   version: v1.0
 M1.9.IM.orig_v1.0:
   code: M1.9.IM.orig
@@ -710,6 +775,7 @@ M1.9.IM.orig_v1.0:
     \ authors, proofed by specialist reviewers. The identified ecoregions were then\
     \ clipped to the extent of the marine \u2018shelf\u2019 base layer as mapped by\
     \ Harris et al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.9
   version: v1.0
 M1.9.web.orig_v1.0:
   code: M1.9.web.orig
@@ -720,6 +786,7 @@ M1.9.web.orig_v1.0:
     \ authors, proofed by specialist reviewers. The identified ecoregions were then\
     \ clipped to the extent of the marine \u2018shelf\u2019 base layer as mapped by\
     \ Harris et al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
+  efg: M1.9
   version: v1.0
 M2.1.IM.orig_v2.1:
   code: M2.1.IM.orig
@@ -728,6 +795,7 @@ M2.1.IM.orig_v2.1:
     Groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
     each functional group. Occurrences were mapped at 30 arc second spatial resolution.
+  efg: M2.1
   version: v2.1
 M2.1.web.orig_v2.1:
   code: M2.1.web.orig
@@ -736,6 +804,7 @@ M2.1.web.orig_v2.1:
     groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
     each functional group. Occurrences were mapped at 30 arc second spatial resolution.
+  efg: M2.1
   version: v2.1
 M2.2.IM.orig_v2.0:
   code: M2.2.IM.orig
@@ -744,6 +813,7 @@ M2.2.IM.orig_v2.0:
     Groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
     each functional group. Occurrences were mapped at 30 arc second spatial resolution.
+  efg: M2.2
   version: v2.0
 M2.2.web.orig_v2.0:
   code: M2.2.web.orig
@@ -752,6 +822,7 @@ M2.2.web.orig_v2.0:
     groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
     each functional group. Occurrences were mapped at 30 arc second spatial resolution.
+  efg: M2.2
   version: v2.0
 M2.3.IM.orig_v1.0:
   code: M2.3.IM.orig
@@ -760,6 +831,7 @@ M2.3.IM.orig_v1.0:
     Groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
     each functional group. Occurrences were mapped at 30 arc second spatial resolution.
+  efg: M2.3
   version: v1.0
 M2.3.web.orig_v1.0:
   code: M2.3.web.orig
@@ -768,6 +840,7 @@ M2.3.web.orig_v1.0:
     groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
     each functional group. Occurrences were mapped at 30 arc second spatial resolution.
+  efg: M2.3
   version: v1.0
 M2.4.IM.orig_v1.0:
   code: M2.4.IM.orig
@@ -776,6 +849,7 @@ M2.4.IM.orig_v1.0:
     Groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
     each functional group. Occurrences were mapped at 30 arc second spatial resolution.
+  efg: M2.4
   version: v1.0
 M2.4.web.orig_v1.0:
   code: M2.4.web.orig
@@ -784,6 +858,7 @@ M2.4.web.orig_v1.0:
     groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
     each functional group. Occurrences were mapped at 30 arc second spatial resolution.
+  efg: M2.4
   version: v1.0
 M2.5.IM.orig_v1.0:
   code: M2.5.IM.orig
@@ -793,6 +868,7 @@ M2.5.IM.orig_v1.0:
     extent for March 2019 for the northern hemisphere, and the monthly extent for
     September 2018 for the southern hemisphere. Occurrences were mapped at 30 arc
     second spatial resolution.
+  efg: M2.5
   version: v1.0
 M2.5.web.orig_v1.0:
   code: M2.5.web.orig
@@ -802,6 +878,7 @@ M2.5.web.orig_v1.0:
     extent for March 2019 for the northern hemisphere, and the monthly extent for
     September 2018 for the southern hemisphere. Occurrences were mapped at 30 arc
     second spatial resolution.
+  efg: M2.5
   version: v1.0
 M3.1.IM.orig_v1.0:
   code: M3.1.IM.orig
@@ -809,6 +886,7 @@ M3.1.IM.orig_v1.0:
   description: "Major occurrences of continental and island slopes was based on the\
     \ \u2018slope\u2019 geomorphic unit of Harris et al. (2014b). Occurrences were\
     \ converted to 30 arc second spatial resolution."
+  efg: M3.1
   version: v1.0
 M3.1.web.orig_v1.0:
   code: M3.1.web.orig
@@ -816,6 +894,7 @@ M3.1.web.orig_v1.0:
   description: "Major occurrences of continental and island slopes was based on the\
     \ \u2018slope\u2019 geomorphic unit of Harris et al. (2014b). Occurrences were\
     \ converted to 30 arc second spatial resolution."
+  efg: M3.1
   version: v1.0
 M3.2.IM.orig_v1.0:
   code: M3.2.IM.orig
@@ -823,6 +902,7 @@ M3.2.IM.orig_v1.0:
   description: "Major occurrences of submarine canyons was based on the \u2018canyons\u2019\
     \ geomorphic unit of Harris et al. (2014b). Occurrences were converted to 30 arc\
     \ second spatial resolution."
+  efg: M3.2
   version: v1.0
 M3.2.web.orig_v1.0:
   code: M3.2.web.orig
@@ -830,6 +910,7 @@ M3.2.web.orig_v1.0:
   description: "Major occurrences of submarine canyons was based on the \u2018canyons\u2019\
     \ geomorphic unit of Harris et al. (2014b). Occurrences were converted to 30 arc\
     \ second spatial resolution."
+  efg: M3.2
   version: v1.0
 M3.3.IM.orig_v1.0:
   code: M3.3.IM.orig
@@ -837,6 +918,7 @@ M3.3.IM.orig_v1.0:
   description: "Major occurrences of Abyssal plains was based on the \u2018plains\u2019\
     \ and \u2018hills\u2019 classes within the abyssal geomorphic unit of Harris et\
     \ al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
+  efg: M3.3
   version: v1.0
 M3.3.web.orig_v1.0:
   code: M3.3.web.orig
@@ -844,6 +926,7 @@ M3.3.web.orig_v1.0:
   description: "Major occurrences of Abyssal plains was based on the \u2018plains\u2019\
     \ and \u2018hills\u2019 classes within the abyssal geomorphic unit of Harris et\
     \ al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
+  efg: M3.3
   version: v1.0
 M3.4.IM.orig_v2.0:
   code: M3.4.IM.orig
@@ -851,6 +934,7 @@ M3.4.IM.orig_v2.0:
   description: "Major occurrences of seamounts, ridges and plateaus was based on the\
     \ \u2018mountains\u2019 classes within the abyssal geomorphic unit of Harris et\
     \ al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
+  efg: M3.4
   version: v2.0
 M3.4.web.orig_v2.0:
   code: M3.4.web.orig
@@ -858,6 +942,7 @@ M3.4.web.orig_v2.0:
   description: "Major occurrences of seamounts, ridges and plateaus was based on the\
     \ \u2018mountains\u2019 classes within the abyssal geomorphic unit of Harris et\
     \ al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
+  efg: M3.4
   version: v2.0
 M3.5.IM.orig_v1.0:
   code: M3.5.IM.orig
@@ -868,6 +953,7 @@ M3.5.IM.orig_v1.0:
     \ acknowledge considerable uncertainties in the distribution of biogenic beds\
     \ within these geomorphic units. Occurrences were converted to 30 arc second spatial\
     \ resolution."
+  efg: M3.5
   version: v1.0
 M3.5.web.orig_v1.0:
   code: M3.5.web.orig
@@ -878,6 +964,7 @@ M3.5.web.orig_v1.0:
     \ to acknowledges considerable uncertainties in the distribution of biogenic beds\
     \ within these geomorphic units. Occurrences were converted to 30 arc second spatial\
     \ resolution."
+  efg: M3.5
   version: v1.0
 M3.6.IM.orig_v1.0:
   code: M3.6.IM.orig
@@ -885,6 +972,7 @@ M3.6.IM.orig_v1.0:
   description: "Major occurrences of Hadal trenches and troughs were based on the\
     \ \u2018hadal\u2019 and \u2018trenches\u2019 geomorphic units of Harris et al.\
     \ (2014b). Occurrences were converted to 30 arc second spatial resolution."
+  efg: M3.6
   version: v1.0
 M3.6.web.orig_v1.0:
   code: M3.6.web.orig
@@ -892,6 +980,7 @@ M3.6.web.orig_v1.0:
   description: "Major occurrences of Hadal trenches and troughs was based on the \u2018\
     hadal\u2019 and \u2018trenches\u2019 geomorphic units of Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
+  efg: M3.6
   version: v1.0
 M3.7.IM.orig_v1.0:
   code: M3.7.IM.orig
@@ -901,6 +990,7 @@ M3.7.IM.orig_v1.0:
     \ in \u2018Plate lines and polygons\u2019 data by USGS/ESRI (undated). Occurrences\
     \ were converted to 30 arc second spatial resolution. The distribution of cold\
     \ seeps is poorly known and was not mapped."
+  efg: M3.7
   version: v1.0
 M3.7.web.orig_v1.0:
   code: M3.7.web.orig
@@ -910,6 +1000,7 @@ M3.7.web.orig_v1.0:
     \ in \u2018Plate lines and polygons\u2019 data by USGS/ESRI. Occurrences were\
     \ converted to 30 arc second spatial resolution. The distribution of cold seeps\
     \ is poorly known and was not mapped."
+  efg: M3.7
   version: v1.0
 M4.1.IM.orig_v1.0:
   code: M4.1.IM.orig
@@ -920,6 +1011,7 @@ M4.1.IM.orig_v1.0:
     to 30 arc second spatial resolution. In many cases these ecoregions encompassed
     other submerged structures such as energy infrastructure. To represent uncertainty,
     indicative distributions were mapped as minor occurrences.
+  efg: M4.1
   version: v1.0
 M4.1.web.orig_v1.0:
   code: M4.1.web.orig
@@ -930,6 +1022,7 @@ M4.1.web.orig_v1.0:
     to 30arc second spatial resolution. In many cases these ecoregions encompassed
     other submerged structures such as energy infrastructure. To represent uncertainty,
     indicative distributions were mapped as minor occurrences.
+  efg: M4.1
   version: v1.0
 M4.2.IM.orig_v1.0:
   code: M4.2.IM.orig
@@ -940,6 +1033,7 @@ M4.2.IM.orig_v1.0:
     \ These were clipped to the extent of the marine \u2018shelf\u2019 base layer\
     \ as mapped by Harris et al. (2014b) and converted to 30 arc second spatial resolution.\
     \ Occurrences were aggregated to half degree spatial resolution."
+  efg: M4.2
   version: v1.0
 M4.2.web.orig_v1.0:
   code: M4.2.web.orig
@@ -950,6 +1044,7 @@ M4.2.web.orig_v1.0:
     \ These were clipped to the extent of the marine \u2018shelf\u2019 base layer\
     \ as mapped by Harris et al. (2014b) and converted to 30 arc second spatial resolution.\
     \ Occurrences were aggregated to half degree spatial resolution."
+  efg: M4.2
   version: v1.0
 MFT1.1.WM.nwx_v1.0:
   code: MFT1.1.WM.nwx
@@ -962,6 +1057,7 @@ MFT1.1.WM.nwx_v1.0:
     found them to be inclusive of major occurrences. The latter included fewer deltas
     and olygons that extended some distance up freshwater floodplains into the Freshwater-Terrestrial
     (FT) transition biome.
+  efg: MFT1.1
   version: v1.0
 MFT1.2.WM.nwx_v1.0:
   code: MFT1.2.WM.nwx
@@ -972,6 +1068,7 @@ MFT1.2.WM.nwx_v1.0:
     around the distribution data and a 30 arc second grid, thus large aggregations
     (> 1km2) are depicted as major occurrences, and the buffer areas with small occurrences
     are shown as minor occurrences.
+  efg: MFT1.2
   version: v1.0
 MFT1.3.IM.orig_v1.0:
   code: MFT1.3.IM.orig
@@ -980,6 +1077,7 @@ MFT1.3.IM.orig_v1.0:
     McOwen et al. (2017) summarised within a template of 1-degree grid cells. Cells
     with >5% cover of marsh vegetation were reclassified as major occurrences, and
     those with non-zero cover up to 5% were reclassified as minor occurrences.
+  efg: MFT1.3
   version: v1.0
 MFT1.3.web.orig_v2.0:
   code: MFT1.3.web.orig
@@ -990,6 +1088,7 @@ MFT1.3.web.orig_v2.0:
     second grid, thus large aggregations (> 1km<sup>2</sup>) are depicted as major
     occurrences, and the buffer areas with small occurrences are shown as minor occurrences.
     The original data is available at [UNEP-WCMC](http://data.unep-wcmc.org/datasets/43).
+  efg: MFT1.3
   version: v2.0
 MISSING:
   code: MISSING
@@ -1004,6 +1103,7 @@ MT1.1.IM.grid_v2.0:
     regional substrate maps, imagery available in Google Earth (to exclude ecoregions
     with extensive sandy or muddy shores) and expertise of authors, proofed by specialist
     reviewers. Occurrences were aggregated to 1 degree spatial resolution.
+  efg: MT1.1
   version: v2.0
 MT1.1.web.map_v1.0:
   code: MT1.1.web.map
@@ -1013,6 +1113,7 @@ MT1.1.web.map_v1.0:
     regional substrate maps, imagery available in Google Earth (to exclude ecoregions
     with extensive sandy or muddy shores) and expertise of authors, proofed by specialist
     reviewers.
+  efg: MT1.1
   version: v1.0
 MT1.2.IM.orig_v1.0:
   code: MT1.2.IM.orig
@@ -1021,6 +1122,7 @@ MT1.2.IM.orig_v1.0:
     aggregated to 1 degree spatial resolution by Murray et al. (2019). Major occurrences
     were mapped in 1-degree cells with >200km2 mudflat extent, and minor occurrences
     were mapped in cells with 5-200km2 mudflat extent.
+  efg: MT1.2
   version: v1.0
 MT1.2.web.map_v1.0:
   code: MT1.2.web.map
@@ -1030,6 +1132,7 @@ MT1.2.web.map_v1.0:
     A broad grid cell (5 arc minute resolution) is used to show the overall range
     of tidal flats, and large aggregations are depicted as major occurrences (30 arc
     second grids or approx. 1km2).
+  efg: MT1.2
   version: v1.0
 MT1.3.IM.grid_v1.0:
   code: MT1.3.IM.grid
@@ -1038,6 +1141,7 @@ MT1.3.IM.grid_v1.0:
     sandy coastlines mapped by Vousdoukas et al. (2020) aggregated to 1 degree spatial
     resolution. Cells with >50 points were reclassified as major occurrences, and
     those with 1-50 points were reclassified as minor occurrences.
+  efg: MT1.3
   version: v1.0
 MT1.3.web.map_v1.0:
   code: MT1.3.web.map
@@ -1047,6 +1151,7 @@ MT1.3.web.map_v1.0:
     resolution. Cells with >50 points were reclassified as major occurrences, and
     those with 1-50 points were reclassified as minor occurrences. These were clipped
     to the coastline.
+  efg: MT1.3
   version: v1.0
 MT1.4.IM.grid_v2.0:
   code: MT1.4.IM.grid
@@ -1056,6 +1161,7 @@ MT1.4.IM.grid_v2.0:
     regional substrate maps, imagery available in Google Earth (to exclude ecoregions
     with extensive sandy or muddy shores) and expertise of authors, proofed by specialist
     reviewers. Occurrences were aggregated to 1 degree spatial resolution.
+  efg: MT1.4
   version: v2.0
 MT1.4.web.map_v1.0:
   code: MT1.4.web.map
@@ -1065,18 +1171,21 @@ MT1.4.web.map_v1.0:
     regional substrate maps, imagery available in Google Earth (to exclude ecoregions
     with extensive sandy or muddy shores) and expertise of authors, proofed by specialist
     reviewers.
+  efg: MT1.4
   version: v1.0
 MT2.1.IM.orig_v1.0:
   code: MT2.1.IM.orig
   contributors: DA Keith, JR Ferrer-Paris
   description: "Coastlines were mapped between 60\xB0S and 60\xB0N with a 20 km buffer\
     \ applied."
+  efg: MT2.1
   version: v1.0
 MT2.1.web.map_v1.0:
   code: MT2.1.web.map
   contributors: JR Ferrer-Paris, DA Keith
   description: "Coastlines were mapped with a 5 km buffer applied between 60\xB0S\
     \ and 60\xB0N."
+  efg: MT2.1
   version: v1.0
 MT2.2.IM.orig_v1.0:
   code: MT2.2.IM.orig
@@ -1087,6 +1196,7 @@ MT2.2.IM.orig_v1.0:
     resolution, for the maps we aggregated data to square grid cells of 250 km. We
     used a threshold of >1000 and <100000 kg/yr N to select minor occurrences and
     a threshold of >100000 kg/yr N for major occurrences.
+  efg: MT2.2
   version: v1.0
 MT3.1.IM.grid_v2.0:
   code: MT3.1.IM.grid
@@ -1096,6 +1206,7 @@ MT3.1.IM.grid_v2.0:
     (Cinzano et al. 2019), imagery available on Google Earth and expertise of authors.
     Occurrences were aggregated to 1 degree spatial resolution and intersected with
     the coastline to exclude areas inland and in the open ocean.
+  efg: MT3.1
   version: v2.0
 MT3.1.web.map_v1.0:
   code: MT3.1.web.map
@@ -1105,6 +1216,7 @@ MT3.1.web.map_v1.0:
     (see T7.4), imagery available on Google Earth and expertise of authors. Occurrences
     were aggregated to 1 degree spatial resolution and intersected with the coastline
     to exclude areas inland and in the open ocean.
+  efg: MT3.1
   version: v1.0
 S1.1.IM.orig_v1.0:
   code: S1.1.IM.orig
@@ -1114,6 +1226,7 @@ S1.1.IM.orig_v1.0:
     area of exposed karst terrain, as not all carbonate rocks are karstified. Lava
     tubes and other rocks that may contain these ecosystem functional groups are not
     shown on this indicative map, but are less extensive than those in carbonate rock.
+  efg: S1.1
   version: v1.0
 S1.1.web.orig_v1.0:
   code: S1.1.web.orig
@@ -1123,16 +1236,19 @@ S1.1.web.orig_v1.0:
     area of exposed karst terrain, as not all carbonate rocks are karstified. Lava
     tubes and other rocks that may contain these ecosystem functional groups are not
     shown on this indicative map, but are less extensive than those in carbonate rock.
+  efg: S1.1
   version: v1.0
 S1.2.IM.orig_v1.0:
   code: S1.2.IM.orig
   contributors: DA Keith, JR Ferrer-Paris
   description: Global distribution throughout the earth's crust. Not mapped.
+  efg: S1.2
   version: v1.0
 S1.2.web.orig_v1.0:
   code: S1.2.web.orig
   contributors: DA Keith, JR Ferrer-Paris
   description: Global distribution throughout the earth's crust. Not mapped.
+  efg: S1.2
   version: v1.0
 S2.1.IM.orig_v1.0:
   code: S2.1.IM.orig
@@ -1144,6 +1260,7 @@ S2.1.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: S2.1
   version: v1.0
 S2.1.web.orig_v1.0:
   code: S2.1.web.orig
@@ -1155,6 +1272,7 @@ S2.1.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: S2.1
   version: v1.0
 SF1.1.IM.orig_v1.0:
   code: SF1.1.IM.orig
@@ -1165,6 +1283,7 @@ SF1.1.IM.orig_v1.0:
     karstified. Lava tubes and other rocks that may contain these ecosystem functional
     groups are not shown on this indicative map, but are less extensive than those
     in carbonate rock.
+  efg: SF1.1
   version: v1.0
 SF1.1.web.orig_v1.0:
   code: SF1.1.web.orig
@@ -1175,6 +1294,7 @@ SF1.1.web.orig_v1.0:
     karstified. Lava tubes and other rocks that may contain these ecosystem functional
     groups are not shown on this indicative map, but are less extensive than those
     in carbonate rock.
+  efg: SF1.1
   version: v1.0
 SF1.2.IM.orig_v1.0:
   code: SF1.2.IM.orig
@@ -1183,6 +1303,7 @@ SF1.2.IM.orig_v1.0:
     \ f\xFCr Geowissenschaften und Rohstoffe & UNESCO (2012) with colour ramp showing\
     \ type of aquifer by recharge rate, only in major groundwater basins (type 11\
     \ (minor occurrences) to type 15 (major occurrences))."
+  efg: SF1.2
   version: v1.0
 SF1.2.web.orig_v1.0:
   code: SF1.2.web.orig
@@ -1191,6 +1312,7 @@ SF1.2.web.orig_v1.0:
     \ f\xFCr Geowissenschaften und Rohstoffe & UNESCO (2012) with colour ramp showing\
     \ type of aquifer by recharge rate, only in major groundwater basins (type 11\
     \ (minor occurrences) to type 15 (major occurrences))."
+  efg: SF1.2
   version: v1.0
 SF2.1.IM.orig_v1.0:
   code: SF2.1.IM.orig
@@ -1201,6 +1323,7 @@ SF2.1.IM.orig_v1.0:
     infrastructure, and expertise of authors. Due to uncertainty and limited verification
     and likely limited spatial extent within mapped areas, all inferred occurrences
     were shown as minor at 30 arc seconds spatial resolution.
+  efg: SF2.1
   version: v1.0
 SF2.1.web.orig_v1.0:
   code: SF2.1.web.orig
@@ -1211,6 +1334,7 @@ SF2.1.web.orig_v1.0:
     infrastructure, and expertise of authors. Due to uncertainty and limited verification
     and likely limited spatial extent within mapped areas, all inferred occurrences
     were shown as minor at 30 arc seconds spatial resolution.
+  efg: SF2.1
   version: v1.0
 SF2.2.IM.orig_v1.0:
   code: SF2.2.IM.orig
@@ -1222,6 +1346,7 @@ SF2.2.IM.orig_v1.0:
     ecoregions (Dinerstein et al., 2017) with concentrations of these records were
     selected to represent an indicative global distribution of flooded mines at 30
     arc seconds spatial resolution.'
+  efg: SF2.2
   version: v1.0
 SF2.2.web.orig_v1.0:
   code: SF2.2.web.orig
@@ -1233,6 +1358,7 @@ SF2.2.web.orig_v1.0:
     ecoregions (Dinerstein et al. 2017) with concentrations of these records were
     selected to represent an indicative global distribution of flooded mines at 30
     arc seconds spatial resolution.'
+  efg: SF2.2
   version: v1.0
 SM1.1.IM.grid_v3.0:
   code: SM1.1.IM.grid
@@ -1241,6 +1367,7 @@ SM1.1.IM.grid_v3.0:
     mapped areas of carbonate rock outcrop (Williams & Ting Fong, 2016) and lava flows
     intersecting the coast, which were aggregated within a template of 1-degree grid
     cells.
+  efg: SM1.1
   version: v3.0
 SM1.1.web.grid_v3.0:
   code: SM1.1.web.grid
@@ -1249,6 +1376,7 @@ SM1.1.web.grid_v3.0:
     mapped areas of carbonate rock outcrop (Williams & Ting Fong 2016) and lava flows
     intersecting the coast, which were aggregated within a template of 1-degree grid
     cells.
+  efg: SM1.1
   version: v3.0
 SM1.2.IM.grid_v3.0:
   code: SM1.2.IM.grid
@@ -1257,6 +1385,7 @@ SM1.2.IM.grid_v3.0:
     mapped areas of carbonate rock outcrop (Williams & Ting Fong, 2016) and lava flows
     intersecting the coast, which were aggregated within a template of 1-degree grid
     cells.
+  efg: SM1.2
   version: v3.0
 SM1.2.web.grid_v3.0:
   code: SM1.2.web.grid
@@ -1265,6 +1394,7 @@ SM1.2.web.grid_v3.0:
     mapped areas of carbonate rock outcrop (Williams & Ting Fong 2016) and lava flows
     intersecting the coast, which were aggregated within a template of 1-degree grid
     cells.
+  efg: SM1.2
   version: v3.0
 SM1.3.IM.grid_v3.0:
   code: SM1.3.IM.grid
@@ -1275,6 +1405,7 @@ SM1.3.IM.grid_v3.0:
     The coastlines within these ecoregions were summarised using a template of 1-degree
     grid cell intersected with the coast. As caves represent a small portion of such
     coastlines, all mapped areas were designated as minor occurrences.
+  efg: SM1.3
   version: v3.0
 SM1.3.web.grid_v3.0:
   code: SM1.3.web.grid
@@ -1285,6 +1416,7 @@ SM1.3.web.grid_v3.0:
     The coastlines within these ecoregions were summarised using a template of 1-degree
     grid cell intersected with the coast. As caves represent a small portion of such
     coastlines, all mapped areas were designated as minor occurrences.
+  efg: SM1.3
   version: v3.0
 T1.1.IM.mix_v2.0:
   code: T1.1.IM.mix
@@ -1295,6 +1427,7 @@ T1.1.IM.mix_v2.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T1.1
   version: v2.0
 T1.1.web.mix_v2.0:
   code: T1.1.web.mix
@@ -1306,6 +1439,7 @@ T1.1.web.mix_v2.0:
     with those identified in the profile of the Ecosystem Functional Group; and ii)
     if their location was consistent with the ecological drivers described in the
     profile.'
+  efg: T1.1
   version: v2.0
 T1.2.IM.mix_v1.0:
   code: T1.2.IM.mix
@@ -1316,6 +1450,7 @@ T1.2.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T1.2
   version: v1.0
 T1.2.web.mix_v1.0:
   code: T1.2.web.mix
@@ -1326,6 +1461,7 @@ T1.2.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T1.2
   version: v1.0
 T1.3.WM.nwx_v1.0:
   code: T1.3.WM.nwx
@@ -1335,6 +1471,7 @@ T1.3.WM.nwx_v1.0:
     (Wilson and Jetz, 2016, Karger et al. 2021). Occurrences were aggregated to half
     degree spatial resolution and cells reclassified as major occurrences (>25% of
     cell area) and minor occurrences (< 25% of cell area).
+  efg: T1.3
   version: v1.0
 T1.3.web.alt_v2.1:
   code: T1.3.web.alt
@@ -1344,6 +1481,7 @@ T1.3.web.alt_v2.1:
     (Wilson and Jetz 2016). Occurrences were aggregated to half degree spatial resolution
     and cells reclassified as major occurrences (>25% of cell area) and minor occurrences
     (< 25% of cell area).
+  efg: T1.3
   version: v2.1
 T1.4.IM.orig_v2.0:
   code: T1.4.IM.orig
@@ -1355,6 +1493,7 @@ T1.4.IM.orig_v2.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: T1.4
   version: v2.0
 T1.4.web.orig_v2.0:
   code: T1.4.web.orig
@@ -1366,6 +1505,7 @@ T1.4.web.orig_v2.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T1.4
   version: v2.0
 T2.1.IM.mix_v1.0:
   code: T2.1.IM.mix
@@ -1376,6 +1516,7 @@ T2.1.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T2.1
   version: v1.0
 T2.1.web.mix_v1.0:
   code: T2.1.web.mix
@@ -1386,6 +1527,7 @@ T2.1.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T2.1
   version: v1.0
 T2.2.IM.mix_v1.0:
   code: T2.2.IM.mix
@@ -1396,6 +1538,7 @@ T2.2.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T2.2
   version: v1.0
 T2.2.web.mix_v1.0:
   code: T2.2.web.mix
@@ -1406,6 +1549,7 @@ T2.2.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T2.2
   version: v1.0
 T2.3.IM.orig_v1.0:
   code: T2.3.IM.orig
@@ -1414,6 +1558,7 @@ T2.3.IM.orig_v1.0:
     et al. (2011) matched with ecoregion descriptions (Dinerstein et al., 2017) to
     map major occurrences, proofed by expert appraisal. Ecoregions were mapped at
     30 arc second spatial resolution.
+  efg: T2.3
   version: v1.0
 T2.3.web.orig_v1.0:
   code: T2.3.web.orig
@@ -1425,6 +1570,7 @@ T2.3.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T2.3
   version: v1.0
 T2.4.IM.orig_v2.0:
   code: T2.4.IM.orig
@@ -1436,6 +1582,7 @@ T2.4.IM.orig_v2.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: T2.4
   version: v2.0
 T2.4.web.orig_v2.0:
   code: T2.4.web.orig
@@ -1447,6 +1594,7 @@ T2.4.web.orig_v2.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T2.4
   version: v2.0
 T2.5.IM.alt_v2.0:
   code: T2.5.IM.alt
@@ -1458,6 +1606,7 @@ T2.5.IM.alt_v2.0:
     Mapped occurrences were then aggregated to half degree spatial resolution and
     reclassified as major occurrences (>20% of cell area) and minor occurrences (<
     20% of cell area).
+  efg: T2.5
   version: v2.0
 T2.5.web.alt_v2.0:
   code: T2.5.web.alt
@@ -1469,6 +1618,7 @@ T2.5.web.alt_v2.0:
     occurrences were then aggregated to half degree spatial resolution and reclassified
     as major occurrences (>20% of cell area) and minor occurrences (< 20% of cell
     area).
+  efg: T2.5
   version: v2.0
 T2.6.IM.mix_v1.0:
   code: T2.6.IM.mix
@@ -1479,6 +1629,7 @@ T2.6.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T2.6
   version: v1.0
 T2.6.web.mix_v1.0:
   code: T2.6.web.mix
@@ -1489,6 +1640,7 @@ T2.6.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T2.6
   version: v1.0
 T3.1.IM.orig_v2.0:
   code: T3.1.IM.orig
@@ -1500,6 +1652,7 @@ T3.1.IM.orig_v2.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: T3.1
   version: v2.0
 T3.1.web.orig_v2.0:
   code: T3.1.web.orig
@@ -1511,6 +1664,7 @@ T3.1.web.orig_v2.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T3.1
   version: v2.0
 T3.2.IM.orig_v1.0:
   code: T3.2.IM.orig
@@ -1522,6 +1676,7 @@ T3.2.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: T3.2
   version: v1.0
 T3.2.web.orig_v1.0:
   code: T3.2.web.orig
@@ -1533,6 +1688,7 @@ T3.2.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T3.2
   version: v1.0
 T3.3.IM.alt_v4.0:
   code: T3.3.IM.alt
@@ -1545,6 +1701,7 @@ T3.3.IM.alt_v4.0:
     if: i) their descriptions mentioned features consistent with those identified
     in the profile of the Ecosystem Functional Group; and ii) if their location was
     consistent with the ecological drivers described in the profile.'
+  efg: T3.3
   version: v4.0
 T3.3.web.alt_v4.0:
   code: T3.3.web.alt
@@ -1557,6 +1714,7 @@ T3.3.web.alt_v4.0:
     descriptions mentioned features consistent with those identified in the profile
     of the Ecosystem Functional Group; and ii) if their location was consistent with
     the ecological drivers described in the profile.'
+  efg: T3.3
   version: v4.0
 T3.4.IM.mix_v1.0:
   code: T3.4.IM.mix
@@ -1567,6 +1725,7 @@ T3.4.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T3.4
   version: v1.0
 T3.4.web.mix_v1.0:
   code: T3.4.web.mix
@@ -1577,6 +1736,7 @@ T3.4.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T3.4
   version: v1.0
 T4.1.IM.mix_v1.0:
   code: T4.1.IM.mix
@@ -1587,6 +1747,7 @@ T4.1.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T4.1
   version: v1.0
 T4.1.web.mix_v1.0:
   code: T4.1.web.mix
@@ -1597,6 +1758,7 @@ T4.1.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T4.1
   version: v1.0
 T4.2.IM.orig_v1.0:
   code: T4.2.IM.orig
@@ -1608,6 +1770,7 @@ T4.2.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: T4.2
   version: v1.0
 T4.2.web.orig_v1.0:
   code: T4.2.web.orig
@@ -1619,6 +1782,7 @@ T4.2.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T4.2
   version: v1.0
 T4.3.WM.nwx_v1.0:
   code: T4.3.WM.nwx
@@ -1626,6 +1790,7 @@ T4.3.WM.nwx_v1.0:
   description: The distribution of Hummock savannas in Australia was compiled from
     multiple source maps (Keith and Tozer 2017). It was mapped at 30 arc second spatial
     resolution.
+  efg: T4.3
   version: v1.0
 T4.3.web.orig_v1.0:
   code: T4.3.web.orig
@@ -1637,6 +1802,7 @@ T4.3.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T4.3
   version: v1.0
 T4.4.IM.orig_v1.0:
   code: T4.4.IM.orig
@@ -1648,6 +1814,7 @@ T4.4.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: T4.4
   version: v1.0
 T4.4.web.orig_v1.0:
   code: T4.4.web.orig
@@ -1659,6 +1826,7 @@ T4.4.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T4.4
   version: v1.0
 T4.5.IM.orig_v1.0:
   code: T4.5.IM.orig
@@ -1670,6 +1838,7 @@ T4.5.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: T4.5
   version: v1.0
 T4.5.web.orig_v1.0:
   code: T4.5.web.orig
@@ -1681,6 +1850,7 @@ T4.5.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T4.5
   version: v1.0
 T5.1.IM.mix_v1.0:
   code: T5.1.IM.mix
@@ -1691,6 +1861,7 @@ T5.1.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.1
   version: v1.0
 T5.1.web.mix_v1.0:
   code: T5.1.web.mix
@@ -1701,6 +1872,7 @@ T5.1.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.1
   version: v1.0
 T5.2.IM.mix_v1.0:
   code: T5.2.IM.mix
@@ -1711,6 +1883,7 @@ T5.2.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.2
   version: v1.0
 T5.2.web.mix_v1.0:
   code: T5.2.web.mix
@@ -1721,6 +1894,7 @@ T5.2.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.2
   version: v1.0
 T5.3.WM.nwx_v1.0:
   code: T5.3.WM.nwx
@@ -1728,6 +1902,7 @@ T5.3.WM.nwx_v1.0:
   description: The distribution of Sclerophyll hot deserts and semi-deserts in Australia
     was compiled from multiple source maps (Keith and Tozer 2017). It was mapped at
     30 arc second spatial resolution.
+  efg: T5.3
   version: v1.0
 T5.3.web.mix_v1.0:
   code: T5.3.web.mix
@@ -1738,6 +1913,7 @@ T5.3.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.3
   version: v1.0
 T5.4.IM.mix_v1.0:
   code: T5.4.IM.mix
@@ -1748,6 +1924,7 @@ T5.4.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.4
   version: v1.0
 T5.4.web.mix_v1.0:
   code: T5.4.web.mix
@@ -1758,6 +1935,7 @@ T5.4.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.4
   version: v1.0
 T5.5.IM.mix_v1.0:
   code: T5.5.IM.mix
@@ -1768,6 +1946,7 @@ T5.5.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.5
   version: v1.0
 T5.5.web.mix_v1.0:
   code: T5.5.web.mix
@@ -1778,6 +1957,7 @@ T5.5.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T5.5
   version: v1.0
 T6.1.IM.alt_v2.0:
   code: T6.1.IM.alt
@@ -1789,6 +1969,7 @@ T6.1.IM.alt_v2.0:
     occurrences were then aggregated to half degree spatial resolution and reclassified
     as major occurrences (cells with > 22% snow coverage) and minor occurrences (cells
     with at least one occurrence).
+  efg: T6.1
   version: v2.0
 T6.1.web.map_v1.0:
   code: T6.1.web.map
@@ -1797,6 +1978,7 @@ T6.1.web.map_v1.0:
     maps (Tuanmu et al. 2014), glacier inventories (Raup et al 2007; GLIMS and NSIDC
     2005-2018) and the Antarctic Land Cover map for 2000 (Hui et al. 2017). A composite
     map was created at 30 arc seconds spatial resolution in geographic projection.
+  efg: T6.1
   version: v1.0
 T6.2.IM.alt_v2.0:
   code: T6.2.IM.alt
@@ -1813,6 +1995,7 @@ T6.2.IM.alt_v2.0:
     location were designated major occurrences, while those mapped as mixed barren
     and snow/ice cover were designated as minor occurrences if snow/ice covered at
     least 2.5% of the cell area.
+  efg: T6.2
   version: v2.0
 T6.2.web.alt_v2.0:
   code: T6.2.web.alt
@@ -1829,6 +2012,7 @@ T6.2.web.alt_v2.0:
     were designated as major occurrences, while those mapped as mixed barren and snow/ice
     cover were designated as minor occurrences if snow/ice covered at least 2.5% of
     the cell area.
+  efg: T6.2
   version: v2.0
 T6.3.IM.alt_v2.0:
   code: T6.3.IM.alt
@@ -1841,6 +2025,7 @@ T6.3.IM.alt_v2.0:
     \ were then aggregated to half degree spatial resolution and reclassified cells\
     \ as major occurrences (>80% of cell area) and minor occurrences (30-80% of cell\
     \ area)."
+  efg: T6.3
   version: v2.0
 T6.3.web.map_v1.0:
   code: T6.3.web.map
@@ -1850,6 +2035,7 @@ T6.3.web.map_v1.0:
     \ areas were then selected in high latitudes corresponding with low annual solar\
     \ radiation (values <1800 in Beckmann et al. 2014). A union of these maps was\
     \ created at 30 arc seconds spatial resolution in geographic projection."
+  efg: T6.3
   version: v1.0
 T6.4.IM.orig_v1.0:
   code: T6.4.IM.orig
@@ -1861,6 +2047,7 @@ T6.4.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: T6.4
   version: v1.0
 T6.4.web.orig_v1.0:
   code: T6.4.web.orig
@@ -1872,6 +2059,7 @@ T6.4.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: T6.4
   version: v1.0
 T6.5.IM.mix_v1.0:
   code: T6.5.IM.mix
@@ -1882,6 +2070,7 @@ T6.5.IM.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T6.5
   version: v1.0
 T6.5.web.mix_v1.0:
   code: T6.5.web.mix
@@ -1892,6 +2081,7 @@ T6.5.web.mix_v1.0:
     were selected if: i) their descriptions mentioned features consistent with those
     identified in the profile of the Ecosystem Functional Group; and ii) if their
     location was consistent with the ecological drivers described in the profile.'
+  efg: T6.5
   version: v1.0
 T7.1.IM.alt_v2.0:
   code: T7.1.IM.alt
@@ -1903,6 +2093,7 @@ T7.1.IM.alt_v2.0:
     \ matched the concept of T7.1. Occurrences were extracted from fractional aggregated\
     \ 1\u2009km resolution base data (Jung et al. 2020), approximating 30 arc second\
     \ spatial resolution."
+  efg: T7.1
   version: v2.0
 T7.1.web.alt_v2.0:
   code: T7.1.web.alt
@@ -1912,6 +2103,7 @@ T7.1.web.alt_v2.0:
     (IUCN 2012). We compared this to cropping areas in consensus land-cover maps (Tuanmu
     et al., 2014) and found that maps of Jung et al. (2020) more closely matched the
     concept of T7.1.
+  efg: T7.1
   version: v2.0
 T7.2.WM.nwx_v1.0:
   code: T7.2.WM.nwx
@@ -1942,6 +2134,7 @@ T7.2.WM.nwx_v1.0:
     \ global-scale delineation of pasture ecosystems with varied levels of human influence.\
     \ We therefore advise appropriate caution in use of the spatial data for quantitative\
     \ analysis."
+  efg: T7.2
   version: v1.0
 T7.3.IM.alt_v2.0:
   code: T7.3.IM.alt
@@ -1953,6 +2146,7 @@ T7.3.IM.alt_v2.0:
     \ matched the concept of T7.3. Occurrences were extracted from fractional aggregated\
     \ 1\u2009km resolution base data (Jung et al. 2020), approximating 30 arc second\
     \ spatial resolution."
+  efg: T7.3
   version: v2.0
 T7.3.web.alt_v2.0:
   code: T7.3.web.alt
@@ -1962,6 +2156,7 @@ T7.3.web.alt_v2.0:
     v3.1 (IUCN 2012). We compared this to cropping areas in consensus land-cover maps
     (Tuanmu et al., 2014) and found that maps of Jung et al. (2020) more closely matched
     the concept of T7.3.
+  efg: T7.3
   version: v2.0
 T7.4.WM.nwx_v1.0:
   code: T7.4.WM.nwx
@@ -1974,6 +2169,7 @@ T7.4.WM.nwx_v1.0:
     \ villages may not be represented. We calculated the proportion of built area\
     \ per square kilometre and applied a threshold of 1 to 5 % for minor occurrences\
     \ and >5% for major occurrences."
+  efg: T7.4
   version: v1.0
 T7.5.WM.nwx_v2.0:
   code: T7.5.WM.nwx
@@ -1993,6 +2189,7 @@ T7.5.WM.nwx_v2.0:
     that challenge the global-scale delineation of pasture ecosystems with varied
     levels of human influence. We therefore advise appropriate caution in use of the
     spatial data for quantitative analysis.'
+  efg: T7.5
   version: v2.0
 TF1.1.IM.alt_v4.0:
   code: TF1.1.IM.alt
@@ -2006,6 +2203,7 @@ TF1.1.IM.alt_v4.0:
     \ of Jung et al. (2020) more closely matched the concept of TF1.1. Occurrences\
     \ were extracted from fractional aggregated 1\u2009km resolution base data (Jung\
     \ et al. 2020), approximating 30 arc second spatial resolution."
+  efg: TF1.1
   version: v4.0
 TF1.1.web.map_v1.0:
   code: TF1.1.web.map
@@ -2017,6 +2215,7 @@ TF1.1.web.map_v1.0:
     \ consistent with those identified in the profile of the Ecosystem Functional\
     \ Group; and ii) if their location was consistent with the ecological drivers\
     \ described in the profile. "
+  efg: TF1.1
   version: v1.0
 TF1.2.IM.orig_v2.0:
   code: TF1.2.IM.orig
@@ -2028,6 +2227,7 @@ TF1.2.IM.orig_v2.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: TF1.2
   version: v2.0
 TF1.2.web.orig_v2.0:
   code: TF1.2.web.orig
@@ -2039,6 +2239,7 @@ TF1.2.web.orig_v2.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: TF1.2
   version: v2.0
 TF1.3.IM.orig_v1.0:
   code: TF1.3.IM.orig
@@ -2050,6 +2251,7 @@ TF1.3.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: TF1.3
   version: v1.0
 TF1.3.web.orig_v1.0:
   code: TF1.3.web.orig
@@ -2061,6 +2263,7 @@ TF1.3.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: TF1.3
   version: v1.0
 TF1.4.IM.mix_v1.0:
   code: TF1.4.IM.mix
@@ -2074,6 +2277,7 @@ TF1.4.IM.mix_v1.0:
     \ in the profile of the Ecosystem Functional Group; and ii) if their location\
     \ was consistent with the ecological drivers described in the profile. Occurrences\
     \ were aggregated to half degree spatial resolution."
+  efg: TF1.4
   version: v1.0
 TF1.4.web.map_v1.0:
   code: TF1.4.web.map
@@ -2086,6 +2290,7 @@ TF1.4.web.map_v1.0:
     \ if: i) their descriptions mentioned features consistent with those identifed\
     \ in the profile of the Ecosystem Functional Group; and ii) if their location\
     \ was consistent with the ecological drivers described in the profile."
+  efg: TF1.4
   version: v1.0
 TF1.5.WM.nwx_v1.0:
   code: TF1.5.WM.nwx
@@ -2098,12 +2303,14 @@ TF1.5.WM.nwx_v1.0:
     surface water (classes 9 and 10 from Pekel et al., 2016) were used to identify
     major occurrences. The remaining areas of selected ecoregions were mapped as minor
     occurrences.'
+  efg: TF1.5
   version: v1.0
 TF1.5.web.map_v2.0:
   code: TF1.5.web.map
   contributors: JR Ferrer-Paris, DA Keith
   description: "Locations of pan, brackish and saline wetlands were taken from the\
     \ Global Lakes and Wetlands Database GLWD3 class 7 from Lehner and D\xF6ll (2004). "
+  efg: TF1.5
   version: v2.0
 TF1.6.IM.orig_v1.0:
   code: TF1.6.IM.orig
@@ -2115,6 +2322,7 @@ TF1.6.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: TF1.6
   version: v1.0
 TF1.6.web.orig_v1.0:
   code: TF1.6.web.orig
@@ -2126,6 +2334,7 @@ TF1.6.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: TF1.6
   version: v1.0
 TF1.7.IM.orig_v1.0:
   code: TF1.7.IM.orig
@@ -2137,6 +2346,7 @@ TF1.7.IM.orig_v1.0:
     Consequently, they are coarse-scale indicative representations of distribution,
     except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second
     spatial resolution.
+  efg: TF1.7
   version: v1.0
 TF1.7.web.orig_v1.0:
   code: TF1.7.web.orig
@@ -2148,4 +2358,5 @@ TF1.7.web.orig_v1.0:
     they are coarse-scale indicative representations of distribution, except where
     they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial
     resolution.
+  efg: TF1.7
   version: v1.0
