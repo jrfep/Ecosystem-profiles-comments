@@ -18,7 +18,7 @@ section: browse
     <tr>
       <th colspan=3><a href="EFGs/{{ EFG.code }}">{{ EFG.name }}</a></th>
     </tr>
-    {% assign mapdata = site.data.mapinfo | where: "efg", EFG %}
+    {% assign mapdata = site.data.mapinfo | where: "efg", EFG.code %}
     {% for item in mapdata %}
     <tr>
       <td>{{ item.code }} {{ item.version }}</td>
