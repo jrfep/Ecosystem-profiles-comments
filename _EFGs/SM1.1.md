@@ -5,8 +5,8 @@ realm: Subterranean, Marine
 code: SM1.1
 biomecode: SM1
 contributors: TM Iliffe, D Brankovits, V Gerovasileiou, B Gonzalez, A Martínez García, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: SM1.1.IM.grid_v3.0
 ---
 # Ecosystem properties
 
@@ -24,14 +24,3 @@ Anchialine caves originate from seawater penetration into faults, fractures, and
 
 Scattered worldwide, mostly in the Northern Hemisphere in limestone, basalt flows, and more rarely other lithic substrates.
 
-{% capture map_det %}
-Indicative distributions of anchialine caves and pools were based on mapped areas of carbonate rock outcrop (Williams & Ting Fong, 2016) and lava flows intersecting the coast, which were aggregated within a template of 1-degree grid cells.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Iliffe TM (2000) Ancialine cave ecology. In: Subterranean ecosystems (Eds. H Wilkens, DC Culver, WF Humphreys), pp59-76. Ecosystems of the world vol. 30. Elsevier, Amsterdam. 
-### Map References
-* Becker JJ, Sandwell DT, Smith WHF, Braud J, Binder B, Depner J, Fabre D, Factor J, Ingalls S, Kim S-H, Ladner R, Marks K, Nelson S, Pharaoh A, Trimmer R, Von Rosenberg J, Wallace G, Weatherall P (2009) *Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS*, **Marine Geodesy** 32: 355-371. DOI:[10.1080/01490410903297766](https://doi.org/10.1080/01490410903297766)
-* Williams P, Ting Fong Y (2016) *World map of carbonate rock outcrops v3.0*. The University of Auckland, Auckland. [Webpage](https://www.fos.auckland.ac.nz/our_research/karst/)

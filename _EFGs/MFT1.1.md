@@ -5,8 +5,8 @@ realm: Marine, Freshwater, Terrestrial
 code: MFT1.1
 biomecode: MFT1
 contributors: DA Keith, RT Kingsford
-mapcontributors: JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: MFT1.1.WM.nwx_v1.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ River inflows structure the dynamic mosaics of coastal river deltas. Inflows dep
 
 Continental margins where rivers connect the coast to high-rainfall catchments, usually with high mountains in their headwaters.
 
-{% capture map_det %}
-The extent of major coastal deltas was taken directly from Nienhuis et al. (2020). The data are based on polygons that encompass the lowest reaches of deltaic floodplains and a marine buffer approximating the extent of subtidal deltaic sediments. We checked the data for completeness against point locations shown in Fig. 1 of Goodbred & Saito (2012) and maps of Tessler et al. (2015) and found them to be inclusive of major occurrences. The latter included fewer deltas and olygons that extended some distance up freshwater floodplains into the Freshwater-Terrestrial (FT) transition biome.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Bianchi TS, Allison MA (2009). Large-river delta-front estuaries as natural "recorders" of global environmental change. Proceedings of the National Academy of Sciences of the USA 106:8085-8092.
-* Orton GJ, Reading G (1993) Variability of deltaic processes in terms of sediment supply, with particular emphasis on grain-size. Sedimentology 40:475-512.
-### Map References
-* Nienhuis, J.H., Ashton, A.D., Edmonds, D.A. et al. Global-scale human impact on delta morphology has led to net land area gain. Nature 577, 514–518 (2020). https://doi.org/10.1038/s41586-019-1905-9
-* Z.D. Tessler, C.J. Vörösmarty, M. Grossberg, I. Gladkova, H. Aizenman, J.P.M. Syvitski, E. Foufoula-Georgiou. Profiling Risk and Sustainability in Coastal Deltas of the World. Science 349(6248), 638-643 (2015) doi:10.1126/science.aab3574.

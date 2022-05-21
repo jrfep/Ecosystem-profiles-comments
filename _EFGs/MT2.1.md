@@ -5,8 +5,8 @@ realm: Marine, Terrestrial
 code: MT2.1
 biomecode: MT2
 contributors: DA Keith, J Loidi, ATR Acosta
-mapcontributors: DA Keith, JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: MT2.1.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,13 +24,3 @@ Desiccating winds promote an overall water deficit and appreciable exposure to s
 
 Coastal dunes and cliffs throughout tropical, temperate, and boreal latitudes.
 
-{% capture map_det %}
-Coastlines were mapped between 60°S and 60°N with a 20 km buffer applied.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* van der Maarel E (2001) Dry coastal ecosystems: General aspects. Ecosystems of the world 2C. Elsevier, Amsterdam.
-### Map References
-* Becker JJ, Sandwell DT, Smith WHF, Braud J, Binder B, Depner J, Fabre D, Factor J, Ingalls S, Kim S-H, Ladner R, Marks K, Nelson S, Pharaoh A, Trimmer R, Von Rosenberg J, Wallace G, Weatherall P (2009) *Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS*, **Marine Geodesy** 32: 355-371. DOI:[10.1080/01490410903297766](https://doi.org/10.1080/01490410903297766)

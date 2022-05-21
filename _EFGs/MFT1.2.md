@@ -5,8 +5,8 @@ realm: Marine, Freshwater, Terrestrial
 code: MFT1.2
 biomecode: MFT1
 contributors: MJ Bishop, AH Altieri, TS Bianchi, DA Keith
-mapcontributors: JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: MFT1.2.WM.nwx_v1.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ Mangroves are physiologically intolerant of low temperatures, which excludes the
 
 Widely distributed along tropical and warm temperate coastlines of the world. Large-scale currents may prevent buoyant seeds from reaching some areas.
 
-{% capture map_det %}
-The indicative map for Intertidal forests and shrublands was was developed by resampling the known global distribution of mangrove forests for the year 2016 mapped by Global Mangrove Watch (Bunting et al. 2018). We used a buffer of 1km around the distribution data and a 30 arc second grid, thus large aggregations (> 1km2) are depicted as major occurrences, and the buffer areas with small occurrences are shown as minor occurrences.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Duke N, Ball M, Ellison J (1998) Factors influencing biodiversity and distributional gradients in mangroves. Global Ecology & Biogeography Letters 7:27-47.
-* Feller IC, Lovelock CE, Berger U,, McKee KL, Joye SB, Ball MC (2010) Biocomplexity in mangrove ecosystems Annual Review of Marine Science 2, 395–417 
-* Krauss KW, Lovelock CE, McKee KL, López-Hoffman L, Ewe SM, Sousa WP (2008) Environmental drivers in mangrove establishment and early development: a review. Aquatic Botany 89:105-27.
-### Map References
-* Bunting P., Rosenqvist A., Lucas R., Rebelo L-M., Hilarides L., Thomas N., Hardy A., Itoh T., Shimada M. and Finlayson C.M. (2018). The Global Mangrove Watch – a New 2010 Global Baseline of Mangrove Extent. Remote Sensing 10(10): 1669. doi: 10.3390/rs1010669.

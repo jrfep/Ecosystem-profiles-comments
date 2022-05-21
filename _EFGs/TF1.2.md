@@ -5,8 +5,8 @@ realm: Terrestrial, Freshwater
 code: TF1.2
 biomecode: TF1
 contributors: R Mac Nally, RT Kingsford, JA Catford, B Robson, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: TF1.2.IM.orig_v2.0
 ---
 # Ecosystem properties
 
@@ -24,13 +24,3 @@ These forests occur on floodplains, riparian corridors, and disconnected lowland
 
 Temperate and subtropical floodplains, riparian zones and lowland flats worldwide.
 
-{% capture map_det %}
-Terrestrial ecoregions containing major or minor occurrences of this ecosystem functional group were identified by consulting available ecoregion descriptions (Dinerstein et al., 2017), global and regional reviews, national and regional ecosystem maps, locations of relevant examples, and proofed by expert reviewers. Consequently, they are coarse-scale indicative representations of distribution, except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial resolution.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-*  Mac Nally R, Cunningham SC, Baker PJ, Horner GJ, Thomson JR (2011) Dynamics of Murray-Darling floodplain forests under multiple stressors: The past, present, and future of an Australian icon. Water Resources Research, 47, W00g05.
-### Map References
-* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) *An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm*, **BioScience** 67: 534–545. DOI:[10.1093/biosci/bix014](https://doi.org/10.1093/biosci/bix014). [Data-set available on-line](https://ecoregions2017.appspot.com/)

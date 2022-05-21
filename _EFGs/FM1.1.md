@@ -5,8 +5,8 @@ realm: Freshwater, Marine
 code: FM1.1
 biomecode: FM1
 contributors: DA Keith, EJ Gregr, A Lindgaard, TS Bianchi
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: FM1.1.IM.alt_v3.0
 ---
 # Ecosystem properties
 
@@ -24,18 +24,3 @@ Deepwater coastal systems may exceed 300 km in length and 2 km in depth. Almost 
 
 Historically or currently glaciated coastlines at polar and cool-temperate latitudes.
 
-{% capture map_det %}
-Known locations of fjords were selected from a global geographical gazetteer (GeoNames, 2020) and the composite gazetteer of Antarctica (SCAR, 1992-2020). We further selected related coastal areas from a global coastal typology (Type IV in Dürr et al., 2011) and the adjacent marine shelves to 2000 metre depth (Becker et al., 2009). A composite map was created at 30 arc seconds spatial resolution in geographic projection, occurrences were then aggregated to half degree spatial resolution and reclassified as major occurrences (cells with at least one known occurrence) and minor occurrences (cells with > 5% occurrence of coastal/marine shelf areas). Minor occurrences were clipped to a 50km buffer along the coast to remove inland and oceanic areas.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Bianchi TS, Arndt S, Austin WEN, Benn DI, Bertrand S, Cui X, Faust JC, Koziorowska-Makuch K, Moy CM, Savage C, Smeaton C, Smith RW, Syvitski J (2020) Fjords as Aquatic Critical Zones (ACZs). Earth-Science Reviews 203, 103145.
-* Salvanes AGV (2001) Review of ecosystem models of fjords; new insights of relevance to fisheries management. Sarsia 86:441-463.
-* Zaborska A, Włodarska-Kowalczuk M, Legeżyńska J et al. (2018) Sedimentary organic matter sources, benthic consumption and burial in west Spitsbergen fjords – Signs of maturing of Arctic fjordic systems? Journal of Marine Systems 180: 112–123.
-### Map References
-* Becker JJ, Sandwell DT, Smith WHF, Braud J, Binder B, Depner J, Fabre D, Factor J, Ingalls S, Kim S-H, Ladner R, Marks K, Nelson S, Pharaoh A, Trimmer R, Von Rosenberg J, Wallace G, Weatherall P (2009) *Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS*, **Marine Geodesy** 32: 355-371. DOI:[10.1080/01490410903297766](https://doi.org/10.1080/01490410903297766)
-* Dürr, H. H., G. G. Laruelle, C. M. van Kempen, C. P. Slomp, M. Meybeck and H. Middelkoop (2011) *Worldwide Typology of Nearshore Coastal Systems: Defining the Estuarine Filter of River Inputs to the Oceans*. **Estuaries and Coasts**, 34(3), 441-458, doi:[10.1007/s12237-011-9381-y](http://dx.doi.org/10.1007/s12237-011-9381-y)
-* GeoNames (2020) The GeoNames geographical database. https://www.geonames.org [Accessed in Feb 2020]
-* Secretariat SCAR (1992, updated 2020). *Composite Gazetteer of Antarctica*, **Scientific Committee on Antarctic Research**. [GCMD Metadata](http://gcmd.nasa.gov/records/SCAR_Gazetteer.html)

@@ -5,8 +5,8 @@ realm: Subterranean, Marine
 code: SM1.2
 biomecode: SM1
 contributors: TS Sakihara, M Lamson, B Seidel, DM Sedar, S Santos, J Havird, TM Iliffe, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: SM1.2.IM.grid_v3.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ Anchialine pools form from subterranean mixing of seawater and groundwater, prim
 
 Scattered worldwide, mostly in the northern hemisphere. Many well- known examples occur in Hawaii, Palau and Indonesia, volcanic cracks or grietas in the Galapagos Islands, and open-air entrance pools of anchialine caves (e.g. cenotes in Mexico’s Yucatan Peninsula and blue holes in the Bahamas).
 
-{% capture map_det %}
-Indicative distributions of anchialine caves and pools were based on mapped areas of carbonate rock outcrop (Williams & Ting Fong, 2016) and lava flows intersecting the coast, which were aggregated within a template of 1-degree grid cells.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Becking LE, Renema W, Santodomingo NK, Hoeksema BW, Tuti Y, de Voogd NJ (2011) Recently discovered landlocked basins in Indonesia reveal high habitat diversity in anchialine systems. Hydrobiologia 677, 89-105.
-* Por FD (1985) Anchialine pools—comparative hydrobiology. In Hypersaline ecosystems, pp. 136-144. Springer, Berlin, Heidelberg
-### Map References
-* Becker JJ, Sandwell DT, Smith WHF, Braud J, Binder B, Depner J, Fabre D, Factor J, Ingalls S, Kim S-H, Ladner R, Marks K, Nelson S, Pharaoh A, Trimmer R, Von Rosenberg J, Wallace G, Weatherall P (2009) *Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS*, **Marine Geodesy** 32: 355-371. DOI:[10.1080/01490410903297766](https://doi.org/10.1080/01490410903297766)
-* Williams P, Ting Fong Y (2016) *World map of carbonate rock outcrops v3.0*. The University of Auckland, Auckland. [Webpage](https://www.fos.auckland.ac.nz/our_research/karst/)

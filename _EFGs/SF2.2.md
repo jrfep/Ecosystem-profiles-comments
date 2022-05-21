@@ -5,8 +5,8 @@ realm: Subterranean, Freshwater
 code: SF2.2
 biomecode: SF2
 contributors: DA Keith, TM Iliffe
-mapcontributors: DA Keith
 version: v2.1 (2022-04-06)
+mapcode: SF2.2.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,18 +24,3 @@ Like all subterranean ecosystems, light is absent or extremely dim in flooded mi
 
 Common in in many mineral rich regions of the world.
 
-{% capture map_det %}
-Point records of flooded mines were compiled from public databases (https://www.unexmin.eu/the-european-inventory-of-flooded-mines-is-now-online/), an internet search for "flooded mines" and locations of deep mines inferred from world mineral resources spatial data (USGS: https://mrdata.usgs.gov/). Terrestrial ecoregions (Dinerstein et al., 2017) with concentrations of these records were selected to represent an indicative global distribution of flooded mines at 30 arc seconds spatial resolution.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Nuttall, CA; Younger, PL (2004) Hydrochemical stratification in flooded underground mines: an overlooked pitfall. Journal of Contaminant Hydrology 69, 101-114 
-* Roesler AJ, Gammons CH, Druschel GK et al. (2007) Geochemistry of flooded underground mine workings influenced by bacterial sulfate reduction. Aquatic Geochemistry 13, 211–235.
-* Wright IA, Paciuszkiewicz K, Belmer N (2018) Increased water pollution after closure of Australia’s longest operating underground coal mine: a 13-month study of mine drainage, water chemistry and river ecology. Water Air Soil Pollution 229, 55.
-### Map References
-* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) *An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm*, **BioScience** 67: 534–545. DOI:[10.1093/biosci/bix014](https://doi.org/10.1093/biosci/bix014). [Data-set available on-line](https://ecoregions2017.appspot.com/)
-* Stasi et al. 2018 UNEXMIN D5.4 - Inventory of Flooded Mines. Available on-line at http://www.unexmin.eu/public-deliverables/#tab-id-5
-* U.S. Geological Survey mineral databases: MRDS and MAS/MILS
-McFaul, E.J., Mason, G.T., Ferguson, W.B., and Lipin, B.R., 2000, U.S. Geological Survey mineral databases; MRDS and MAS/MILS: USGS Data Series 52, https://doi.org/10.3133/ds52.

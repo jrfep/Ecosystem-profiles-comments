@@ -5,8 +5,8 @@ realm: Terrestrial, Freshwater
 code: TF1.7
 biomecode: TF1
 contributors: DA Keith, RT Kingsford, F Essl, LJ Jackson, M Kelly-Quinn, KR Young, T Tahvanainen
-mapcontributors: DA Keith, JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: TF1.7.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,14 +24,3 @@ Moisture inputs (precipitation, seepage, and surface inflow) exceed outputs (eva
 
 Extensive across boreal-subarctic latitudes and cool temperate regions, especially mountains. Very restricted in the Southern Hemisphere. Fens may also occur in tropical mountains (e.g. Andes), but are poorly known there.
 
-{% capture map_det %}
-Terrestrial ecoregions containing major or minor occurrences of this ecosystem functional group were identified by consulting available ecoregion descriptions (Dinerstein et al., 2017), global and regional reviews, national and regional ecosystem maps, locations of relevant examples, and proofed by expert reviewers. Consequently, they are coarse-scale indicative representations of distribution, except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial resolution.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Godwin KS., Shallenberger JP, Leopold DJ, Bedford BL (2002) Linking landscape properties to local hydrogeologic gradients and plant species occurrence in New York fens: a hydrogeologic setting (HGS) framework. Wetlands. 22: 722–737.
-* Wieder RK, Vitt DH (2006). Boreal peatland ecosystems. Ecological studies vol. 188. Springer-Verlag, Berlin.
-### Map References
-* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) *An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm*, **BioScience** 67: 534–545. DOI:[10.1093/biosci/bix014](https://doi.org/10.1093/biosci/bix014). [Data-set available on-line](https://ecoregions2017.appspot.com/)

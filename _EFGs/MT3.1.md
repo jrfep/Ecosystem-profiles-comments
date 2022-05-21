@@ -5,8 +5,8 @@ realm: Marine, Terrestrial
 code: MT3.1
 biomecode: MT3
 contributors: IM Suthers, MJ Bishop, LB Firth, KA Dafforn. DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: MT3.1.IM.grid_v2.0
 ---
 # Ecosystem properties
 
@@ -24,16 +24,3 @@ The substrate material influences the texture, chemistry, and thermal properties
 
 Urbanised coasts through tropical and temperate latitudes, especially in North and Central America, Europe, and North and South Asia.
 
-{% capture map_det %}
-Marine ecoregions (Spalding et al., 2008) containing major and minor occurrences of urbanised shorelines were identified from the map of night lights (Cinzano et al. 2019), imagery available on Google Earth and expertise of authors. Occurrences were aggregated to 1 degree spatial resolution and intersected with the coastline to exclude areas inland and in the open ocean.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Dafforn KA, Glasby TM, Airoldi L, Rivero NK, Mayer-Pinto M, Johnston EL (2015) *Marine urbanization: an ecological framework for designing multifunctional artificial structures*. **Frontiers in Ecology and the Environment** 13: 82-90. DOI:[10.1890/140050](https://doi.org/10.1890/140050)
-### Map References
-* Becker JJ, Sandwell DT, Smith WHF, Braud J, Binder B, Depner J, Fabre D, Factor J, Ingalls S, Kim S-H, Ladner R, Marks K, Nelson S, Pharaoh A, Trimmer R, Von Rosenberg J, Wallace G, Weatherall P (2009) *Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS*, **Marine Geodesy** 32: 355-371. DOI:[10.1080/01490410903297766](https://doi.org/10.1080/01490410903297766)
-* Spalding MD, Fox HE, Allen GR, Davidson N, Ferdaña ZA, Finlayson M, Halpern BS, Jorge MA, Lombana A, Lourie SA, Martin KD, McManus E, Molnar J, Recchia CA, Robertson J (2007) *Marine ecoregions of the world: a bioregionalization of coastal and shelf areas*. **Bioscience** 57: 573–583. DOI:[10.1641/B570707](https://doi.org/10.1641/B570707)
- 
-* *VIIRS Day/Night Band Nighttime Lights*, Version 1; **Earth Observation Group, NOAA National Centers for Environmental Information (NCEI)**. [Data-set]( https://eogdata.mines.edu/download_dnb_composites.html)

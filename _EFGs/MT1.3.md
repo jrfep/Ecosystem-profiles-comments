@@ -5,8 +5,8 @@ realm: Marine, Terrestrial
 code: MT1.3
 biomecode: MT1
 contributors: MJ Bishop, SL McSweeney, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: MT1.3.IM.grid_v1.0
 ---
 # Ecosystem properties
 
@@ -24,16 +24,3 @@ Physical factors are generally more important ecological drivers than biological
 
 Sandy shores are most extensive at temperate latitudes, accounting for 31% of the ice-free global coastline, including 66% of the African coast and 23% of the European coast.
 
-{% capture map_det %}
-The indicative map of Sandy shorelines was based on point records of sandy coastlines mapped by Vousdoukas et al. (2020) aggregated to 1 degree spatial resolution. Cells with >50 points were reclassified as major occurrences, and those with 1-50 points were reclassified as minor occurrences.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Luijendijk A, Hagenaars G, Ranasinghe R, Baart F, Donchyts G, Aarninkhof S (2018) The State of the World’s Beaches. Scientific reports 2018: 8.
-* Schlacher TA, Schoeman DS, Dugan J, Lastra M, Jones A, Scapini F, McLachlan A. (2008) Sandy beach ecosystems: key features, sampling issues, management challenges and climate change impacts. Marine Ecology 29:70-90.
-### Map References
-* Vousdoukas, M., Ranasinghe, R., Mentaschi, L., Plomaritis, T., Athanasiou, P., Luijendijk, A. and Feyen, L., Sandy coastlines under threat of erosion, NATURE CLIMATE CHANGE, ISSN 1758-678X (online), 10, 2019, p. 260-263, JRC117344.
-
-DOI:10.1038/s41558-020-0697-0

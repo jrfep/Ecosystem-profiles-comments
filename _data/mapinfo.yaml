@@ -1186,6 +1186,11 @@ MFT1.3.web.orig_v2.0:
     occurrences, and the buffer areas with small occurrences are shown as minor occurrences.
     The original data is available at [UNEP-WCMC](http://data.unep-wcmc.org/datasets/43).
   version: v2.0
+MISSING:
+  code: MISSING
+  contributors: MISSING
+  description: Map information is missing
+  version: MISSING
 MT1.1.IM.grid_v2.0:
   code: MT1.1.IM.grid
   contributors:

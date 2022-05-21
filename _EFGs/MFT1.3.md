@@ -5,8 +5,8 @@ realm: Marine, Freshwater, Terrestrial
 code: MFT1.3
 biomecode: MFT1
 contributors: DA Keith, AH Altieri, J Loidi, MJ Bishop
-mapcontributors: DA Keith, JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: MFT1.3.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,14 +24,3 @@ High and variable salt concentration is driven by alternating episodes of soil d
 
 Widely distributed, mostly on low-energy coasts from arctic to tropical and subantarctic latitudes.
 
-{% capture map_det %}
-The indicative map for Coastal saltmarshes was based on mapping by McOwen et al. (2017) summarised within a template of 1-degree grid cells. Cells with >5% cover of marsh vegetation were reclassified as major occurrences, and those with non-zero cover up to 5% were reclassified as minor occurrences.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Adam P (1990) Saltmarsh ecology. Cambridge University Press, Cambridge.
-* Bertness MD, Shumway SW (1993). Competition and facilitation in marsh plants. American Naturalist 142, 718-724
-### Map References
-* McOwen CJ, Weatherdon LV, van Bochove JW, Sullivan E, Blyth S, Zockler C, Stanwell-Smith D, Kingston N, Martin CS, Spalding M, Fletcher S (2017) A global map of saltmarshes. Biodiversity Data Journal 5: e11764. [https://doi.org/10.3897/BDJ.5.e11764]

@@ -5,8 +5,8 @@ realm: Marine, Terrestrial
 code: MT2.2
 biomecode: MT2
 contributors: S Gorta, SF Bokhorst, JC. Ellis, DA Keith
-mapcontributors: JR Ferrer-Paris, S Gorta, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: MT2.2.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ Marine subsidies of nutrients, excreted by marine-foraging seabirds and pinniped
 
 Scattered globally on islands and coastlines, but most common in polar and subpolar regions
 
-{% capture map_det %}
-We used spatial data on Nitrogen (N) and Phosphor (P) deposition from seabird colonies (Otero et al. 2018) as an indicators of the distribution of this functional group. Original point data was in decimal degrees rounded to 6 arc-min resolution, for the maps we aggregated data to square grid cells of 250 km. We used a threshold of >1000 and <100000 kg/yr N to select minor occurrences and a threshold of >100000 kg/yr N for major occurrences.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Ellis JC (2005) Marine Birds on land: A review of plant biomass, species richness, and community composition in seabird colonies. Plant Ecology 181, 227–241. 
-* Otero XL, De La Peña-Lastra S,  Pérez-Alberti A, Ferreira TO, Huerta-Diaz MA (2018) Seabird colonies as important global drivers in the nitrogen and phosphorus cycles. Nature Communications 9, 246
-* S. N. Riddick, U. Dragosits, T. D. Blackall, F. Daunt, S. Wanless and M. A. Sutton (2012) The global distribution of ammonia emissions from seabird colonies. Atmospheric Environment, 55 (2012), pp. 319-327 DOI: 10.1016/j.atmosenv.2012.02.052
-### Map References
-* Otero XL, De La Peña-Lastra S,  Pérez-Alberti A, Ferreira TO, Huerta-Diaz MA (2018) Seabird colonies as important global drivers in the nitrogen and phosphorus cycles. Nature Communications 9, 246
