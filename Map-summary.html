@@ -13,6 +13,8 @@ section: browse
     <th>Description</th>
     <th>Contributors</th>
   </tr>
+  {{ site.data.mapinfo | find: "efg", "F1.1" }}
+  
   {% assign mapdata = site.data.mapinfo | find: "efg", "F1.1" %}
 
   <tr>
@@ -20,7 +22,7 @@ section: browse
   </tr>
 {% for item in mapdata %}
 <tr>
-
+  <td> {{ item }} </td>
   <td>{{ item.code }} {{ item.version }}</td>
   <td>{{ item.description }}</td>
   <td>{{ item.contributors }}</td>
