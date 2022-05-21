@@ -26,7 +26,21 @@ section: browse
 
 <h2>References</h2>
 <h3>Main references</h3>
+<ul>
+  {% assign mainref = site.data.efgrefs[page.code] %}
+{% for ref in mainref %}
+<li>{{ref}}</li>
+{% endfor %}
+</ul>
+
 <h3>Map references</h3>
+<ul>
+  {% assign mapref = site.data.maprefs[page.mapcode] %}
+{% for ref in mapref %}
+<li>{{ref}}</li>
+{% endfor %}
+</ul>
+
 
 Back to: <a href="../Realms.html">Realm overview</a>
 {% for therealm in site.Realms %}
