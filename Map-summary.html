@@ -13,9 +13,9 @@ section: browse
     <th>Description</th>
     <th>Contributors</th>
   </tr>
-  {{ site.data.mapinfo | find: "efg", "F1.1" }}
+  {{ site.data.mapinfo | where: "efg", "F1.1" }}
   
-  {% assign mapdata = site.data.mapinfo | find: "efg", "F1.1" %}
+  {% assign mapdata = site.data.mapinfo | where: "efg", "F1.1" %}
 
   <tr>
     <td colspan=3>F1.1</td>
