@@ -20,7 +20,7 @@ section: browse
 <figure>
 <img src="../assets/maps/{{ page.mapcode }}.png" width="100%"/>
  <figcaption>
-   <b style="font-size: 15px;font-weight: bold;">Map details for {{ page.name }} (map code {{map.code}} {{map.version}})</b>: {{ map.description }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font> <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-size: 10px;font-weight: bold;font-color: red;">See general notes on maps.</a> <a href="../assets/maps/{{ page.code }}.png" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
+   <b style="font-size: 15px;font-weight: bold;">Map details for {{ page.name }} (map code {{map.code}} {{map.version}})</b>: {{ map.description }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font> <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-size: 10px;font-weight: bold;font-color: red;">See general notes on maps.</a> <a href="../assets/maps/{{ page.mapcode }}.png" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
  </figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ section: browse
 <ul>
   {% assign mainref = site.data.efgrefs[page.code] %}
 {% for ref in mainref %}
-<li>{{ref}}</li>
+<li>{{ref | markdownify}}</li>
 {% endfor %}
 </ul>
 
@@ -37,7 +37,7 @@ section: browse
 <ul>
   {% assign mapref = site.data.maprefs[page.mapcode] %}
 {% for ref in mapref %}
-<li>{{ref}}</li>
+<li>{{ref | markdownify}}</li>
 {% endfor %}
 </ul>
 
