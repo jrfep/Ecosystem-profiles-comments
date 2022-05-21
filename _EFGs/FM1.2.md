@@ -5,8 +5,8 @@ realm: Freshwater, Marine
 code: FM1.2
 biomecode: FM1
 contributors: R Mac Nally, R Kingsford, MJ Bishop, RJ Woodland, KA Dafforn, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: FM1.2.IM.orig_v2.0
 ---
 # Ecosystem properties
 
@@ -24,14 +24,3 @@ Characteristics of these coastal systems are governed by the relative dominance 
 
 Coastlines of most landmasses but rarely on arid or polar coasts.
 
-{% capture map_det %}
-Marine ecoregions (Spalding et al., 2008) containing major or minor occurrences of each Ecosystem Functional Group were identified by consulting global and regional reviews, maps of relevant ecosystems, imagery available in Google Earth and expertise of authors. Occurrences were converted to 30 arc second spatial resolution and clipped to a 50 km buffer along the coastline to exclude inland and offshore areas of the ecoregions.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Gillanders BM (2007) Linking terrestrial-freshwater and marine environments: an example from estuarine systems. Chapter 11 in Connell, SD and Gillanders, BM (eds) Marine ecology. Oxford University Press, Melbourne.
-### Map References
-* Spalding MD, Fox HE, Allen GR, Davidson N, Ferdaña ZA, Finlayson M, Halpern BS, Jorge MA, Lombana A, Lourie SA, Martin KD, McManus E, Molnar J, Recchia CA, Robertson J (2007) *Marine ecoregions of the world: a bioregionalization of coastal and shelf areas*. **Bioscience** 57: 573–583. DOI:[10.1641/B570707](https://doi.org/10.1641/B570707)
- 

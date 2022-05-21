@@ -5,8 +5,8 @@ realm: Marine, Terrestrial
 code: MT1.1
 biomecode: MT1
 contributors: MJ Bishop, LB Firth, SL McSweeney, TP Crowe, AH Altieri, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: MT1.1.IM.grid_v2.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ Tides and waves are the key ecological drivers, producing resource availability 
 
 Found globally at the margins of oceans, where waves are eroding rocks. They are the most common ecosystems on open, high-energy coasts and also occur on many sheltered and enclosed coastlines, such as sea lochs, fjords, and rias.
 
-{% capture map_det %}
-Marine ecoregions (Spalding et al., 2008) containing rocky shorelines and boulder and cobble shorelines, respectively, were identified by consulting regional substrate maps, imagery available in Google Earth (to exclude ecoregions with extensive sandy or muddy shores) and expertise of authors, proofed by specialist reviewers. Occurrences were aggregated to 1 degree spatial resolution.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Connell JH (1972) Community interactions on marine rocky intertidal shores. Annual Review of Ecology and Systematics 3:169-192.
-* Thompson RC, Crowe TP, Hawkins SJ (2002) Rocky intertidal communities: past environmental changes, present status and predictions for the next 25 years. Environmental Conservation 29:168-91.
-### Map References
-* Spalding MD, Fox HE, Allen GR, Davidson N, Ferdaña ZA, Finlayson M, Halpern BS, Jorge MA, Lombana A, Lourie SA, Martin KD, McManus E, Molnar J, Recchia CA, Robertson J (2007) *Marine ecoregions of the world: a bioregionalization of coastal and shelf areas*. **Bioscience** 57: 573–583. DOI:[10.1641/B570707](https://doi.org/10.1641/B570707)
- 

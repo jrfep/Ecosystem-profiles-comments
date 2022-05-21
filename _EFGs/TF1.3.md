@@ -5,8 +5,8 @@ realm: Terrestrial, Freshwater
 code: TF1.3
 biomecode: TF1
 contributors: RT Kingsford, JA Catford, MC Rains, B Robson, DA Keith
-mapcontributors: DA Keith, JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: TF1.3.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,13 +24,3 @@ These systems occur in several geomorphic settings including lake shores, ground
 
 Scattered throughout the tropical and temperate regions worldwide.
 
-{% capture map_det %}
-Terrestrial ecoregions containing major or minor occurrences of this ecosystem functional group were identified by consulting available ecoregion descriptions (Dinerstein et al., 2017), global and regional reviews, national and regional ecosystem maps, locations of relevant examples, and proofed by expert reviewers. Consequently, they are coarse-scale indicative representations of distribution, except where they occupy small ecoregions. Ecoregions were mapped at 30 arc second spatial resolution.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Grace JB, Wetzel RG (1981) Habitat partitioning and competitive displacement in cattails (Typha): experimental field studies.  The American Naturalist 118:463-474.
-### Map References
-* Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EE, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JEM, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn Barnekow Lillesø JP, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M (2017) *An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm*, **BioScience** 67: 534–545. DOI:[10.1093/biosci/bix014](https://doi.org/10.1093/biosci/bix014). [Data-set available on-line](https://ecoregions2017.appspot.com/)

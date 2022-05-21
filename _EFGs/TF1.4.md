@@ -5,8 +5,8 @@ realm: Terrestrial, Freshwater
 code: TF1.4
 biomecode: TF1
 contributors: DA Keith, RT Kingsford, R Mac Nally, B Robson, JA Catford, MC Rains, K Irvine, KM Rodriguez-Clark, A Etter
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: TF1.4.IM.mix_v1.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ Regular seasonal flooding and drying is driven by river flow regimes, reflecting
 
 Throughout the seasonal tropics and subhumid temperate regions of the world.
 
-{% capture map_det %}
-Major occurrences of freshwater marshes and floodplains were taken from the Global Lakes and Wetlands Database (Lehner and Döll, 2004). Occurrences in boreal and polar climates were excluded by removing KoeppnGeiger_classes>26 in Beck et al., (2018). Additional areas with minor occurrences were identified in selected freshwater ecoregions (Abell et al., 2008). Ecoregions were selected if: i) their descriptions mentioned features consistent with those identified in the profile of the Ecosystem Functional Group; and ii) if their location was consistent with the ecological drivers described in the profile. Occurrences were aggregated to half degree spatial resolution.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Damasceno-Junior GA., Semir J, Dos Santos FAM, de Freitas Leitão-Filho H (2005) Structure, distribution of species and inundation in a riparian forest of Rio Paraguai, Pantanal, Brazil. Flora-Morphology, Distribution, Functional Ecology of Plants 200:119-135.
-### Map References
-* Abell R, Thieme ML, Revenga C, Bryer M, Kottelat M, Bogutskaya N, Coad B, Mandrak N, Contreras Balderas S, Bussing W, Stiassny MLJ, Skelton P, Allen GR, Unmack P, Naseka A, Ng R, Sindorf N, Robertson J, Armijo E, Higgins JV, Heibel TJ, Wikramanayake E, Olson D, López HL, Reis RE, Lundberg JG, Sabaj Pérez MH, Petry P (2008) *Freshwater ecoregions of the world: A new map of biogeographic units for freshwater biodiversity conservation*, **BioScience** 58: 403–414. DOI:[10.1641/B580507](https://doi.org/10.1641/B580507)
-* Beck, H., Zimmermann, N., McVicar, T. et al. Present and future Köppen-Geiger climate classification maps at 1-km resolution. Sci Data 5, 180214 (2018). DOI: 10.1038/sdata.2018.214
-* Lehner, B. and Döll, P. (2004): *Development and validation of a global database of lakes, reservoirs and wetlands*. **Journal of Hydrology** 296/1-4: 1-22. [Data-set](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)

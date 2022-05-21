@@ -24,14 +24,3 @@ High rainfall, overbank flows or high water tables maintain an abundant water su
 
 Flat equatorial lowlands of Southeast Asia, South America, and Central and West Africa, notably in Borneo and the Amazonian lowlands.
 
-{% assign map = site.data.mapinfo[page.mapcode] %}
-{% assign map_det = map.description %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Page SE, Rieley JO, Wüst R (2014) Lowland tropical peatlands of Southeast Asia. In: Peatlands: Evolution and records of environmental and climate changes (Eds. IP Martini, Martínez A Cortizas, W Chesworth), pp145-172. Elsevier, Amsterdam. 
-### Map References
-{% for ref in map.contributors %}
-* {{ref}}
-{% endfor %}

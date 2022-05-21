@@ -5,8 +5,8 @@ realm: Subterranean, Marine
 code: SM1.3
 biomecode: SM1
 contributors: TM Iliffe, D Brankovits, V Gerovasileiou, B Gonzalez, A Martínez García, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: SM1.3.IM.grid_v3.0
 ---
 # Ecosystem properties
 
@@ -24,17 +24,3 @@ Sea caves openings vary from fully submerged and never exposed to the atmosphere
 
 Globally distributed in coastal headlands, rocky reefs and in coral reefs.
 
-{% capture map_det %}
-Marine ecoregions (Spalding et al., 2008) containing occurrences of rocky coastline (see MT1.1) were verified by inspection of imagery available in Google Earth to identify an envelope of potential distribution for sea caves. The coastlines within these ecoregions were summarised using a template of 1-degree grid cell intersected with the coast. As caves represent a small portion of such coastlines, all mapped areas were designated as minor occurrences.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Cicogna F, Bianchi CN, Ferrari G, Forti P (2003) Le grotte marine: cinquant’anni di ricerca in Italia. (Ministero dell’Ambiente e della Tutela del Territorio: Roma)
-* Gerovasileiou V, Bianchi CN (2019) Mediterranean marine caves: a synthesis of current knowledge. MedKeyHabitats II Project (UNEP-MAP, SPA/RAC: Tunis
-* Gerovasileiou V, Martínez A, Álvarez F, Boxshall G, Humphreys W, Jaume D, Becking L, Muricy G, van Hengstum P, Dekeyzer S, Decock W, Vanhoorne B, Vandepitte L, Bailly N, Iliffe T (2016) World Register of marine Cave Species (WoRCS): a new thematic species database for marine and anchialine cave biodiversity. Research Ideas and Outcomes 2, e10451.
-* Riedl R (1966) Biologie der Meereshöhlen (Paul Parey: Hamburg)
-### Map References
-* Spalding MD, Fox HE, Allen GR, Davidson N, Ferdaña ZA, Finlayson M, Halpern BS, Jorge MA, Lombana A, Lourie SA, Martin KD, McManus E, Molnar J, Recchia CA, Robertson J (2007) *Marine ecoregions of the world: a bioregionalization of coastal and shelf areas*. **Bioscience** 57: 573–583. DOI:[10.1641/B570707](https://doi.org/10.1641/B570707)
- 

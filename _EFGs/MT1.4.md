@@ -5,8 +5,8 @@ realm: Marine, Terrestrial
 code: MT1.4
 biomecode: MT1
 contributors: MJ Bishop, SL McSweeney, AH Altieri, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: MT1.4.IM.grid_v2.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ Particle size (e.g. cobbles vs. boulders) and wave activity determine substrate 
 
 Cobble beaches occur where rivers or glaciers delivered cobbles to the coast or where they were eroded from nearby coastal cliffs. They are most common in Europe and also occur in Bahrain, North America, and New Zealand’s South Island.
 
-{% capture map_det %}
-Marine ecoregions (Spalding et al., 2008) containing rocky shorelines and boulder and cobble shorelines, respectively, were identified by consulting regional substrate maps, imagery available in Google Earth (to exclude ecoregions with extensive sandy or muddy shores) and expertise of authors, proofed by specialist reviewers. Occurrences were aggregated to 1 degree spatial resolution.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Altieri AH, Silliman BR, Bertness MD (2007) Hierarchical organization via a facilitation cascade in intertidal cordgrass bed communities. The American Naturalist 169: 195-206.
-* Scott GAM (1963) The ecology of shingle beach plants.  Journal of Ecology 51: 517-527..
-### Map References
-* Spalding MD, Fox HE, Allen GR, Davidson N, Ferdaña ZA, Finlayson M, Halpern BS, Jorge MA, Lombana A, Lourie SA, Martin KD, McManus E, Molnar J, Recchia CA, Robertson J (2007) *Marine ecoregions of the world: a bioregionalization of coastal and shelf areas*. **Bioscience** 57: 573–583. DOI:[10.1641/B570707](https://doi.org/10.1641/B570707)
- 

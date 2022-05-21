@@ -5,8 +5,8 @@ realm: Marine, Terrestrial
 code: MT1.2
 biomecode: MT1
 contributors: MJ Bishop, NJ Murray, SE Swearer, DA Keith
-mapcontributors: NJ Murray, DA Keith, JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: MT1.2.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ These are depositional environments influenced by sediment supply and the balanc
 
 Muddy shorelines occur along low-energy coastlines, in estuaries and embayments where the velocity of water is so low that the finest particles can settle to the bottom.
 
-{% capture map_det %}
-Tidal flats were mapped directly from remote sensing time series and aggregated to 1 degree spatial resolution by Murray et al. (2019). Major occurrences were mapped in 1-degree cells with >200km2 mudflat extent, and minor occurrences were mapped in cells with 5-200km2 mudflat extent.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Murray NJ, Phinn SR, DeWitt M, Ferrari R, Johnston R, Lyons MB, Clinton N, Thau D, Fuller RA (2019) The global distribution and trajectory of tidal flats. Nature 565: 222–225.
-* Peterson CH (1991) *Intertidal zonation of marine invertebrates in sand and mud*. **American Scientist** 79:236-249. [http://www.jstor.org/stable/29774371]
-* Wilson WH (1990) *Competition and predation in marine soft-sediment communities*. **Annual Review of Ecology and Systematics** 21:221-41. DOI:[10.1146/annurev.es.21.110190.001253](https://doi.org/10.1146/annurev.es.21.110190.001253)
-### Map References
-* Murray NJ, Phinn SR, DeWitt M, Ferrari R, Johnston R, Lyons MB, Clinton N, Thau D, Fuller RA (2019) The global distribution and trajectory of tidal flats. Nature 565: 222–225.

@@ -5,8 +5,8 @@ realm: Terrestrial, Freshwater
 code: TF1.5
 biomecode: TF1
 contributors: RT Kingsford, R Mac Nally, AH Arthington, JA Catford, B Robson, DA Keith
-mapcontributors: 
 version: v2.1 (2022-04-06)
+mapcode: MISSING
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ Multi-year dry periods are punctuated by brief intervals of shallow inundation c
 
 Connected to ephemeral rivers in semi-arid and arid regions of all continents.
 
-
-MAP INFO IS MISSING
-
-
-## References
-### Main References
-* Arthington AH, Balcombe S (2011) Extreme flow variability and the 'boom and bust' ecology of fish in arid-zone floodplain rivers: a case history with implications for environmental flows, conservation and management. Ecohydrology 4, 706-720
-
-* Bunn SE, Balcombe SR, Davies PM, Fellows CS, McKenzie-Smith FJ (2006) Aquatic productivity and food webs of desert river ecosystems. In: Ecology of desert rivers (Ed. RT Kingsford), pp76-99. Cambridge University Press, Cambridge.
-* McInerney PJ, Rick J. Stoffels RJ, Shackleton ME, Davey CD (2017) Flooding drives a macroinvertebrate biomass boom in ephemeral floodplain wetlands. Freshwater Science 36: 726-738.
-### Map References
-MAP INFO IS MISSING

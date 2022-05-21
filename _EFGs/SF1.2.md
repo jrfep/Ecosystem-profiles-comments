@@ -5,8 +5,8 @@ realm: Subterranean
 code: SF1.2
 biomecode: SF1
 contributors: DA Keith, TM Iliffe, V Gerovasileiou, B Gonzalez, D Brankovits, A Martínez García, GC Hose
-mapcontributors: DA Keith, JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: SF1.2.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,15 +24,3 @@ Groundwater ecosystems are characterised by a scarcity of nutrients, Carbon, dis
 
 Globally distributed. Map shows only the major groundwater basins by recharge rates.
 
-{% capture map_det %}
-Indicative global maps of Groundwater aquifers were based on Bundesanstalt für Geowissenschaften und Rohstoffe & UNESCO (2012) with colour ramp showing type of aquifer by recharge rate, only in major groundwater basins (type 11 (minor occurrences) to type 15 (major occurrences)).
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Danielopol DL, Griebler C, Gunatilaka A, Notenboom J (2003) Present state and future prospects for groundwater ecosystems. Environmental Conservation 30: 104-130.
-* Hancock PJ Boulton AJ, Humphreys WF (2005) Aquifers and hyporheic zones: towards an understanding of groundwater. Hydrogeology Journal 13: 98–111.
-* Struckmeier W, Richts A (2008) Groundwater resources of the world. BGR Hannover / UNESCO Paris.
-### Map References
-* Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) & UNESCO (2012) River and Groundwater Basins of the World 1 : 50 000 000 – Hannover, Paris 

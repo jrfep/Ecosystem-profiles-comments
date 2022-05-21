@@ -5,8 +5,8 @@ realm: Freshwater, Marine
 code: FM1.3
 biomecode: FM1
 contributors: MJ Bishop, SL McSweeney, RJ Woodland, KA Dafforn, DA Keith
-mapcontributors: JR Ferrer-Paris, DA Keith
 version: v2.1 (2022-04-06)
+mapcode: FM1.3.IM.orig_v2.0
 ---
 # Ecosystem properties
 
@@ -24,16 +24,3 @@ These are shallow coastal water bodies that are intermittently connected with th
 
 Wave-dominated coastlines worldwide, but prevalent along microtidal to low mesotidal mid-latitude coastlines with high inter-annual variability in rainfall and wave climate. Intermittent closed open lakes and lagoons (ICOLLs) are most prevalent in Australia (21% of global occurrences), South Africa (16%), and Mexico (16%).
 
-{% capture map_det %}
-Marine ecoregions (Spalding et al., 2008) containing major or minor occurrences of each Ecosystem Functional Group were identified by consulting global and regional reviews, maps of relevant ecosystems, imagery available in Google Earth and expertise of authors. Occurrences were converted to 30 arc second spatial resolution and clipped to a 50 km buffer along the coastline to exclude inland and offshore areas of the ecoregions.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Maher W, Mikac KM, Foster S, Spooner D, Williams D (2011) Form and functioning of micro size Intermittent Closed Open Lake Lagoons (ICOLLs) in NSW, Australia, pp. 119-151 In: Friedman AG (ed) Lagoons: Biology, management and environmental impact. Nova Science Publisher. New York.
-* McSweeney SL, Kennedy DM, Rutherfurd ID, Stout JC (2017) Intermittently Closed/Open Lakes and Lagoons: Their global distribution and boundary conditions. Geomorphology 292:142-52.
-### Map References
-* Becker JJ, Sandwell DT, Smith WHF, Braud J, Binder B, Depner J, Fabre D, Factor J, Ingalls S, Kim S-H, Ladner R, Marks K, Nelson S, Pharaoh A, Trimmer R, Von Rosenberg J, Wallace G, Weatherall P (2009) *Global Bathymetry and Elevation Data at 30 Arc Seconds Resolution: SRTM30_PLUS*, **Marine Geodesy** 32: 355-371. DOI:[10.1080/01490410903297766](https://doi.org/10.1080/01490410903297766)
-* Spalding MD, Fox HE, Allen GR, Davidson N, Ferdaña ZA, Finlayson M, Halpern BS, Jorge MA, Lombana A, Lourie SA, Martin KD, McManus E, Molnar J, Recchia CA, Robertson J (2007) *Marine ecoregions of the world: a bioregionalization of coastal and shelf areas*. **Bioscience** 57: 573–583. DOI:[10.1641/B570707](https://doi.org/10.1641/B570707)
- 

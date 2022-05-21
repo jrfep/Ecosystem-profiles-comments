@@ -5,8 +5,8 @@ realm: Subterranean
 code: SF1.1
 biomecode: SF1
 contributors: DA Keith, GC Hose
-mapcontributors: DA Keith, JR Ferrer-Paris
 version: v2.1 (2022-04-06)
+mapcode: SF1.1.IM.orig_v1.0
 ---
 # Ecosystem properties
 
@@ -24,13 +24,3 @@ Most caves form from chemical weathering of soluble rocks such as limestone or d
 
 Scattered worldwide, mostly in the Northern Hemisphere in limestone and more rarely in basalt flows and other lithic substrates.
 
-{% capture map_det %}
-Distributions of Underground streams and pools were based on mapped area of carbonate rock outcrop (Williams & Ting Fong 2016). This. provides an upper limit on the area of exposed karst terrain, as not all carbonate rocks are karstified. Lava tubes and other rocks that may contain these ecosystem functional groups are not shown on this indicative map, but are less extensive than those in carbonate rock.
-{% endcapture %}
-{% include MAP.html %}
-
-## References
-### Main References
-* Gibert J, Deharveng L (2002) Subterranean ecosystems: a truncated functional biodiversity. BioScience 52, 473-481.
-### Map References
-* Williams P, Ting Fong Y (2016) *World map of carbonate rock outcrops v3.0*. The University of Auckland, Auckland. [Webpage](https://www.fos.auckland.ac.nz/our_research/karst/)
