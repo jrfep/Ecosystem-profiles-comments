@@ -1,8 +1,6 @@
 F1.1.IM.mix_v2.0:
   code: F1.1.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Freshwater ecoregions (Abell et al., 2008) were initially identified\
     \ as containing permanent upland streams if: i) their descriptions mentioned features\
     \ consistent with those identified in the profile of the Ecosystem Functional\
@@ -17,9 +15,7 @@ F1.1.IM.mix_v2.0:
   version: v2.0
 F1.1.web.mix_v2.0:
   code: F1.1.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Freshwater ecoregions  (Abell et al. 2008) were initially identified\
     \ as containing permanent upland streams if: i) their descriptions mentioned features\
     \ consistent with those identifed in the profile of the Ecosystem Functional Group;\
@@ -34,9 +30,7 @@ F1.1.web.mix_v2.0:
   version: v2.0
 F1.2.IM.grid_v1.0:
   code: F1.2.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al., 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -49,9 +43,7 @@ F1.2.IM.grid_v1.0:
   version: v1.0
 F1.2.web.map_v1.0:
   code: F1.2.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -64,9 +56,7 @@ F1.2.web.map_v1.0:
   version: v1.0
 F1.3.IM.grid_v1.0:
   code: F1.3.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "The distribution of freeze-thaw rivers and streams was mapped from\
     \ the Global River Classification database (Ouellet Dallaire et al., 2018), including\
     \ all reaches with minimum temperature below 0\xB0C. Occurrences were aggregated\
@@ -74,18 +64,14 @@ F1.3.IM.grid_v1.0:
   version: v1.0
 F1.3.web.map_v1.0:
   code: F1.3.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "The distribution of freeze-thaw rivers and streams was mapped from\
     \ the Global River Classification database (Ouellet Dallaire et al. 2018), including\
     \ all reaches with with minimum temperature below 0\xB0C."
   version: v1.0
 F1.4.IM.grid_v2.0:
   code: F1.4.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al., 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -97,9 +83,7 @@ F1.4.IM.grid_v2.0:
   version: v2.0
 F1.4.web.map_v1.0:
   code: F1.4.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -111,9 +95,7 @@ F1.4.web.map_v1.0:
   version: v1.0
 F1.5.IM.grid_v2.0:
   code: F1.5.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al., 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -126,9 +108,7 @@ F1.5.IM.grid_v2.0:
   version: v2.0
 F1.5.web.map_v1.0:
   code: F1.5.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -141,9 +121,7 @@ F1.5.web.map_v1.0:
   version: v1.0
 F1.6.IM.mix_v2.0:
   code: F1.6.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -156,9 +134,7 @@ F1.6.IM.mix_v2.0:
   version: v2.0
 F1.6.web.mix_v1.0:
   code: F1.6.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -170,9 +146,7 @@ F1.6.web.mix_v1.0:
   version: v1.0
 F1.7.IM.orig_v2.0:
   code: F1.7.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "The distribution of large lowland rivers was taken from the Global\
     \ River Classification database (Ouellet Dallaire et al., 2018). Reaches with\
     \ flow > 10,000 m3/s were mapped with a 20 km buffer as major occurrences, clipped\
@@ -181,9 +155,7 @@ F1.7.IM.orig_v2.0:
   version: v2.0
 F1.7.web.orig_v2.0:
   code: F1.7.web.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "The distribution of large lowland rivers was taken from the Global\
     \ River Classification database (Ouellet Dallaire et al. 2018). Reaches with flow\
     \ > 10,000 m3/s were mapped with a 20 km buffer as major occurrences, clipped\
@@ -192,9 +164,7 @@ F1.7.web.orig_v2.0:
   version: v2.0
 F2.1.IM.alt_v4.0:
   code: F2.1.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Locations of large lakes (>100km2) were taken from the HydroLAKES\
     \ database (Messager et al., 2016) and combined with global estimates of permanent\
     \ surface water surfaces (classes 1, 2 and 7 from Pekel et al., 2016). Freeze/thaw\
@@ -204,9 +174,7 @@ F2.1.IM.alt_v4.0:
   version: v4.0
 F2.1.web.alt_v4.0:
   code: F2.1.web.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Locations of large lakes (>100km2)were taken from the HydroLAKES database\
     \ (Messager et al. 2016) and combined with global estimates of permanent surface\
     \ water surfaces (classes 1, 2 and 7 from Pekel et al. 2016). Freeze/thaw lakes\
@@ -216,9 +184,7 @@ F2.1.web.alt_v4.0:
   version: v4.0
 F2.10.IM.mix_v1.0:
   code: F2.10.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Major occurrences of subglacial lakes were mapped as 0.5 degree cells\
     \ containing the point records of Wright and Siegert (2012), Bowling et al., (2019),\
     \ Th\xF3r Marteinsson et al. (2013) and Livingstone et al. (2016). Unmapped lakes\
@@ -228,9 +194,7 @@ F2.10.IM.mix_v1.0:
   version: v1.0
 F2.10.web.mix_v2.0:
   code: F2.10.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Major occurrences of subglacial lakes were mapped as point records
     from Wright and Siegert (2012), Bowler et al. (2019), Marteinsson et al. (2013)
     and Livingstone et al. (2016). Unmapped lakes are likely to occur within areas
@@ -239,9 +203,7 @@ F2.10.web.mix_v2.0:
   version: v2.0
 F2.2.IM.mix_v2.0:
   code: F2.2.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al., 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -254,9 +216,7 @@ F2.2.IM.mix_v2.0:
   version: v2.0
 F2.2.web.mix_v2.0:
   code: F2.2.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -269,9 +229,7 @@ F2.2.web.mix_v2.0:
   version: v2.0
 F2.3.IM.mix_v2.0:
   code: F2.3.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al., 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -284,9 +242,7 @@ F2.3.IM.mix_v2.0:
   version: v2.0
 F2.3.web.mix_v2.0:
   code: F2.3.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -299,9 +255,7 @@ F2.3.web.mix_v2.0:
   version: v2.0
 F2.4.IM.mix_v1.0:
   code: F2.4.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Location of small and large natural lakes was taken from the HydroLAKES\
     \ database (types 1 an 3 in Messager et al., 2016). We included all lakes with\
     \ minimum temperature below 0\xB0C (Linke et al., 2019). Occurrences were aggregated\
@@ -309,9 +263,7 @@ F2.4.IM.mix_v1.0:
   version: v1.0
 F2.4.web.mix_v1.0:
   code: F2.4.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Location of small and large natural lakes was taken from the HydroLAKES\
     \ database (types 1 an 3 in Messager et al. 2016). We included all lakes with\
     \ minimum temperature below 0\xB0C (Linke et al. 2019). Occurrences were aggregated\
@@ -319,9 +271,7 @@ F2.4.web.mix_v1.0:
   version: v1.0
 F2.5.IM.mix_v1.0:
   code: F2.5.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Location of natural ephemeral freshwater lakes was taken from global\
     \ lake databases (Lehner and D\xF6ll, 2004; types 1 an 3 from Messager et al.,\
     \ 2016), excluding those from endorheic basins cf. F2.7 (Linke et al., 2019),\
@@ -331,9 +281,7 @@ F2.5.IM.mix_v1.0:
   version: v1.0
 F2.5.web.mix_v1.0:
   code: F2.5.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Location of natural ephemeral freshwater lakes was taken from global\
     \ lake databases (Lehner and D\xF6ll 2004; types 1 an 3 from Messager et al. 2016),\
     \ excluding those from endorheic basins cf. F2.7 (Linke et al. 2019), and intersected\
@@ -342,9 +290,7 @@ F2.5.web.mix_v1.0:
   version: v1.0
 F2.6.IM.mix_v4.0:
   code: F2.6.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major occurrences were compiled from a list of known salt lakes in
     Wurtsbaugh et al., (2017) and augmented by authors, then matched with names in
     the HydroLAKES database to identify natural lakes (types 1 and 3 of Messager et
@@ -359,9 +305,7 @@ F2.6.IM.mix_v4.0:
   version: v4.0
 F2.6.web.mix_v4.0:
   code: F2.6.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major occurrences were compliled from a list of known salt lakes in
     Wurtsbaugh et al. (2017) and augmented by authors, then matched with names in
     the HydroLAKES database to identify natural lakes (types 1 and 3 of Messager et
@@ -376,9 +320,7 @@ F2.6.web.mix_v4.0:
   version: v4.0
 F2.7.IM.mix_v1.0:
   code: F2.7.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Location of ephemeral lakes was taken from global lake databases (Lehner\
     \ and D\xF6ll, 2004; types 1 and 3 from Messager et al., 2016), intersected with\
     \ estimates of ephemeral surface water (classes 9 and 10 from Pekel et al., 2016)\
@@ -388,9 +330,7 @@ F2.7.IM.mix_v1.0:
   version: v1.0
 F2.7.web.mix_v1.0:
   code: F2.7.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Location of ephemeral lakes was taken from global lake databases (Lehner\
     \ and D\xF6ll 2004; types 1 and 3 from Messager et al. 2016), intersected with\
     \ estimates of ephemeral surface water (classes 9 and 10 from Pekel et al. 2016)\
@@ -400,9 +340,7 @@ F2.7.web.mix_v1.0:
   version: v1.0
 F2.8.IM.mix_v1.0:
   code: F2.8.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al., 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -415,9 +353,7 @@ F2.8.IM.mix_v1.0:
   version: v1.0
 F2.8.web.mix_v1.0:
   code: F2.8.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -430,9 +366,7 @@ F2.8.web.mix_v1.0:
   version: v1.0
 F2.9.IM.mix_v1.0:
   code: F2.9.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al., 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -445,9 +379,7 @@ F2.9.IM.mix_v1.0:
   version: v1.0
 F2.9.web.mix_v1.0:
   code: F2.9.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -460,8 +392,7 @@ F2.9.web.mix_v1.0:
   version: v1.0
 F3.1.WM.nwx_v1.0:
   code: F3.1.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
+  contributors: JR Ferrer-Paris
   description: Polygons of reservoirs were obtained from water bodies in classes 2
     and 3 in the HydroLakes database, except for those larger than 100 km2, as these
     included a number of semi-regulated natural lakes (Messager et al. 2016). Additional
@@ -472,9 +403,7 @@ F3.1.WM.nwx_v1.0:
   version: v1.0
 F3.1.web.orig_v1.0:
   code: F3.1.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Point locations of large reservoirs were obtained from water bodies\
     \ tagged as 'reservoirs' in \"reservoirs\" in vector layers GLWD1 and GLWD2 of\
     \ Lehner & D\xF6ll (2004). These were mapped with a spatial buffer of 15 minutes,\
@@ -482,9 +411,7 @@ F3.1.web.orig_v1.0:
   version: v1.0
 F3.2.WM.nwx_v1.0:
   code: F3.2.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Point locations of over 1 million water bodies (area: 0.1 - 1 km2)
     were obtained from the HydroLakes database (Messager et al. 2016). We mapped a
     spatial buffer of 10 km around these locations to generalise their exact location
@@ -497,9 +424,7 @@ F3.2.WM.nwx_v1.0:
   version: v1.0
 F3.3.IM.alt_v2.0:
   code: F3.3.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: The distribution of rice paddies was estimated from the percentage
     of rice cover at a 5 arc minute resolution based on Monfreda et al. (2008). Cells
     with > 10% rice cover were designated as major occurrences, and those with 1-10%
@@ -507,9 +432,7 @@ F3.3.IM.alt_v2.0:
   version: v2.0
 F3.3.web.alt_v2.0:
   code: F3.3.web.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: The distribution of rice paddies was estimated from the percentage
     of rice cover at a 5 arc minute  resolution based on Monfreda et al. (2008). Cells
     with > 10% rice cover were designated as major occurrences, and those with 1-10%
@@ -517,9 +440,7 @@ F3.3.web.alt_v2.0:
   version: v2.0
 F3.4.IM.orig_v1.0:
   code: F3.4.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: 'Direct data on the distribution of freshwater aquafarms is currently
     unavailable. To approximate the global distribution, freshwater ecoregions (Abell
     et al., 2008) were identified as containing major or minor occurrences of freshwater
@@ -531,9 +452,7 @@ F3.4.IM.orig_v1.0:
   version: v1.0
 F3.4.web.orig_v1.0:
   code: F3.4.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: 'Freshwater ecoregions (Abell et al. 2008) were identified as containing
     major or minor occurrences of these functional groups if: i) their descriptions
     mentioned features consistent with those identifed in the profile of the Ecosystem
@@ -543,9 +462,7 @@ F3.4.web.orig_v1.0:
   version: v1.0
 F3.5.WM.nwx_v2.0:
   code: F3.5.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: We used a global map of irrigation areas for the year 2005 () and a
     global land use/land cover (LULC) map for the year 2020 (Karra et al. 2021). We
     resampled and aggregated both maps to a 30 arc-second (ca. 1km) resolution. We
@@ -562,9 +479,7 @@ F3.5.WM.nwx_v2.0:
   version: v2.0
 FM1.1.IM.alt_v3.0:
   code: FM1.1.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Known locations of fjords were selected from a global geographical\
     \ gazetteer (GeoNames, 2020) and the composite gazetteer of Antarctica (SCAR,\
     \ 1992-2020). We further selected related coastal areas from a global coastal\
@@ -578,9 +493,7 @@ FM1.1.IM.alt_v3.0:
   version: v3.0
 FM1.1.web.map_v1.0:
   code: FM1.1.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Known locations of fjords where selected from a global geographical\
     \ gazetteer (GeoNames 2020) and the composite gazetteer of Antarctica (SCAR 1992-2020).\
     \ We further selected related coastal areas from a global coastal typology (Type\
@@ -594,9 +507,7 @@ FM1.1.web.map_v1.0:
   version: v1.0
 FM1.2.IM.orig_v2.0:
   code: FM1.2.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al., 2008) containing major or minor
     occurrences of each Ecosystem Functional Group were identified by consulting global
     and regional reviews, maps of relevant ecosystems, imagery available in Google
@@ -606,9 +517,7 @@ FM1.2.IM.orig_v2.0:
   version: v2.0
 FM1.2.web.map_v1.0:
   code: FM1.2.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al. 2008) containing major or minor
     occurrences of each ecosystem functional group were identified by consulting global
     and regional reviews, maps of relevant ecosystems, imagery available in Google
@@ -618,9 +527,7 @@ FM1.2.web.map_v1.0:
   version: v1.0
 FM1.3.IM.orig_v2.0:
   code: FM1.3.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al., 2008) containing major or minor
     occurrences of each Ecosystem Functional Group were identified by consulting global
     and regional reviews, maps of relevant ecosystems, imagery available in Google
@@ -630,9 +537,7 @@ FM1.3.IM.orig_v2.0:
   version: v2.0
 FM1.3.web.orig_v2.0:
   code: FM1.3.web.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al. 2008) containing major or minor
     occurrences of each ecosystem functional group were identified by consulting global
     and regional reviews, maps of relevant ecosystems, imagery available in Google
@@ -642,27 +547,21 @@ FM1.3.web.orig_v2.0:
   version: v2.0
 M1.1.IM.orig_v1.0:
   code: M1.1.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative maps of Seagrass meadows were obtained from UNEP-WCMC &
     Short (2017) based on Green & Short (2003). Occurrences were converted to 30 arc
     second spatial resolution.
   version: v1.0
 M1.1.web.orig_v1.0:
   code: M1.1.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative maps of Seagrass meadows were obtained from UNEP-WCMC &
     Short (2017) based on Green & Short (2003). Occurrences were converted to 30 arc
     second spatial resolution.
   version: v1.0
 M1.10.WM.nwx_v1.0:
   code: M1.10.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Distribution of rhodolith beds was taken from spatial predictions
     of suitable habitats for rhodolith forming species at global scales, including
     both tropical  - warm temperate and polar - cold temperate affiliated rhodolith
@@ -670,9 +569,7 @@ M1.10.WM.nwx_v1.0:
   version: v1.0
 M1.2.IM.orig_v2.1:
   code: M1.2.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Ecoregions with major and minor occurrences of Kelp forests were identified
     by overlaying a global map of kelp systems (Wernberg and Filbee-Dexter, 2019)
     on marine ecoregions (Spalding et al., 2008), and then clipping to bathymetry
@@ -683,9 +580,7 @@ M1.2.IM.orig_v2.1:
   version: v2.1
 M1.2.web.orig_v2.2:
   code: M1.2.web.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Ecoregions with major and minor occurrences of Kelp forests were identified
     by overlaying a global map of kelp systems (Wernberg and Filbee-Dexter 2019) on
     marine ecoregions (Spalding et al. 2008), and then clipping to bathymetry with
@@ -696,27 +591,21 @@ M1.2.web.orig_v2.2:
   version: v2.2
 M1.3.IM.orig_v1.0:
   code: M1.3.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative maps of Photic coral reefs were obtained from Institute
     for Marine Remote Sensing et al. (2011). Occurrences were converted to 30 arc
     second spatial resolution.
   version: v1.0
 M1.3.web.orig_v1.0:
   code: M1.3.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative maps of Photic coral reefs were obtained from Institute
     for Marine Remote Sensing et al. (2011). Occurrences were converted to 30 arc
     second spatial resolution.
   version: v1.0
 M1.4.IM.orig_v1.0:
   code: M1.4.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major and minor occurrences of shellfish beds and reefs were identified\
     \ by overlaying a global map of oyster reefs (Beck et al., 2011) on marine ecoregions\
     \ (Spalding et al., 2008), and then clipping to the extent of the marine \u2018\
@@ -725,9 +614,7 @@ M1.4.IM.orig_v1.0:
   version: v1.0
 M1.4.web.orig_v1.0:
   code: M1.4.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major and minor occurrences of shellfish beds and reefs were identified\
     \ by overlaying a global map of oyster reefs (Beck et al. 2011) on marine ecoregions\
     \ (Spalding et al. 2008), and then clipping to the extent of the marine \u2018\
@@ -736,9 +623,7 @@ M1.4.web.orig_v1.0:
   version: v1.0
 M1.5.IM.orig_v1.0:
   code: M1.5.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "These are Ecosystem Functional Groups that are widespread through\
     \ the global extent of the marine shelf biome. Reliable data on their precise\
     \ distribution are limited. To represent regional uncertainty, their indicative\
@@ -748,9 +633,7 @@ M1.5.IM.orig_v1.0:
   version: v1.0
 M1.5.web.orig_v1.0:
   code: M1.5.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "These are ecosystem functional groups that are widespread through\
     \ the global extent of the marine shelf biome. Reliable data on their precise\
     \ distribution are limited. To represent regional uncertainty, their indicative\
@@ -760,9 +643,7 @@ M1.5.web.orig_v1.0:
   version: v1.0
 M1.6.IM.orig_v1.0:
   code: M1.6.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "These are Ecosystem Functional Groups that are widespread through\
     \ the global extent of the marine shelf biome. Reliable data on their precise\
     \ distribution are limited. To represent regional uncertainty, their indicative\
@@ -772,9 +653,7 @@ M1.6.IM.orig_v1.0:
   version: v1.0
 M1.6.web.orig_v1.0:
   code: M1.6.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "These are ecosystem functional groups that are widespread through\
     \ the global extent of the marine shelf biome. Reliable data on their precise\
     \ distribution are limited. To represent regional uncertainty, their indicative\
@@ -784,9 +663,7 @@ M1.6.web.orig_v1.0:
   version: v1.0
 M1.7.IM.orig_v1.0:
   code: M1.7.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "These are Ecosystem Functional Groups that are widespread through\
     \ the global extent of the marine shelf biome. Reliable data on their precise\
     \ distribution are limited. To represent regional uncertainty, their indicative\
@@ -796,9 +673,7 @@ M1.7.IM.orig_v1.0:
   version: v1.0
 M1.7.web.orig_v1.0:
   code: M1.7.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "These are ecosystem functional groups that are widespread through\
     \ the global extent of the marine shelf biome. Reliable data on their precise\
     \ distribution are limited. To represent regional uncertainty, their indicative\
@@ -808,9 +683,7 @@ M1.7.web.orig_v1.0:
   version: v1.0
 M1.8.IM.orig_v1.0:
   code: M1.8.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "These are Ecosystem Functional Groups that are widespread through\
     \ the global extent of the marine shelf biome. Reliable data on their precise\
     \ distribution are limited. To represent regional uncertainty, their indicative\
@@ -820,9 +693,7 @@ M1.8.IM.orig_v1.0:
   version: v1.0
 M1.8.web.orig_v1.0:
   code: M1.8.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "These are ecosystem functional groups that are widespread through\
     \ the global extent of the marine shelf biome. Reliable data on their precise\
     \ distribution are limited. To represent regional uncertainty, their indicative\
@@ -832,9 +703,7 @@ M1.8.web.orig_v1.0:
   version: v1.0
 M1.9.IM.orig_v1.0:
   code: M1.9.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Marine ecoregions (Spalding et al., 2008) with major and minor occurrences\
     \ of Upwelling zones were identified by consulting global and regional reviews\
     \ (cited in descriptive profile), maps of relevant ecosystems and expertise of\
@@ -844,9 +713,7 @@ M1.9.IM.orig_v1.0:
   version: v1.0
 M1.9.web.orig_v1.0:
   code: M1.9.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Marine ecoregions (Spalding et al. 2008) with major and minor occurrences\
     \ of Upwelling zones were identified by consulting global and regional reviews\
     \ (cited in descriptive profile), maps of relevant ecosystems and expertise of\
@@ -856,9 +723,7 @@ M1.9.web.orig_v1.0:
   version: v1.0
 M2.1.IM.orig_v2.1:
   code: M2.1.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Indicative distributions of these marine pelagic Ecosystem Functional
     Groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
@@ -866,9 +731,7 @@ M2.1.IM.orig_v2.1:
   version: v2.1
 M2.1.web.orig_v2.1:
   code: M2.1.web.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Indicative distributions of these marine pelagic ecosystem functional
     groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
@@ -876,9 +739,7 @@ M2.1.web.orig_v2.1:
   version: v2.1
 M2.2.IM.orig_v2.0:
   code: M2.2.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative distributions of these marine pelagic Ecosystem Functional
     Groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
@@ -886,9 +747,7 @@ M2.2.IM.orig_v2.0:
   version: v2.0
 M2.2.web.orig_v2.0:
   code: M2.2.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative distributions of these marine pelagic ecosystem functional
     groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
@@ -896,9 +755,7 @@ M2.2.web.orig_v2.0:
   version: v2.0
 M2.3.IM.orig_v1.0:
   code: M2.3.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative distributions of these marine pelagic Ecosystem Functional
     Groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
@@ -906,9 +763,7 @@ M2.3.IM.orig_v1.0:
   version: v1.0
 M2.3.web.orig_v1.0:
   code: M2.3.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative distributions of these marine pelagic ecosystem functional
     groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
@@ -916,9 +771,7 @@ M2.3.web.orig_v1.0:
   version: v1.0
 M2.4.IM.orig_v1.0:
   code: M2.4.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative distributions of these marine pelagic Ecosystem Functional
     Groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
@@ -926,9 +779,7 @@ M2.4.IM.orig_v1.0:
   version: v1.0
 M2.4.web.orig_v1.0:
   code: M2.4.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative distributions of these marine pelagic ecosystem functional
     groups were derived from bathymetric spatial data obtained from Becker et al.
     (2009) using depth range thresholds cited in respective descriptive profiles for
@@ -936,9 +787,7 @@ M2.4.web.orig_v1.0:
   version: v1.0
 M2.5.IM.orig_v1.0:
   code: M2.5.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative distributions of sea ice were obtained from Fetterer et
     al. (2017). To approximate the maximum annual global extent, we used the monthly
     extent for March 2019 for the northern hemisphere, and the monthly extent for
@@ -947,9 +796,7 @@ M2.5.IM.orig_v1.0:
   version: v1.0
 M2.5.web.orig_v1.0:
   code: M2.5.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Indicative distributions of sea ice were obtained from Fetterer et
     al. (2017). To approximate the maximum annual global extent, we used the monthly
     extent for March 2019 for the northern hemisphere, and the monthly extent for
@@ -958,81 +805,63 @@ M2.5.web.orig_v1.0:
   version: v1.0
 M3.1.IM.orig_v1.0:
   code: M3.1.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of continental and island slopes was based on the\
     \ \u2018slope\u2019 geomorphic unit of Harris et al. (2014b). Occurrences were\
     \ converted to 30 arc second spatial resolution."
   version: v1.0
 M3.1.web.orig_v1.0:
   code: M3.1.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of continental and island slopes was based on the\
     \ \u2018slope\u2019 geomorphic unit of Harris et al. (2014b). Occurrences were\
     \ converted to 30 arc second spatial resolution."
   version: v1.0
 M3.2.IM.orig_v1.0:
   code: M3.2.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of submarine canyons was based on the \u2018canyons\u2019\
     \ geomorphic unit of Harris et al. (2014b). Occurrences were converted to 30 arc\
     \ second spatial resolution."
   version: v1.0
 M3.2.web.orig_v1.0:
   code: M3.2.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of submarine canyons was based on the \u2018canyons\u2019\
     \ geomorphic unit of Harris et al. (2014b). Occurrences were converted to 30 arc\
     \ second spatial resolution."
   version: v1.0
 M3.3.IM.orig_v1.0:
   code: M3.3.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of Abyssal plains was based on the \u2018plains\u2019\
     \ and \u2018hills\u2019 classes within the abyssal geomorphic unit of Harris et\
     \ al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
   version: v1.0
 M3.3.web.orig_v1.0:
   code: M3.3.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of Abyssal plains was based on the \u2018plains\u2019\
     \ and \u2018hills\u2019 classes within the abyssal geomorphic unit of Harris et\
     \ al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
   version: v1.0
 M3.4.IM.orig_v2.0:
   code: M3.4.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of seamounts, ridges and plateaus was based on the\
     \ \u2018mountains\u2019 classes within the abyssal geomorphic unit of Harris et\
     \ al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
   version: v2.0
 M3.4.web.orig_v2.0:
   code: M3.4.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of seamounts, ridges and plateaus was based on the\
     \ \u2018mountains\u2019 classes within the abyssal geomorphic unit of Harris et\
     \ al. (2014b). Occurrences were converted to 30 arc second spatial resolution."
   version: v2.0
 M3.5.IM.orig_v1.0:
   code: M3.5.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "The distribution of deepwater biogenic beds was based on the \u2018\
     mountains\u2019 and \u2018hills\u2019 classes within the abyssal geomorphic unit\
     \ of Harris et al. (2014b). These were mapped in yellow as minor occurrences to\
@@ -1042,9 +871,7 @@ M3.5.IM.orig_v1.0:
   version: v1.0
 M3.5.web.orig_v1.0:
   code: M3.5.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "The distribution of deepwater biogenic beds was based on the \u2018\
     mountains\u2019 and \u2018hills\u2019 classes within the abyssal geomorphic unit\
     \ of of Harris et al. (2014b). These were mapped in yellow as minor occurrences\
@@ -1054,27 +881,21 @@ M3.5.web.orig_v1.0:
   version: v1.0
 M3.6.IM.orig_v1.0:
   code: M3.6.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of Hadal trenches and troughs were based on the\
     \ \u2018hadal\u2019 and \u2018trenches\u2019 geomorphic units of Harris et al.\
     \ (2014b). Occurrences were converted to 30 arc second spatial resolution."
   version: v1.0
 M3.6.web.orig_v1.0:
   code: M3.6.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of Hadal trenches and troughs was based on the \u2018\
     hadal\u2019 and \u2018trenches\u2019 geomorphic units of Harris et al. (2014b).\
     \ Occurrences were converted to 30 arc second spatial resolution."
   version: v1.0
 M3.7.IM.orig_v1.0:
   code: M3.7.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of Chemosynthetic-based ecosystems were based on\
     \ the distribution of hydrothermal vents on spreading plate boundaries mapped\
     \ in \u2018Plate lines and polygons\u2019 data by USGS/ESRI (undated). Occurrences\
@@ -1083,9 +904,7 @@ M3.7.IM.orig_v1.0:
   version: v1.0
 M3.7.web.orig_v1.0:
   code: M3.7.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Major occurrences of Chemosynthetic-based ecosystems was based on\
     \ the distribution of hydrothermal vents on spreading plate boundaries mapped\
     \ in \u2018Plate lines and polygons\u2019 data by USGS/ESRI. Occurrences were\
@@ -1094,9 +913,7 @@ M3.7.web.orig_v1.0:
   version: v1.0
 M4.1.IM.orig_v1.0:
   code: M4.1.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Marine ecoregions that include occurrences of submerged artificial
     structures were identified by overlaying a mapped distribution of shipwrecks (Monfils,
     2004) on marine ecoregions (Spalding et al., 2008). Occurrences were converted
@@ -1106,9 +923,7 @@ M4.1.IM.orig_v1.0:
   version: v1.0
 M4.1.web.orig_v1.0:
   code: M4.1.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Marine ecoregions that include occurrences of submerged artificial
     structures were identified by overlaying a mapped distribution of shipwrecks (Monfils
     2004) on marine ecoregions (Spalding et al. 2008). Occurrences were converted
@@ -1118,9 +933,7 @@ M4.1.web.orig_v1.0:
   version: v1.0
 M4.2.IM.orig_v1.0:
   code: M4.2.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Marine ecoregions (Spalding et al., 2008) containing marine aquafarms\
     \ were identified by consulting global and regional reviews, suitability maps\
     \ (Gentry et al., 2017) and expertise of authors, proofed by specialist reviewers.\
@@ -1130,9 +943,7 @@ M4.2.IM.orig_v1.0:
   version: v1.0
 M4.2.web.orig_v1.0:
   code: M4.2.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Marine ecoregions (Spalding et al. 2008) containing marine aquafarms\
     \ were identified by consulting global and regional reviews, suitability maps\
     \ (Gentry et al. 2017) and expertise of authors, proofed by specialist reviewers.\
@@ -1142,8 +953,7 @@ M4.2.web.orig_v1.0:
   version: v1.0
 MFT1.1.WM.nwx_v1.0:
   code: MFT1.1.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
+  contributors: JR Ferrer-Paris
   description: The extent of major coastal deltas was taken directly from Nienhuis
     et al. (2020). The data are based on polygons that encompass the lowest reaches
     of deltaic floodplains and a marine buffer approximating the extent of subtidal
@@ -1155,8 +965,7 @@ MFT1.1.WM.nwx_v1.0:
   version: v1.0
 MFT1.2.WM.nwx_v1.0:
   code: MFT1.2.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
+  contributors: JR Ferrer-Paris
   description: The indicative map for Intertidal forests and shrublands was was developed
     by resampling the known global distribution of mangrove forests for the year 2016
     mapped by Global Mangrove Watch (Bunting et al. 2018). We used a buffer of 1km
@@ -1166,9 +975,7 @@ MFT1.2.WM.nwx_v1.0:
   version: v1.0
 MFT1.3.IM.orig_v1.0:
   code: MFT1.3.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: The indicative map for Coastal saltmarshes was based on mapping by
     McOwen et al. (2017) summarised within a template of 1-degree grid cells. Cells
     with >5% cover of marsh vegetation were reclassified as major occurrences, and
@@ -1176,9 +983,7 @@ MFT1.3.IM.orig_v1.0:
   version: v1.0
 MFT1.3.web.orig_v2.0:
   code: MFT1.3.web.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: The indicative map for for coastal saltmarshes and reedbeds (MFT1.3)
     was developed by resampling known distribution records summarised by McOwen et
     al. (2017). We used a buffer of 1km around the distribution data and a 30 arc
@@ -1193,9 +998,7 @@ MISSING:
   version: MISSING
 MT1.1.IM.grid_v2.0:
   code: MT1.1.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al., 2008) containing rocky shorelines
     and boulder and cobble shorelines, respectively, were identified by consulting
     regional substrate maps, imagery available in Google Earth (to exclude ecoregions
@@ -1204,9 +1007,7 @@ MT1.1.IM.grid_v2.0:
   version: v2.0
 MT1.1.web.map_v1.0:
   code: MT1.1.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al. 2008) containing rocky shorelines
     and boulder and cobble shorelines, respectively, were identified by consulting
     regional substrate maps, imagery available in Google Earth (to exclude ecoregions
@@ -1215,10 +1016,7 @@ MT1.1.web.map_v1.0:
   version: v1.0
 MT1.2.IM.orig_v1.0:
   code: MT1.2.IM.orig
-  contributors:
-  - NJ Murray
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: NJ Murray, DA Keith, JR Ferrer-Paris
   description: Tidal flats were mapped directly from remote sensing time series and
     aggregated to 1 degree spatial resolution by Murray et al. (2019). Major occurrences
     were mapped in 1-degree cells with >200km2 mudflat extent, and minor occurrences
@@ -1226,10 +1024,7 @@ MT1.2.IM.orig_v1.0:
   version: v1.0
 MT1.2.web.map_v1.0:
   code: MT1.2.web.map
-  contributors:
-  - NJ Murray
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: NJ Murray, JR Ferrer-Paris, DA Keith
   description: The indicative map of muddy shorelines was developed by resampling
     the 2016 area of tidal flats mapped by Murray et al. (2019) at two resolutions.
     A broad grid cell (5 arc minute resolution) is used to show the overall range
@@ -1238,9 +1033,7 @@ MT1.2.web.map_v1.0:
   version: v1.0
 MT1.3.IM.grid_v1.0:
   code: MT1.3.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: The indicative map of Sandy shorelines was based on point records of
     sandy coastlines mapped by Vousdoukas et al. (2020) aggregated to 1 degree spatial
     resolution. Cells with >50 points were reclassified as major occurrences, and
@@ -1248,9 +1041,7 @@ MT1.3.IM.grid_v1.0:
   version: v1.0
 MT1.3.web.map_v1.0:
   code: MT1.3.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: The indicative map of Sandy shorelines was based on point records of
     sandy coastlines mapped by Vousdoukas et al. (2020) aggregated to 1 degree spatial
     resolution. Cells with >50 points were reclassified as major occurrences, and
@@ -1259,9 +1050,7 @@ MT1.3.web.map_v1.0:
   version: v1.0
 MT1.4.IM.grid_v2.0:
   code: MT1.4.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al., 2008) containing rocky shorelines
     and boulder and cobble shorelines, respectively, were identified by consulting
     regional substrate maps, imagery available in Google Earth (to exclude ecoregions
@@ -1270,9 +1059,7 @@ MT1.4.IM.grid_v2.0:
   version: v2.0
 MT1.4.web.map_v1.0:
   code: MT1.4.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al. 2008) containing rocky shorelines
     and boulder and cobble shorelines, respectively, were identified by consulting
     regional substrate maps, imagery available in Google Earth (to exclude ecoregions
@@ -1281,26 +1068,19 @@ MT1.4.web.map_v1.0:
   version: v1.0
 MT2.1.IM.orig_v1.0:
   code: MT2.1.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Coastlines were mapped between 60\xB0S and 60\xB0N with a 20 km buffer\
     \ applied."
   version: v1.0
 MT2.1.web.map_v1.0:
   code: MT2.1.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Coastlines were mapped with a 5 km buffer applied between 60\xB0S\
     \ and 60\xB0N."
   version: v1.0
 MT2.2.IM.orig_v1.0:
   code: MT2.2.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - S Gorta
-  - DA Keith
+  contributors: JR Ferrer-Paris, S Gorta, DA Keith
   description: We used spatial data on Nitrogen (N) and Phosphor (P) deposition from
     seabird colonies (Otero et al. 2018) as an indicators of the distribution of this
     functional group. Original point data was in decimal degrees rounded to 6 arc-min
@@ -1310,9 +1090,7 @@ MT2.2.IM.orig_v1.0:
   version: v1.0
 MT3.1.IM.grid_v2.0:
   code: MT3.1.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al., 2008) containing major and minor
     occurrences of urbanised shorelines were identified from the map of night lights
     (Cinzano et al. 2019), imagery available on Google Earth and expertise of authors.
@@ -1321,9 +1099,7 @@ MT3.1.IM.grid_v2.0:
   version: v2.0
 MT3.1.web.map_v1.0:
   code: MT3.1.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al. 2008) containing major and minor
     occurrences of urbanized shorelines were identified from the map of night lights
     (see T7.4), imagery available on Google Earth and expertise of authors. Occurrences
@@ -1332,9 +1108,7 @@ MT3.1.web.map_v1.0:
   version: v1.0
 S1.1.IM.orig_v1.0:
   code: S1.1.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Distributions of Aerobic caves were based on mapped area of carbonate
     rock outcrop (Williams & Ting Fong 2016). This. provides an upper limit on the
     area of exposed karst terrain, as not all carbonate rocks are karstified. Lava
@@ -1343,9 +1117,7 @@ S1.1.IM.orig_v1.0:
   version: v1.0
 S1.1.web.orig_v1.0:
   code: S1.1.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Distributions of Aerobic caves were based on mapped area of carbonate
     rock outcrop (Williams & Ting Fong 2016). This. provides an upper limit on the
     area of exposed karst terrain, as not all carbonate rocks are karstified. Lava
@@ -1354,23 +1126,17 @@ S1.1.web.orig_v1.0:
   version: v1.0
 S1.2.IM.orig_v1.0:
   code: S1.2.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Global distribution throughout the earth's crust. Not mapped.
   version: v1.0
 S1.2.web.orig_v1.0:
   code: S1.2.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Global distribution throughout the earth's crust. Not mapped.
   version: v1.0
 S2.1.IM.orig_v1.0:
   code: S2.1.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -1381,9 +1147,7 @@ S2.1.IM.orig_v1.0:
   version: v1.0
 S2.1.web.orig_v1.0:
   code: S2.1.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1394,9 +1158,7 @@ S2.1.web.orig_v1.0:
   version: v1.0
 SF1.1.IM.orig_v1.0:
   code: SF1.1.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Distributions of Underground streams and pools were based on mapped
     area of carbonate rock outcrop (Williams & Ting Fong 2016). This. provides an
     upper limit on the area of exposed karst terrain, as not all carbonate rocks are
@@ -1406,9 +1168,7 @@ SF1.1.IM.orig_v1.0:
   version: v1.0
 SF1.1.web.orig_v1.0:
   code: SF1.1.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Distributions of Underground streams and pools were based on mapped
     area of carbonate rock outcrop (Williams & Ting Fong 2016). This. provides an
     upper limit on the area of exposed karst terrain, as not all carbonate rocks are
@@ -1418,9 +1178,7 @@ SF1.1.web.orig_v1.0:
   version: v1.0
 SF1.2.IM.orig_v1.0:
   code: SF1.2.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Indicative global maps of Groundwater aquifers were based on Bundesanstalt\
     \ f\xFCr Geowissenschaften und Rohstoffe & UNESCO (2012) with colour ramp showing\
     \ type of aquifer by recharge rate, only in major groundwater basins (type 11\
@@ -1428,9 +1186,7 @@ SF1.2.IM.orig_v1.0:
   version: v1.0
 SF1.2.web.orig_v1.0:
   code: SF1.2.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: "Indicative global maps of Groundwater aquifers were based on Bundesanstalt\
     \ f\xFCr Geowissenschaften und Rohstoffe & UNESCO (2012) with colour ramp showing\
     \ type of aquifer by recharge rate, only in major groundwater basins (type 11\
@@ -1438,9 +1194,7 @@ SF1.2.web.orig_v1.0:
   version: v1.0
 SF2.1.IM.orig_v1.0:
   code: SF2.1.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Freshwater ecoregions (Abell et al., 2008) containing urban and industrialised
     areas with water transfer infrastructure were identified by consulting available
     ecoregion descriptions (http://www.feow.org/), maps of irrigation and other water
@@ -1450,9 +1204,7 @@ SF2.1.IM.orig_v1.0:
   version: v1.0
 SF2.1.web.orig_v1.0:
   code: SF2.1.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Freshwater ecoregions (Abell et al. 2008) containing urban and industrialised
     areas with water transfer infrastructure were identified by consulting available
     ecoregion descriptions (http://www.feow.org/), maps of irrigation and other water
@@ -1462,8 +1214,7 @@ SF2.1.web.orig_v1.0:
   version: v1.0
 SF2.2.IM.orig_v1.0:
   code: SF2.2.IM.orig
-  contributors:
-  - DA Keith
+  contributors: DA Keith
   description: 'Point records of flooded mines were compiled from public databases
     (https://www.unexmin.eu/the-european-inventory-of-flooded-mines-is-now-online/),
     an internet search for "flooded mines" and locations of deep mines inferred from
@@ -1474,8 +1225,7 @@ SF2.2.IM.orig_v1.0:
   version: v1.0
 SF2.2.web.orig_v1.0:
   code: SF2.2.web.orig
-  contributors:
-  - DA Keith
+  contributors: DA Keith
   description: 'Point records of flooded mines were compiled from public databases
     (https://www.unexmin.eu/the-european-inventory-of-flooded-mines-is-now-online/),
     an internet search for "flooded mines" and locations of deep mines inferred from
@@ -1486,9 +1236,7 @@ SF2.2.web.orig_v1.0:
   version: v1.0
 SM1.1.IM.grid_v3.0:
   code: SM1.1.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Indicative distributions of anchialine caves and pools were based on
     mapped areas of carbonate rock outcrop (Williams & Ting Fong, 2016) and lava flows
     intersecting the coast, which were aggregated within a template of 1-degree grid
@@ -1496,9 +1244,7 @@ SM1.1.IM.grid_v3.0:
   version: v3.0
 SM1.1.web.grid_v3.0:
   code: SM1.1.web.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Indicative distributions of Anchialine caves and pools were based on
     mapped areas of carbonate rock outcrop (Williams & Ting Fong 2016) and lava flows
     intersecting the coast, which were aggregated within a template of 1-degree grid
@@ -1506,9 +1252,7 @@ SM1.1.web.grid_v3.0:
   version: v3.0
 SM1.2.IM.grid_v3.0:
   code: SM1.2.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Indicative distributions of anchialine caves and pools were based on
     mapped areas of carbonate rock outcrop (Williams & Ting Fong, 2016) and lava flows
     intersecting the coast, which were aggregated within a template of 1-degree grid
@@ -1516,9 +1260,7 @@ SM1.2.IM.grid_v3.0:
   version: v3.0
 SM1.2.web.grid_v3.0:
   code: SM1.2.web.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Indicative distributions of Anchialine caves and pools were based on
     mapped areas of carbonate rock outcrop (Williams & Ting Fong 2016) and lava flows
     intersecting the coast, which were aggregated within a template of 1-degree grid
@@ -1526,9 +1268,7 @@ SM1.2.web.grid_v3.0:
   version: v3.0
 SM1.3.IM.grid_v3.0:
   code: SM1.3.IM.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al., 2008) containing occurrences of
     rocky coastline (see MT1.1) were verified by inspection of imagery available in
     Google Earth to identify an envelope of potential distribution for sea caves.
@@ -1538,9 +1278,7 @@ SM1.3.IM.grid_v3.0:
   version: v3.0
 SM1.3.web.grid_v3.0:
   code: SM1.3.web.grid
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Marine ecoregions (Spalding et al. 2008) containing occurrences of
     rocky coastline (see MT1.1) were verified by inspection of imagery available in
     Google Earth to identify an envelope of potential distribution for sea caves.
@@ -1550,9 +1288,7 @@ SM1.3.web.grid_v3.0:
   version: v3.0
 T1.1.IM.mix_v2.0:
   code: T1.1.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1562,9 +1298,7 @@ T1.1.IM.mix_v2.0:
   version: v2.0
 T1.1.web.mix_v2.0:
   code: T1.1.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017; DAWE 2012) at 30 arc seconds spatial resolution.
@@ -1575,9 +1309,7 @@ T1.1.web.mix_v2.0:
   version: v2.0
 T1.2.IM.mix_v1.0:
   code: T1.2.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1587,9 +1319,7 @@ T1.2.IM.mix_v1.0:
   version: v1.0
 T1.2.web.mix_v1.0:
   code: T1.2.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1599,8 +1329,7 @@ T1.2.web.mix_v1.0:
   version: v1.0
 T1.3.WM.nwx_v1.0:
   code: T1.3.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
+  contributors: JR Ferrer-Paris
   description: The distribution of tropical montane rainforest was approximated from
     a model of environmental suitability based on climatic variables and cloud cover
     (Wilson and Jetz, 2016, Karger et al. 2021). Occurrences were aggregated to half
@@ -1609,9 +1338,7 @@ T1.3.WM.nwx_v1.0:
   version: v1.0
 T1.3.web.alt_v2.1:
   code: T1.3.web.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: The distribution of tropical montane rainforest was approximated from
     a model of environmental suitability based on climatic variables and cloud cover
     (Wilson and Jetz 2016). Occurrences were aggregated to half degree spatial resolution
@@ -1620,9 +1347,7 @@ T1.3.web.alt_v2.1:
   version: v2.1
 T1.4.IM.orig_v2.0:
   code: T1.4.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -1633,9 +1358,7 @@ T1.4.IM.orig_v2.0:
   version: v2.0
 T1.4.web.orig_v2.0:
   code: T1.4.web.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1646,9 +1369,7 @@ T1.4.web.orig_v2.0:
   version: v2.0
 T2.1.IM.mix_v1.0:
   code: T2.1.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1658,9 +1379,7 @@ T2.1.IM.mix_v1.0:
   version: v1.0
 T2.1.web.mix_v1.0:
   code: T2.1.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1670,9 +1389,7 @@ T2.1.web.mix_v1.0:
   version: v1.0
 T2.2.IM.mix_v1.0:
   code: T2.2.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1682,9 +1399,7 @@ T2.2.IM.mix_v1.0:
   version: v1.0
 T2.2.web.mix_v1.0:
   code: T2.2.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1694,9 +1409,7 @@ T2.2.web.mix_v1.0:
   version: v1.0
 T2.3.IM.orig_v1.0:
   code: T2.3.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Cool temperate and boreal rainforest regions identified by DellaSala
     et al. (2011) matched with ecoregion descriptions (Dinerstein et al., 2017) to
     map major occurrences, proofed by expert appraisal. Ecoregions were mapped at
@@ -1704,9 +1417,7 @@ T2.3.IM.orig_v1.0:
   version: v1.0
 T2.3.web.orig_v1.0:
   code: T2.3.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1717,8 +1428,7 @@ T2.3.web.orig_v1.0:
   version: v1.0
 T2.4.IM.orig_v2.0:
   code: T2.4.IM.orig
-  contributors:
-  - DA Keith
+  contributors: DA Keith
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -1729,8 +1439,7 @@ T2.4.IM.orig_v2.0:
   version: v2.0
 T2.4.web.orig_v2.0:
   code: T2.4.web.orig
-  contributors:
-  - DA Keith
+  contributors: DA Keith
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1741,9 +1450,7 @@ T2.4.web.orig_v2.0:
   version: v2.0
 T2.5.IM.alt_v2.0:
   code: T2.5.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Remote sensing estimates of canopy height were used as a direct indicator
     of the distribution of this group of tall forest ecosystems (Armston et al., 2015,
     Tang et al., 2019). We selected all areas with tree canopies taller than 40m,
@@ -1754,9 +1461,7 @@ T2.5.IM.alt_v2.0:
   version: v2.0
 T2.5.web.alt_v2.0:
   code: T2.5.web.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Remote sensing estimates of canopy height were used as a direct indicator
     of the distribution of this group of tall forest ecosystems  (Armston et al. 2015,
     Hao et al. 2019). We selected all areas with tree canopies taller than 40m, and
@@ -1767,9 +1472,7 @@ T2.5.web.alt_v2.0:
   version: v2.0
 T2.6.IM.mix_v1.0:
   code: T2.6.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1779,9 +1482,7 @@ T2.6.IM.mix_v1.0:
   version: v1.0
 T2.6.web.mix_v1.0:
   code: T2.6.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1791,9 +1492,7 @@ T2.6.web.mix_v1.0:
   version: v1.0
 T3.1.IM.orig_v2.0:
   code: T3.1.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -1804,9 +1503,7 @@ T3.1.IM.orig_v2.0:
   version: v2.0
 T3.1.web.orig_v2.0:
   code: T3.1.web.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1817,9 +1514,7 @@ T3.1.web.orig_v2.0:
   version: v2.0
 T3.2.IM.orig_v1.0:
   code: T3.2.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -1830,9 +1525,7 @@ T3.2.IM.orig_v1.0:
   version: v1.0
 T3.2.web.orig_v1.0:
   code: T3.2.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1843,9 +1536,7 @@ T3.2.web.orig_v1.0:
   version: v1.0
 T3.3.IM.alt_v4.0:
   code: T3.3.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were identified using consensus land-cover
     maps (Tuanmu et al., 2014; Latifovic et al., 2016), then cropped to selected terrestrial
     ecoregions at 30 arc seconds spatial resolution (Dinerstein et al., 2017; CEC
@@ -1857,9 +1548,7 @@ T3.3.IM.alt_v4.0:
   version: v4.0
 T3.3.web.alt_v4.0:
   code: T3.3.web.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were identified using consensus land-cover
     maps (Tuanmu et al. 2014; Latifovic et al. 2016), then cropped to selected terrestrial
     ecoregions at 30 arc seconds spatial resolution (Dinerstein et al. 2017; CEC 1997).
@@ -1871,9 +1560,7 @@ T3.3.web.alt_v4.0:
   version: v4.0
 T3.4.IM.mix_v1.0:
   code: T3.4.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1883,9 +1570,7 @@ T3.4.IM.mix_v1.0:
   version: v1.0
 T3.4.web.mix_v1.0:
   code: T3.4.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1895,9 +1580,7 @@ T3.4.web.mix_v1.0:
   version: v1.0
 T4.1.IM.mix_v1.0:
   code: T4.1.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1907,9 +1590,7 @@ T4.1.IM.mix_v1.0:
   version: v1.0
 T4.1.web.mix_v1.0:
   code: T4.1.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -1919,9 +1600,7 @@ T4.1.web.mix_v1.0:
   version: v1.0
 T4.2.IM.orig_v1.0:
   code: T4.2.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -1932,9 +1611,7 @@ T4.2.IM.orig_v1.0:
   version: v1.0
 T4.2.web.orig_v1.0:
   code: T4.2.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1945,18 +1622,14 @@ T4.2.web.orig_v1.0:
   version: v1.0
 T4.3.WM.nwx_v1.0:
   code: T4.3.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: The distribution of Hummock savannas in Australia was compiled from
     multiple source maps (Keith and Tozer 2017). It was mapped at 30 arc second spatial
     resolution.
   version: v1.0
 T4.3.web.orig_v1.0:
   code: T4.3.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1967,9 +1640,7 @@ T4.3.web.orig_v1.0:
   version: v1.0
 T4.4.IM.orig_v1.0:
   code: T4.4.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -1980,9 +1651,7 @@ T4.4.IM.orig_v1.0:
   version: v1.0
 T4.4.web.orig_v1.0:
   code: T4.4.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -1993,9 +1662,7 @@ T4.4.web.orig_v1.0:
   version: v1.0
 T4.5.IM.orig_v1.0:
   code: T4.5.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -2006,9 +1673,7 @@ T4.5.IM.orig_v1.0:
   version: v1.0
 T4.5.web.orig_v1.0:
   code: T4.5.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -2019,9 +1684,7 @@ T4.5.web.orig_v1.0:
   version: v1.0
 T5.1.IM.mix_v1.0:
   code: T5.1.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2031,9 +1694,7 @@ T5.1.IM.mix_v1.0:
   version: v1.0
 T5.1.web.mix_v1.0:
   code: T5.1.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2043,9 +1704,7 @@ T5.1.web.mix_v1.0:
   version: v1.0
 T5.2.IM.mix_v1.0:
   code: T5.2.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2055,9 +1714,7 @@ T5.2.IM.mix_v1.0:
   version: v1.0
 T5.2.web.mix_v1.0:
   code: T5.2.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2067,18 +1724,14 @@ T5.2.web.mix_v1.0:
   version: v1.0
 T5.3.WM.nwx_v1.0:
   code: T5.3.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: The distribution of Sclerophyll hot deserts and semi-deserts in Australia
     was compiled from multiple source maps (Keith and Tozer 2017). It was mapped at
     30 arc second spatial resolution.
   version: v1.0
 T5.3.web.mix_v1.0:
   code: T5.3.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2088,9 +1741,7 @@ T5.3.web.mix_v1.0:
   version: v1.0
 T5.4.IM.mix_v1.0:
   code: T5.4.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2100,9 +1751,7 @@ T5.4.IM.mix_v1.0:
   version: v1.0
 T5.4.web.mix_v1.0:
   code: T5.4.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2112,9 +1761,7 @@ T5.4.web.mix_v1.0:
   version: v1.0
 T5.5.IM.mix_v1.0:
   code: T5.5.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2124,9 +1771,7 @@ T5.5.IM.mix_v1.0:
   version: v1.0
 T5.5.web.mix_v1.0:
   code: T5.5.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2136,9 +1781,7 @@ T5.5.web.mix_v1.0:
   version: v1.0
 T6.1.IM.alt_v2.0:
   code: T6.1.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Areas of permanent snow were identified from consensus land-cover maps
     (Tuanmu et al., 2014), glacier inventories (Raup et al., 2007; GLIMS and NSIDC,
     2005-2018) and the Antarctic Land Cover map for 2000 (Hui et al., 2017). A composite
@@ -2149,9 +1792,7 @@ T6.1.IM.alt_v2.0:
   version: v2.0
 T6.1.web.map_v1.0:
   code: T6.1.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Areas of permanent snow where identified from consensus land-cover
     maps (Tuanmu et al. 2014), glacier inventories (Raup et al 2007; GLIMS and NSIDC
     2005-2018) and the Antarctic Land Cover map for 2000 (Hui et al. 2017). A composite
@@ -2159,9 +1800,7 @@ T6.1.web.map_v1.0:
   version: v1.0
 T6.2.IM.alt_v2.0:
   code: T6.2.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Known locations of prominent ice-free rock in glacial and alpine environments
     were selected from global geographical gazeteers (GeoNames, 2020), glacier inventories
     (Raup et al 2007; GLIMS and NSIDC, 2005-2018) and the Antarctic Land Cover map
@@ -2177,9 +1816,7 @@ T6.2.IM.alt_v2.0:
   version: v2.0
 T6.2.web.alt_v2.0:
   code: T6.2.web.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Known locations of prominent ice-free rock in glacial and alpine environments
     were selected from global geographical gazeteers (GeoNames 2020), glacier inventories
     (Raup et al 2007; GLIMS and NSIDC 2005-2018) and the Antarctic Land Cover map
@@ -2195,9 +1832,7 @@ T6.2.web.alt_v2.0:
   version: v2.0
 T6.3.IM.alt_v2.0:
   code: T6.3.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Areas corresponding to the tundra climatic zone according to the K\xF6\
     ppen-Geiger classification system (Beck et al., 2018) were first identified. Additional\
     \ areas were then selected in high latitudes corresponding with low annual solar\
@@ -2209,9 +1844,7 @@ T6.3.IM.alt_v2.0:
   version: v2.0
 T6.3.web.map_v1.0:
   code: T6.3.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Areas corresponding to the tundra climatic zone according to the K\xF6\
     ppen-Geiger classification system (Beck et al. 2018) were first identified. Additional\
     \ areas were then selected in high latitudes corresponding with low annual solar\
@@ -2220,9 +1853,7 @@ T6.3.web.map_v1.0:
   version: v1.0
 T6.4.IM.orig_v1.0:
   code: T6.4.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -2233,9 +1864,7 @@ T6.4.IM.orig_v1.0:
   version: v1.0
 T6.4.web.orig_v1.0:
   code: T6.4.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -2246,9 +1875,7 @@ T6.4.web.orig_v1.0:
   version: v1.0
 T6.5.IM.mix_v1.0:
   code: T6.5.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al., 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al., 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2258,9 +1885,7 @@ T6.5.IM.mix_v1.0:
   version: v1.0
 T6.5.web.mix_v1.0:
   code: T6.5.web.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Major and minor occurrences were initially identified using consensus
     land-cover maps (Tuanmu et al. 2014) and then cropped to selected terrestrial
     ecoregions (Dinerstein et al. 2017) at 30 arc seconds spatial resolution. Ecoregions
@@ -2270,9 +1895,7 @@ T6.5.web.mix_v1.0:
   version: v1.0
 T7.1.IM.alt_v2.0:
   code: T7.1.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Major occurrences of croplands were taken from the map of Habitat\
     \ type 14.1 by Jung et al. (2020) based on the IUCN Habitats Classification Scheme\
     \ v3.1 (IUCN 2012). We compared this to cropping areas in consensus land-cover\
@@ -2283,9 +1906,7 @@ T7.1.IM.alt_v2.0:
   version: v2.0
 T7.1.web.alt_v2.0:
   code: T7.1.web.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Major occurrences of croplands were taken from the map of Habitat type
     14.1 by Jung et al. (2020) based on the IUCN Habitats Classification Scheme v3.1
     (IUCN 2012). We compared this to cropping areas in consensus land-cover maps (Tuanmu
@@ -2294,8 +1915,7 @@ T7.1.web.alt_v2.0:
   version: v2.0
 T7.2.WM.nwx_v1.0:
   code: T7.2.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
+  contributors: JR Ferrer-Paris
   description: "Mapping of intensive livestock pastures was based on fractional land\
     \ use mapping (Ramankutty et al. 2008), dasymetric estimates of ruminant livestock\
     \ density for cattle and sheep (Gilbert et al. 2010), and Human Appropriation\
@@ -2325,9 +1945,7 @@ T7.2.WM.nwx_v1.0:
   version: v1.0
 T7.3.IM.alt_v2.0:
   code: T7.3.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Major occurrences of plantations were taken from the map of Habitat\
     \ type 14.3 by Jung et al. (2020) based on the IUCN Habitats Classification Scheme\
     \ v3.1 (IUCN 2012). We compared this to cropping areas in consensus land-cover\
@@ -2338,9 +1956,7 @@ T7.3.IM.alt_v2.0:
   version: v2.0
 T7.3.web.alt_v2.0:
   code: T7.3.web.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Major occurrences of plantations were taken from the map of Habitat
     type 14.3 by Jung et al. (2020) based on the IUCN Habitats Classification Scheme
     v3.1 (IUCN 2012). We compared this to cropping areas in consensus land-cover maps
@@ -2349,8 +1965,7 @@ T7.3.web.alt_v2.0:
   version: v2.0
 T7.4.WM.nwx_v1.0:
   code: T7.4.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
+  contributors: JR Ferrer-Paris
   description: "The distribution of urban and industrial infrastructure lands was\
     \ taken from a global land use/land cover map (LULC class 7 \u2018built areas\u2019\
     ) for the year 2020 at 10 metre resolution (Karra et al. 2021). Class 7 includes\
@@ -2362,9 +1977,7 @@ T7.4.WM.nwx_v1.0:
   version: v1.0
 T7.5.WM.nwx_v2.0:
   code: T7.5.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'We used land use and land suitability datasets for the year 2000 (Erb
     et al. 2007) and Human Appropriation of Net Primary Productivity (Haberl et al.
     2007) to estimate the distribution of semi-natural pastures. We selected areas
@@ -2383,9 +1996,7 @@ T7.5.WM.nwx_v2.0:
   version: v2.0
 TF1.1.IM.alt_v4.0:
   code: TF1.1.IM.alt
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Major occurrences of tropical swamp forest and flooded forest were\
     \ taken from the map of Habitat type 1.8 by Jung et al. (2020) based on the IUCN\
     \ Habitats Classification Scheme v3.1 (IUCN 2012). We compared this to areas of\
@@ -2398,9 +2009,7 @@ TF1.1.IM.alt_v4.0:
   version: v4.0
 TF1.1.web.map_v1.0:
   code: TF1.1.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Major occurrences of swamp and flooded forest were taken from the\
     \ Global Lakes and Wetlands Database (Lehner and D\xF6ll 2004). Additional areas\
     \ with minor occurrences identified in selected terrestrial ecoregions (Dinerstein\
@@ -2411,9 +2020,7 @@ TF1.1.web.map_v1.0:
   version: v1.0
 TF1.2.IM.orig_v2.0:
   code: TF1.2.IM.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -2424,9 +2031,7 @@ TF1.2.IM.orig_v2.0:
   version: v2.0
 TF1.2.web.orig_v2.0:
   code: TF1.2.web.orig
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -2437,9 +2042,7 @@ TF1.2.web.orig_v2.0:
   version: v2.0
 TF1.3.IM.orig_v1.0:
   code: TF1.3.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -2450,9 +2053,7 @@ TF1.3.IM.orig_v1.0:
   version: v1.0
 TF1.3.web.orig_v1.0:
   code: TF1.3.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -2463,9 +2064,7 @@ TF1.3.web.orig_v1.0:
   version: v1.0
 TF1.4.IM.mix_v1.0:
   code: TF1.4.IM.mix
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Major occurrences of freshwater marshes and floodplains were taken\
     \ from the Global Lakes and Wetlands Database (Lehner and D\xF6ll, 2004). Occurrences\
     \ in boreal and polar climates were excluded by removing KoeppnGeiger_classes>26\
@@ -2478,9 +2077,7 @@ TF1.4.IM.mix_v1.0:
   version: v1.0
 TF1.4.web.map_v1.0:
   code: TF1.4.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Major occurrences of freshwater marshes and floodplains were taken\
     \ from the Global Lakes and Wetlands Database (Lehner and D\xF6ll 2004). Occurrences\
     \ in boreal and polar climates were excluded by removing KoeppnGeiger_classes>26\
@@ -2492,9 +2089,7 @@ TF1.4.web.map_v1.0:
   version: v1.0
 TF1.5.WM.nwx_v1.0:
   code: TF1.5.WM.nwx
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: 'Freshwater ecoregions (Abell et al., 2008) were identified as containing
     occurrences of these functional groups if: i) their descriptions mentioned features
     consistent with those identified in the profile of the Ecosystem Functional Group;
@@ -2506,17 +2101,13 @@ TF1.5.WM.nwx_v1.0:
   version: v1.0
 TF1.5.web.map_v2.0:
   code: TF1.5.web.map
-  contributors:
-  - JR Ferrer-Paris
-  - DA Keith
+  contributors: JR Ferrer-Paris, DA Keith
   description: "Locations of pan, brackish and saline wetlands were taken from the\
     \ Global Lakes and Wetlands Database GLWD3 class 7 from Lehner and D\xF6ll (2004). "
   version: v2.0
 TF1.6.IM.orig_v1.0:
   code: TF1.6.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -2527,9 +2118,7 @@ TF1.6.IM.orig_v1.0:
   version: v1.0
 TF1.6.web.orig_v1.0:
   code: TF1.6.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
@@ -2540,9 +2129,7 @@ TF1.6.web.orig_v1.0:
   version: v1.0
 TF1.7.IM.orig_v1.0:
   code: TF1.7.IM.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al., 2017), global and regional reviews, national and regional
@@ -2553,9 +2140,7 @@ TF1.7.IM.orig_v1.0:
   version: v1.0
 TF1.7.web.orig_v1.0:
   code: TF1.7.web.orig
-  contributors:
-  - DA Keith
-  - JR Ferrer-Paris
+  contributors: DA Keith, JR Ferrer-Paris
   description: Terrestrial ecoregions containing major or minor occurrences of this
     ecosystem functional group were identified by consulting available ecoregion descriptions
     (Dinerstein et al. 2017), global and regional reviews, national and regional ecosystem
