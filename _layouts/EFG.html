@@ -36,9 +36,9 @@ section: browse
 <h3>Map references</h3>
 <ul>
   {% assign mapref = site.data.maprefs[page.mapcode] %}
-{% for ref in mapref %}
+{% for ref in mapref.references %}
 <li>{{ ref }}</li>
-<li>{{site.data.references[ref.references] | markdownify}}</li>
+<li>{{site.data.references[ref] | markdownify}}</li>
 {% endfor %}
 </ul>
 
