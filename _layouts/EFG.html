@@ -29,7 +29,7 @@ section: browse
 <ul>
   {% assign mainref = site.data.efgrefs[page.code] %}
 {% for ref in mainref %}
-<li>{{ref | markdownify}}</li>
+<li>{{site.data.references[ref] | markdownify}}</li>
 {% endfor %}
 </ul>
 
@@ -37,7 +37,6 @@ section: browse
 <ul>
   {% assign mapref = site.data.maprefs[page.mapcode] %}
 {% for ref in mapref.references %}
-<li>{{ ref }}</li>
 <li>{{site.data.references[ref] | markdownify}}</li>
 {% endfor %}
 </ul>
