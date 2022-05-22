@@ -5,6 +5,6 @@ title: General references
 
 # All references
 
-{% for item in references %}
-* {{ item }} 
+{% for item in site.data.references %}
+* {{ item }}
 {% endfor %}
