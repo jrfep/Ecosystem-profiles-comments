@@ -25,9 +25,9 @@ section: browse
   {% capture mapcode %}{{map.code}}_{{map.version}}{% endcapture %}
   {% assign map_files = site.static_files | where: "basename", mapcode %}
     {% for myimage in map_files %}
-    {% capture mapdesc %}map.description{% endcapture %}
-    {% capture mappath %}myimage.path{% endcapture %}
-    {% capture validmapcode %}mapcode{% endcapture %}
+      {% capture mapdesc %}{{map.description}}{% endcapture %}
+      {% capture mappath %}{{myimage.path}}{% endcapture %}
+      {% capture validmapcode %}{{mapcode}}{% endcapture %}
       <li>{{ myimage.path }}</li>
     {% endfor %}
   {% endfor %}
