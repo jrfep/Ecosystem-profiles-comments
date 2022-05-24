@@ -17,6 +17,11 @@ section: browse
 
 {{ content }}
 
+{% assign map_files = site.static_files | where: "basename", page.mapcode %}
+{% for myimage in map_files %}
+  {{ myimage.path }}
+{% endfor %}
+
 <figure>
 <img src="../assets/maps/{{ page.mapcode }}.svg" width="100%"/>
  <figcaption>
