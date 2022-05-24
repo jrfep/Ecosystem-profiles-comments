@@ -7,12 +7,12 @@ section: browse
 <h1>{{ page.name }}</h1>
 <h3>Biome: <a href="../Biomes/{{ page.biomecode }}.html">{{ page.biome }}</a></h3>
 <h4>Contributors:<br/> {{ page.contributors }} (texts)<br/> {{ map.contributors }} (maps)</h4>
-<b style="color: #333333;font-size: 12px;">Version: {{ page.version }} [<a href='https://global-ecosystems.org/explore/groups/{{ page.code }}'>see current version</a>]</b>
+<b style="color: #333333;font-size: 12px;">Version: {{ page.version }} [<a href='https://global-ecosystems.org/explore/groups/{{ page.code }}' target='next'>see current version</a>]</b>
 <div style=";
    position: relative;
   left: 0px;
   padding: 15px;
-  width: 60%;">
+  width: 80%;">
 
 
 {{ content }}
@@ -20,7 +20,7 @@ section: browse
 <figure>
 <img src="../assets/maps/{{ page.mapcode }}.svg" width="100%"/>
  <figcaption>
-   <b style="font-size: 15px;font-weight: bold;">Map details for {{ page.name }} (map code {{map.code}} {{map.version}})</b>: {{ map.description }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font> <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-size: 10px;font-weight: bold;font-color: red;">See general notes on maps.</a> <a href="../assets/maps/{{ page.mapcode }}.png" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
+   <b style="font-size: 15px;font-weight: bold;">Map details for {{ page.name }} (map code {{map.code}} {{map.version}})</b>: {{ map.description }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font> <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-size: 10px;font-weight: bold;font-color: red;">See general notes on maps.</a> <a href="../assets/maps/{{ page.mapcode }}.svg" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
  </figcaption>
 </figure>
 
