@@ -25,15 +25,18 @@ section: browse
   {% capture mapcode %}{{map.code}}_{{map.version}}{% endcapture %}
   {% assign map_files = site.static_files | where: "basename", mapcode %}
     {% for myimage in map_files %}
+    {% capture mapdesc %}map.description{% endcapture %}
+    {% capture mappath %}myimage.path{% endcapture %}
+    {% capture validmapcode %}mapcode{% endcapture %}
       <li>{{ myimage.path }}</li>
     {% endfor %}
   {% endfor %}
 </ol>
 
   <figure>
-  <img src="../{{ myimage.path }}" width="100%"/>
+  <img src="../{{ mappath }}" width="100%"/>
    <figcaption>
-     <b style="font-size: 15px;font-weight: bold;">Map details for {{ page.name }}</b>: {{ map.description }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font> <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-size: 10px;font-weight: bold;font-color: red;">See general notes on maps.</a> <a href="../{{ myimage.path }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
+     <b style="font-size: 15px;font-weight: bold;">Map details for {{ page.name }}</b>: {{ mapdesc }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font> <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-size: 10px;font-weight: bold;font-color: red;">See general notes on maps.</a> <a href="../{{ mappath }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
    </figcaption>
   </figure>
 
@@ -48,7 +51,7 @@ section: browse
 
 <h3>Map references</h3>
 <ul>
-  {% assign mapref = site.data.maprefs[page.mapcode] %}
+  {% assign mapref = site.data.maprefs[validmapcode] %}
 {% for ref in mapref.references %}
 <li>{{site.data.references[ref] | markdownify}}</li>
 {% endfor %}
