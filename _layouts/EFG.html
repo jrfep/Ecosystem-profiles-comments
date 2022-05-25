@@ -17,7 +17,8 @@ section: browse
 
 {{ content }}
 
-{% assign valid_maps = site.data.mapinfo | where: "efg", page.code %}
+{% assign slc_maps = site.data.mapinfo | where: "efg", page.code %}
+{% assign valid_maps = slc_maps | where: "status", "valid" %}
 
 <ol>
   {% for map in valid_maps %}
