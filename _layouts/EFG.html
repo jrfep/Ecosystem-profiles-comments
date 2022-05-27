@@ -49,7 +49,7 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
   {% if maprefs == false %}
     {% assign maprefs = site.data.maprefs[mapcode] %}
   {% else %}
-    {% assign maprefs = maprefs | concat: site.data.maprefs[mapcode] | uniq %}
+    {% assign maprefs = maprefs | concat: site.data.maprefs[mapcode] %}
   {% endif % }
 
   {% assign map_files = site.static_files | where: "basename", mapcode %}
