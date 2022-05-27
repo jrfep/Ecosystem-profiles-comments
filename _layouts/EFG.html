@@ -35,23 +35,29 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
 {% assign slc_maps = site.data.mapinfo | where: "efg", page.code %}
 {% assign valid_maps = slc_maps | where: "status", "valid" %}
 
-{% if valid_maps|length>1 %}
-<p>There are {{valid_maps|length}} alternative versions of the indicative map for this functional group, please compare description and sources below.</p>
+{% if valid_maps.size >1 %}
+<p>There are {{valid_maps.size}} alternative versions of the indicative map for this functional group, please compare description and sources below.</p>
 {% else %}
 <p>Information about the current valid indicative map for this functional group is shown below.</p>
-{% endif%}
+{% endif %}
+
+{% assign  maprefs = false %}
 
   {% for map in valid_maps %}
   {% capture mapcode %}{{map.code}}_{{map.version}}{% endcapture %}
+
+  {% if maprefs == false %}
+    {% assign maprefs = site.data.maprefs[mapcode] %}
+  {% else %}
+    {% assign maprefs = maprefs | concat: site.data.maprefs[mapcode] %}
+  {% endif % }
+
   {% assign map_files = site.static_files | where: "basename", mapcode %}
     {% for myimage in map_files %}
-      {% capture mapdesc %}{{map.description}}{% endcapture %}
-      {% capture mappath %}{{myimage.path}}{% endcapture %}
-      {% capture validmapcode %}{{mapcode}}{% endcapture %}
       <figure>
       <img src="../{{ mappath }}" width="100%"/>
        <figcaption>
-         <b style="font-size: 15px;font-weight: bold;">Map {{map.code}} {{map.version}}</b>: {{ mapdesc }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font>  <a href="../{{ mappath }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
+         <b style="font-size: 15px;font-weight: bold;">Map {{map.code}} {{map.version}}</b>: {{ map.description }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font>  <a href="../{{ myimage.path }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
        </figcaption>
       </figure>
     {% endfor %}
@@ -71,8 +77,8 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
 
 <h3>Map references</h3>
 <ul>
-  {% assign mapref = site.data.maprefs[validmapcode] %}
-{% for ref in mapref.references %}
+
+{% for ref in mapref.references | uniq %}
 <li>{{site.data.references[ref] | markdownify}}</li>
 {% endfor %}
 </ul>
