@@ -28,8 +28,18 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
 
 
 <h2>Maps</h2>
+<p>Maps are indicative of global distribution patterns are not intended to represent fine-scale patterns. The maps show areas of the world containing major (coloured red) or minor occurrences (coloured yellow) of each ecosystem functional group. <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-weight: bold;font-color: red;">See general notes on maps.</a></p>
+
+
+
 {% assign slc_maps = site.data.mapinfo | where: "efg", page.code %}
 {% assign valid_maps = slc_maps | where: "status", "valid" %}
+
+{% if valid_maps|length>1 %}
+<p>There are {{valid_maps|length}} alternative versions of the indicative map for this functional group, please compare description and sources below.</p>
+{% else %}
+<p>Information about the current valid indicative map for this functional group is shown below.</p>
+{% endif%}
 
   {% for map in valid_maps %}
   {% capture mapcode %}{{map.code}}_{{map.version}}{% endcapture %}
@@ -41,7 +51,7 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
       <figure>
       <img src="../{{ mappath }}" width="100%"/>
        <figcaption>
-         <b style="font-size: 15px;font-weight: bold;">Map {{map.code}} {{map.version}}</b>: {{ mapdesc }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font> <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-size: 10px;font-weight: bold;font-color: red;">See general notes on maps.</a> <a href="../{{ mappath }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
+         <b style="font-size: 15px;font-weight: bold;">Map {{map.code}} {{map.version}}</b>: {{ mapdesc }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font>  <a href="../{{ mappath }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
        </figcaption>
       </figure>
     {% endfor %}
