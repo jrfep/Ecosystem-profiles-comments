@@ -1,26 +1,19 @@
 ---
 name: MFT1.1 Coastal river deltas
+shortname: MFT1.1 River deltas
 biome: MFT1. Brackish tidal biome
-realm: Marine, Freshwater, Terrestrial
+realm: ['Marine', 'Freshwater', 'Terrestrial']
 code: MFT1.1
 biomecode: MFT1
-contributors: DA Keith, RT Kingsford
-version: v2.1 (2022-04-06)
-mapcode: MFT1.1.WM.nwx_v1.0
 ---
-# Ecosystem properties
+# Short description
 
-Coastal river deltas are prograding depositional systems, shaped by freshwater flows and influenced by wave and tidal flow regimes and substrate composition. The biota of these ecosystems reflects strong relationships with terrestrial, freshwater, and marine realms at different spatial scales. Consequently, they typically occur as multi-scale mosaics comprised of unique elements juxtaposed with other functional groups that extend far beyond the deltaic influence, such as floodplain marshes (FT1.2), mangroves (MFT1.2), sandy shorelines (TM1.3), and subtidal muddy plains (M1.8). Gradients of water submergence and salinity structure these mosaics. Allochthonous subsidies from riverine discharge and marine currents supplement autochthonous sources of energy and carbon and contribute to high productivity. Complex, multi-faceted trophic relationships reflect the convergence and integration of three contrasting realms and the resulting niche diversity. Autotrophs include planktonic algae and emergent and submerged aquatic plants, which contribute to trophic networks mostly through organic detritus (rather than herbivory). Soft sediments and flowing water are critical to in-sediment fauna dominated by polychaetes and molluscs. Freshwater, estuarine, and marine fish and zooplankton are diverse and abundant in the water column. These provide food for diverse communities of wading and fishing birds, itinerant marine predators, and terrestrial scavengers and predators (e.g. mammals and reptiles). Virtually all biota have life-history and/or movement traits enabling them to exploit highly dynamic ecosystem structures and disturbance regimes. High rates of turnover in habitat and biota are expressed spatially by large fluctuations in the mosaic of patch types that make up deltaic ecosystems.
+At the convergence of terrestrial, freshwater and marine realms, coastal river deltas are shaped by river inflows that deposit sediment and ocean tides and currents that disperse it. Gradients of salinity and submergence and dynamic substrates create shifting mosaics of channels, islands, floodplains, intertidal and subtidal mud plains and sand beds that may be regarded as embedded patches of other functional groups. The dynamic mosaics support complex foodwebs. Planktonic algae, aquatic plants and river inflows contribute detritus for in-sediment fauna. Fish and zooplankton are diverse and abundant in the water column, providing food for wading and fishing birds and marine and terrestrial predators.
 
-# Ecological Drivers
+# Key Features
 
-River inflows structure the dynamic mosaics of coastal river deltas. Inflows depend on catchment geomorphology and climate and influence water levels, nutrient input, turbidity (hence light penetration), tidal amplitude, salinity gradients, temperature, dissolved oxygen, and organic carbon. Rates of delta aggradation depend on interactions among riverine sedimentation and ocean currents, tides, and wave action, which disperse sediment loads. Coastal geomorphology influences depth gradients. These processes result in complex, spatio-temporally variable mosaics of distributary channels, islands, floodplains, mangroves, subtidal mud plains, and sand beds. Regimes of floods and storm surges driven by weather in the river catchment and ocean, respectively, have a profound impact on patch dynamics.
-
-# Diagramatic assembly model
-
-{% include DAM.html %}
+Depositional, mosaic systems with strong gradients between terrestrial, freshwater and marine elements. Productive with diverse plankton, fish, birds and mammals.
 
 # Distribution
 
-Continental margins where rivers connect the coast to high-rainfall catchments, usually with high mountains in their headwaters.
-
+Continental margins of high rainfall catchments globally
