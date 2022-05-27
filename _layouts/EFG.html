@@ -41,16 +41,15 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
 <p>Information about the current valid indicative map for this functional group is shown below.</p>
 {% endif %}
 
-{% assign  maprefs = false %}
+
 
   {% for map in valid_maps %}
   {% capture mapcode %}{{map.code}}_{{map.version}}{% endcapture %}
 
-  {% if maprefs == false %}
+
     {% assign maprefs = site.data.maprefs[mapcode].references %}
-  {% else %}
-    {% assign maprefs = maprefs | concat: site.data.maprefs[mapcode].references | uniq %}
-  {% endif % }
+<p>References for {{mapcode}}: {{maprefs}}</p>
+
 
   {% assign map_files = site.static_files | where: "basename", mapcode %}
     {% for myimage in map_files %}
