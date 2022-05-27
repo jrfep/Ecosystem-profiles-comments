@@ -6,14 +6,13 @@ realm: ['Freshwater', 'Marine']
 code: FM1.1
 biomecode: FM1
 ---
-# Short description
 
 Ecosystems in these deep, narrow inlets were mostly formed by glaciers and subsequently flooded (e.g. fjords). They have some features of open oceans, but are strongly influenced by freshwater inflows and the surrounding coast. Productivity by phytoplankton is seasonal and limited by cold, dark winters. Oxygen may be limited in the deepest parts of these systems. The diverse biota includes invertebrates and fish, such as jellyfish and salmon, and predatory marine mammals such as killer whales.
 
-# Key Features
+### Key Features
 
-Strong gradients between adjacent terrestrial and freshwater systems,e.g. fjords. Seasonaly abundant plankton, jellies, fish and mammals.
+Strong gradients between adjacent terrestrial and freshwater systems,e.g. fjords. Seasonaly abundant plankton, jellies, fish and mammals..
 
-# Distribution
+### Distribution
 
-Glaciated coastlines (current or historical) in polar or cool-temperate regions
+Glaciated coastlines (current or historical) in polar or cool-temperate regions.
