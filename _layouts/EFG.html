@@ -47,9 +47,9 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
   {% capture mapcode %}{{map.code}}_{{map.version}}{% endcapture %}
 
   {% if maprefs == false %}
-    {% assign maprefs = site.data.maprefs[mapcode] %}
+    {% assign maprefs = site.data.maprefs[mapcode].references %}
   {% else %}
-    {% assign maprefs = maprefs | concat: site.data.maprefs[mapcode] %}
+    {% assign maprefs = maprefs | concat: site.data.maprefs[mapcode].references %}
   {% endif % }
 
   {% assign map_files = site.static_files | where: "basename", mapcode %}
@@ -78,7 +78,7 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
 <h3>Map references</h3>
 <ul>
 
-{% for ref in mapref.references %}
+{% for ref in maprefs | uniq %}
 <li>{{site.data.references[ref] | markdownify}}</li>
 {% endfor %}
 </ul>
