@@ -41,25 +41,27 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
 <p>Information about the current valid indicative map for this functional group is shown below.</p>
 {% endif %}
 
-
-
   {% for map in valid_maps %}
   {% capture mapcode %}{{map.code}}_{{map.version}}{% endcapture %}
 
-
-    {% assign maprefs = site.data.maprefs[mapcode].references %}
-<p>References for {{mapcode}}: {{maprefs}}</p>
-
+<h3>{{ mapcode }}</h3>
 
   {% assign map_files = site.static_files | where: "basename", mapcode %}
     {% for myimage in map_files %}
       <figure>
-      <img src="../{{ mappath }}" width="100%"/>
+      <img src="../{{ myimage.path }}" width="100%"/>
        <figcaption>
-         <b style="font-size: 15px;font-weight: bold;">Map {{map.code}} {{map.version}}</b>: {{ map.description }} <font style="font-size: 10px;font-weight: normal;">Major occurrences coloured red, minor occurrences coloured yellow.</font>  <a href="../{{ myimage.path }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
+          {{ map.description }} <a href="../{{ myimage.path }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
        </figcaption>
       </figure>
     {% endfor %}
+
+  {% assign maprefs = site.data.maprefs[mapcode].references %}
+  <p>References </p>
+    {% for ref in maprefs %}
+    - {{ ref }}
+    {% endfor %}
+
   {% endfor %}
 
 
