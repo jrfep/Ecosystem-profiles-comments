@@ -13,6 +13,6 @@ A low diversity of specialised plants and animals live in grasslands, shrublands
 
 Coastal scrub limited by salinity, water deficit and disturbances (e.g. cliff collapse). Strong gradients from sea to land and highly mobile fauna..
 
-### Distribution
+### Overview of distribution
 
 Coastal dunes and cliffs in tropical, temperate and boreal latitudes.

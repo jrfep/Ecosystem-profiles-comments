@@ -13,6 +13,6 @@ Waves, tides and a gradient of exposure drive the structure and function of thes
 
 Hard intertidal substrate, dominated by sessile and mobile invertebrates, and macroalgae.
 
-### Distribution
+### Overview of distribution
 
 High-energy shorelines globally.

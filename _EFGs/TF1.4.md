@@ -13,6 +13,6 @@ Seasonal flooding and drying regimes characterise high productivity floodplain m
 
 High productivity wetlands with strongly seasonal water regimes, supporting functionally diverse mosaics of aquatic plants and seasonally variable trophic networks of invertebrates, amphibians, crocodilians and birds.
 
-### Distribution
+### Overview of distribution
 
 Seasonal tropics and subhumid temperate regions.

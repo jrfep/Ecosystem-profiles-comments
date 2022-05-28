@@ -13,6 +13,6 @@ Low productivity ecosystems occur within water-saturated permeable rock strata o
 
 Saturated ecosystems at or below the watertable with low diversity communities of heterotrophic microbes and invertebrates.
 
-### Distribution
+### Overview of distribution
 
 Scattered globally throughout land masses.

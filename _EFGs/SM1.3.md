@@ -13,6 +13,6 @@ Sea caves are formed by waves action on fissures in a wide range of rocky coastl
 
 Wave-exposed caves provide dim light and shelter to cave-exclusive, resident and transient/ migratory invertebrates and fish..
 
-### Distribution
+### Overview of distribution
 
 Coastal headlands, rocky and coral reefs globally.

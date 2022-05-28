@@ -13,6 +13,6 @@ Waters flowing rapidly through artificial conduits are typically bereft of their
 
 Artificial flowing waterbodies that carry water with variable flow regime, limited light, sometimes with high carbon and nutrients supporting opportunities aquatic detritivores and predators.
 
-### Distribution
+### Overview of distribution
 
 Ubiquitous in developed regions of the world, most commonly in urban landscapes and irrigation areas.

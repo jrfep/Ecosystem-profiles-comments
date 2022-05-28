@@ -13,6 +13,6 @@ Opportunistic, short-lived organisms live in these ecosystems, where conditions 
 
 Shallow water systems, highly variability depending on opening or closing of lagoonal entrance. Detritus-based foodwebs with plankton, invertebrates and small fish..
 
-### Distribution
+### Overview of distribution
 
 Wave-dominated coastlines globally.

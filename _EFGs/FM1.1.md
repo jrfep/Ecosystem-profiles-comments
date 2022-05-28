@@ -13,6 +13,6 @@ Ecosystems in these deep, narrow inlets were mostly formed by glaciers and subse
 
 Strong gradients between adjacent terrestrial and freshwater systems,e.g. fjords. Seasonaly abundant plankton, jellies, fish and mammals..
 
-### Distribution
+### Overview of distribution
 
 Glaciated coastlines (current or historical) in polar or cool-temperate regions.

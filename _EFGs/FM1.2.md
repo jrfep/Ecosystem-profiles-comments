@@ -13,6 +13,6 @@ These coastal ecosystems are shifting mosaics of different habitats, depending o
 
 Productive mosaic systems with variable salinity, often nuseries for fish and supporting abundant seabirds and mammals..
 
-### Distribution
+### Overview of distribution
 
 Coastlines globally.

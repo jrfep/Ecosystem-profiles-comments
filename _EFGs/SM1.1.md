@@ -13,6 +13,6 @@ Anchialine caves contain water bodies that have a subterranean connection to the
 
 Cave-bound waterbodies connected to the sea with a gradient of tidal influence and salinity. Filter feeders, scavengers and predators limited by light and nutrients.
 
-### Distribution
+### Overview of distribution
 
 Limestone, basalt and more rarely lithic substrates coastal regions globally.

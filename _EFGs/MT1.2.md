@@ -13,6 +13,6 @@ Mudflats occur on low-energy coastlines. Mud and silt, often from nearby rivers,
 
 Intertidal soft-sediment, of fine particle-size, dependent on allochtonous production and dominated by deposit feeding and detritivorous invertebrates that provide a prey resource for shore birds and fishes.
 
-### Distribution
+### Overview of distribution
 
 Low-energy shorelines globally.

@@ -13,6 +13,6 @@ Constructed sea walls, breakwaters, piers, docks, tidal canals, islands and othe
 
 Coastal infrastructure, such as seawalls, breakwaters, pilings and piers, extending from the intertidal to subtidal, supporting cosmopolitan sessile and mobile invertebrates and macroalgae on their hard surfaces, and in some instances serving as artificial reefs for fish.
 
-### Distribution
+### Overview of distribution
 
 Globally, along urbanised coastlines.

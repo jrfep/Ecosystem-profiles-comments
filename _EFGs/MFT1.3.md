@@ -13,6 +13,6 @@ Coastal salt marshes and reedbeds are mosaics of salt-tolerant grasses and low, 
 
 Variable salinity tidal system dominated by salt-tolerant plants, with invertebrates, small/juvenile fish and birds..
 
-### Distribution
+### Overview of distribution
 
 Mostly low energy coasts from tropical to arctic and subantarctic latitudes.

@@ -13,6 +13,6 @@ Peat bogs in the boreal-subarctic and temperate areas of the world account for u
 
 Permanently ground water-logged (by rainwater-fed ground water,) nutrient poor, acidic sites on organic soils (peat); species poor, but high abundance of mosses, sedges and no to open woody species cover.
 
-### Distribution
+### Overview of distribution
 
 Boreal and temperate humid zones of the northern hemisphere, limited occurrences in the southern hemisphere (southern South America, southern Australasia).

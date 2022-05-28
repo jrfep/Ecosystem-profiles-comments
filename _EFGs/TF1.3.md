@@ -13,6 +13,6 @@ Permanent marshes occur throughout tropical and temperate regions of the world i
 
 Shallow permanently inundated freshwater wetlands, dominated by herbaceous macrophytes, supporting high primary productivity and complex trophic networks with abundant insects, birds and amphibians.
 
-### Distribution
+### Overview of distribution
 
 Mainly on floodplains in catchments with humid tropical or temperate climates.

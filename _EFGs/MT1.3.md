@@ -13,6 +13,6 @@ Beaches, sand bars and spits are exposed to waves and tides on moderate-high ene
 
 Intertidal soft-sediment, of large particle-size, lacking conspicuous macrophytes, and dominated by suspension-feeding invertebrates that provide a prey resource for shore birds and fishes.
 
-### Distribution
+### Overview of distribution
 
 Medium-high energy shorelines, particularly at temperate latitudes.

@@ -13,6 +13,6 @@ Episodic arid floodplains rarely flood and are predominantly dry, sometimes for 
 
 Highly productive floodplains when flooded, supporting highly diverse and complex trophic networks, followed by long periods of low productivity when dry.
 
-### Distribution
+### Overview of distribution
 
 Semi-ard and arid regions.

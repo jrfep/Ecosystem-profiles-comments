@@ -13,6 +13,6 @@ Fens occur extensively in boreal-subarctic and cool temperate regions. Like peat
 
 Permanently groundwater-logged, nutrient poor to (moderately) nutrient-rich sites, often organic soils; high abundance of mosses, sedges and no to open woody species cover.
 
-### Distribution
+### Overview of distribution
 
 Boreal and temperate zones of the northern hemisphere, limited occurrences in the southern hemisphere (southern South America, southern Australasia, possibly South Africa).

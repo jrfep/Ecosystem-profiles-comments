@@ -13,6 +13,6 @@ These tropical swamps have closed forest canopies and experience high rainfall a
 
 Evergreen closed-canopy forests in tropical swamps and riparian zones, differing between high and low nutrients waters, and supporting complex trophic networks.
 
-### Distribution
+### Overview of distribution
 
 Equatorial lowlands of Southeast Asia, South America and Central and West Africa.

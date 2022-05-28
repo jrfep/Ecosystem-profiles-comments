@@ -13,6 +13,6 @@ Disused subterranean mines and other voids may fill with static or slowing movin
 
 Underground largely static low-productivity waterbodies often with large of warm groundwater or seepage, colonised by opportunistic microbes and invertebrates.
 
-### Distribution
+### Overview of distribution
 
 Common in mineral rich regions of the world.

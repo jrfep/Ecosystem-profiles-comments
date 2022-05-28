@@ -13,6 +13,6 @@ At the convergence of terrestrial, freshwater and marine realms, coastal river d
 
 Depositional, mosaic systems with strong gradients between terrestrial, freshwater and marine elements. Productive with diverse plankton, fish, birds and mammals..
 
-### Distribution
+### Overview of distribution
 
 Continental margins of high rainfall catchments globally.

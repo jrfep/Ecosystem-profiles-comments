@@ -13,6 +13,6 @@ Mangroves create structurally complex and productive ecosystems in the intertida
 
 Intertidal mangrove-dominated systems, producing high amounts of organic matter that is both buried in situ and exported; sediments dominated by detritivores and leaf shredders, with birds , mammals, reptiles and terrestrial invertebrates occupying the canopy.
 
-### Distribution
+### Overview of distribution
 
 Tropical and warm temperate coastlines with good sediment supply.

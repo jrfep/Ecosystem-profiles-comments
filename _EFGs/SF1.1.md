@@ -13,6 +13,6 @@ These dark aquatic systems buried below ground have varied levels of connectivit
 
 Water-filled subterranean voids with low diversity of light-limited bacteria, fungi, detrivores and predators..
 
-### Distribution
+### Overview of distribution
 
 Scattered lobally in limestone or more rarely basalt or other lithic substrates.

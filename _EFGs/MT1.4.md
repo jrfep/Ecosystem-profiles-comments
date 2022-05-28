@@ -13,6 +13,6 @@ Cobbled and boulder shores are exposed to wave action and tides, and are periodi
 
 Unstable intertidal hard substrate, that supports encrusting and fouling species at low elevations and in some instances vegetation, though largely dependent on allocthonous production.
 
-### Distribution
+### Overview of distribution
 
 High-latitude shorelines receiving cobbles from rivers, glaciers or erosion of cliffs.

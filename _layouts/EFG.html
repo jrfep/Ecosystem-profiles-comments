@@ -14,9 +14,26 @@ section: browse
   padding: 15px;
   width: 80%;">
 
-
 {{ content }}
 
+<h3>Profile versions</h3>
+{% assign efg_vers = site.data.efgversions[page.code] %}
+<ul>
+{% for efg_ver in efg_vers %}
+<li>{{efg_ver[0]}}</li>
+<li>{{efg_ver}}</li>
+<li>{{efg_ver['contributors']}}</li>
+{% endfor %}
+</ul>
+
+<h3>Main references</h3>
+<p>Selected references for this functional group:</p>
+<ul>
+  {% assign mainref = site.data.efgrefs[page.code] %}
+{% for ref in mainref %}
+<li>{{site.data.references[ref] | markdownify}}</li>
+{% endfor %}
+</ul>
 
 <h2>Diagrammatic assembly model</h2>
 <figure>
@@ -29,8 +46,6 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
 
 <h2>Maps</h2>
 <p>Maps are indicative of global distribution patterns are not intended to represent fine-scale patterns. The maps show areas of the world containing major (coloured red) or minor occurrences (coloured yellow) of each ecosystem functional group. <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-weight: bold;font-color: red;">See general notes on maps.</a></p>
-
-
 
 {% assign slc_maps = site.data.mapinfo | where: "efg", page.code %}
 {% assign valid_maps = slc_maps | where: "status", "valid" %}
@@ -56,34 +71,24 @@ Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.ht
       </figure>
     {% endfor %}
 
-  {% assign maprefs = site.data.maprefs[mapcode].references %}
-  <p>References </p>
-    {% for ref in maprefs %}
-    - {{ ref }}
-    {% endfor %}
-
+  {% assign datasets = site.data.maprefs[mapcode].datasets %}
+  <h4>Datasets</h4>
+  <ul>
+  {% for ref in datasets  %}
+  <li>{{ref}}</li>
   {% endfor %}
+  </ul>
+
+  {% assign maprefs = site.data.maprefs[mapcode].references %}
+  <h4>Map references</h4>
+  <ul>
+  {% for ref in maprefs  %}
+  <li>{{site.data.references[ref] | markdownify}}</li>
+  {% endfor %}
+  </ul>
 
 
-
-
-<h2>References</h2>
-<h3>Main references</h3>
-<ul>
-  {% assign mainref = site.data.efgrefs[page.code] %}
-{% for ref in mainref %}
-<li>{{site.data.references[ref] | markdownify}}</li>
 {% endfor %}
-</ul>
-
-<h3>Map references</h3>
-<ul>
-
-{% for ref in maprefs  %}
-<li>{{site.data.references[ref] | markdownify}}</li>
-{% endfor %}
-</ul>
-
 
 Back to: <a href="../Realms.html">Realm overview</a>
 {% for therealm in site.Realms %}

@@ -13,6 +13,6 @@ Anchialine pools are brackish surface water bodies that have a subterranean conn
 
 Open pools with subterranean connections to the sea and groundwater, and dynamic, diverse trophic networks.
 
-### Distribution
+### Overview of distribution
 
 Limestone, basalt and more rarely lithic substrates coastal regions globally.

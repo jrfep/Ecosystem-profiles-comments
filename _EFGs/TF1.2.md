@@ -13,6 +13,6 @@ Forested wetlands in temperate and subtropical climates undergo periodic floodin
 
 Permently to seasonally wet (or flooded), nutrient poor, to nutrient rich, open to closed canopy forests, often on organic soils (peat); poor in woody species, high abundance of mosses and sedges and no to open woody species cover.
 
-### Distribution
+### Overview of distribution
 
 Subtropical to temperate regions of both hemispheres, mostly in humid climates.

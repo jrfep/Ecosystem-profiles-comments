@@ -13,6 +13,6 @@ biomecode: MT2
 
 Localised areas of bare or vegetated ground with diverse microbial communities at the ocean interface receiving massive nutrient subsidies and disturbance from large concentrations of roosting or nesting seabirds and pinnipeds that function as mobile links between land and sea.
 
-### Distribution
+### Overview of distribution
 
 Scattered globally on islands and coastlines, but most common in polar and subpolar regions.
