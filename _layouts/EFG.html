@@ -7,7 +7,6 @@ section: browse
 <h1>{{ page.name }}</h1>
 <h3>Biome: <a href="../Biomes/{{ page.biomecode }}.html">{{ page.biome }}</a></h3>
 <h4>Contributors:<br/> {{ page.contributors }} (texts)</h4>
-<b style="color: #333333;font-size: 12px;"> <a href='https://global-ecosystems.org/explore/groups/{{ page.code }}' target='next'>Full profile available at official site</a></b>
 <div style=";
    position: relative;
   left: 0px;
@@ -20,9 +19,11 @@ section: browse
 {% assign efg_vers = site.data.efgversions[page.code] %}
 <ul>
 {% for efg_ver in efg_vers %}
-<li>{{efg_ver[0]}}</li>
-<li>{{efg_ver}}</li>
-<li>{{efg_ver['contributors']}}</li>
+  <li>{{efg_ver[0]}} ({{efg_ver[1]['update']}}): {{efg_ver[1]['contributors'] | join: "; " }}
+    {% if efg_ver[1]['current'] == true %}
+      <b style="color: #333333;font-size: 12px;"> <a href='https://global-ecosystems.org/explore/groups/{{ page.code }}' target='next'>Full profile available at official site</a></b>
+    {% endif %}
+  </li>
 {% endfor %}
 </ul>
 

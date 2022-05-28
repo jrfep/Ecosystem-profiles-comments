@@ -26,6 +26,7 @@ F1.1:
     - M Kelly-Quinn
     - AH Arthington
     - DA Keith
+    current: true
     update: 2022-04-06
 F1.2:
   v1.0:
@@ -61,6 +62,7 @@ F1.2:
     - Rains
     - AH Arthington
     - DA Keith
+    current: true
     update: 2022-04-06
 F1.3:
   v1.0:
@@ -81,6 +83,7 @@ F1.3:
     - RT Kingsford
     - PS Giller
     - DA Keith
+    current: true
     update: 2022-04-06
 F1.4:
   v1.0:
@@ -107,6 +110,7 @@ F1.4:
     - AH Arthington
     - M Kelly-Quinn
     - DA Keith
+    current: true
     update: 2022-04-06
 F1.5:
   v1.0:
@@ -131,6 +135,7 @@ F1.5:
     - PS Giller
     - AH Arthington
     - DA Keith
+    current: true
     update: 2022-04-06
 F1.6:
   v1.0:
@@ -161,6 +166,7 @@ F1.6:
     - B Robson
     - AH Arthington
     - DA Keith
+    current: true
     update: 2022-04-06
 F1.7:
   v1.0:
@@ -184,6 +190,7 @@ F1.7:
     - PS Giller
     - R Mac Nally
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.1:
   v1.0:
@@ -213,6 +220,7 @@ F2.1:
     - F Essl
     - K Irvine
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.10:
   v1.01:
@@ -230,6 +238,7 @@ F2.10:
     contributors:
     - DA Keith
     - MJ Siegert
+    current: true
     update: 2022-04-06
 F2.2:
   v1.0:
@@ -265,6 +274,7 @@ F2.2:
     - K Irvine
     - S Bertilsson
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.3:
   v1.0:
@@ -292,6 +302,7 @@ F2.3:
     - B Robson
     - K Irvine
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.4:
   v1.0:
@@ -317,6 +328,7 @@ F2.4:
     - LJ Jackson
     - B Robson
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.5:
   v1.0:
@@ -343,6 +355,7 @@ F2.5:
     - RT Kingsford
     - JT Hollibaugh
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.6:
   v1.0:
@@ -367,6 +380,7 @@ F2.6:
     - B Robson
     - R Harper
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.7:
   v1.0:
@@ -391,6 +405,7 @@ F2.7:
     - K Irvine
     - R Harper
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.8:
   v1.0:
@@ -414,6 +429,7 @@ F2.8:
     - RT Kingsford
     - AH Arthington
     - DA Keith
+    current: true
     update: 2022-04-06
 F2.9:
   v1.0:
@@ -433,6 +449,7 @@ F2.9:
     - DA Keith
     - A Channing
     - PS Giler
+    current: true
     update: 2022-04-06
 F3.1:
   v1.0:
@@ -460,6 +477,7 @@ F3.1:
     - B Robson
     - M Kelly-Quinn
     - DA Keith
+    current: true
     update: 2022-04-06
 F3.2:
   v1.0:
@@ -490,6 +508,7 @@ F3.2:
     - LJ Jackson
     - R Harper
     - DA Keith
+    current: true
     update: 2022-04-06
 F3.3:
   v1.0:
@@ -508,6 +527,7 @@ F3.3:
     contributors:
     - RT Kingsford
     - DA Keith
+    current: true
     update: 2022-04-06
 F3.4:
   v1.0:
@@ -528,6 +548,7 @@ F3.4:
     - RT Kingsford
     - M Beveridge
     - DA Keith
+    current: true
     update: 2022-04-06
 F3.5:
   v1.0:
@@ -550,6 +571,7 @@ F3.5:
     - B Robson
     - M Kelly-Quinn
     - DA Keith
+    current: true
     update: 2022-04-06
 FM1.1:
   v1.0:
@@ -573,6 +595,7 @@ FM1.1:
     - EJ Gregr
     - A Lindgaard
     - TS Bianchi
+    current: true
     update: 2022-04-06
 FM1.2:
   v1.0:
@@ -601,6 +624,7 @@ FM1.2:
     - RJ Woodland
     - KA Dafforn
     - DA Keith
+    current: true
     update: 2022-04-06
 FM1.3:
   v1.0:
@@ -625,6 +649,7 @@ FM1.3:
     - RJ Woodland
     - KA Dafforn
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.1:
   v1.0:
@@ -648,6 +673,7 @@ M1.1:
     - SN Porter
     - RJ Orth
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.10:
   v2.1:
@@ -658,6 +684,7 @@ M1.10:
     - LJ Shannon
     - IM Suthers
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.2:
   v1.0:
@@ -681,6 +708,7 @@ M1.2:
     - MJ Bishop
     - SN Porter
     - EJ Gregr
+    current: true
     update: 2022-04-06
 M1.3:
   v1.0:
@@ -705,6 +733,7 @@ M1.3:
     - CRC Sheppard
     - SN Porter
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.4:
   v1.0:
@@ -729,6 +758,7 @@ M1.4:
     - SN Porter
     - AH Altieri
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.5:
   v1.0:
@@ -756,6 +786,7 @@ M1.5:
     - SN Porter
     - AH Altieri
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.6:
   v1.0:
@@ -781,6 +812,7 @@ M1.6:
     - SE Swearer
     - SN Porter
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.7:
   v1.0:
@@ -801,6 +833,7 @@ M1.7:
     - BA Polidoro
     - SE Swearer
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.8:
   v1.0:
@@ -821,6 +854,7 @@ M1.8:
     - BA Polidoro
     - SE Swearer
     - DA Keith
+    current: true
     update: 2022-04-06
 M1.9:
   v1.0:
@@ -849,6 +883,7 @@ M1.9:
     - LJ Shannon
     - IM Suthers
     - DA Keith
+    current: true
     update: 2022-04-06
 M2.1:
   v1.0:
@@ -873,6 +908,7 @@ M2.1:
     - IG Priede
     - TT Sutton
     - DA Keith
+    current: true
     update: 2022-04-06
 M2.2:
   v1.0:
@@ -900,6 +936,7 @@ M2.2:
     - IG Priede
     - TT Sutton
     - DA Keith
+    current: true
     update: 2022-04-06
 M2.3:
   v1.0:
@@ -922,6 +959,7 @@ M2.3:
     - TT Sutton
     - IG Priede
     - DA Keith
+    current: true
     update: 2022-04-06
 M2.4:
   v1.0:
@@ -940,6 +978,7 @@ M2.4:
     contributors:
     - C Linardich
     - DA Keith
+    current: true
     update: 2022-04-06
 M2.5:
   v1.0:
@@ -958,6 +997,7 @@ M2.5:
     contributors:
     - JS Stark
     - DA Keith
+    current: true
     update: 2022-04-06
 M3.1:
   v1.0:
@@ -981,6 +1021,7 @@ M3.1:
     - UC Fernandez-Arcaya
     - IG Priede
     - DA Keith
+    current: true
     update: 2022-04-06
 M3.2:
   v1.0:
@@ -1002,6 +1043,7 @@ M3.2:
     - UC Fernandez de Arcaya
     - E Ramirez-Llodra
     - DA Keith
+    current: true
     update: 2022-04-06
 M3.3:
   v1.0:
@@ -1022,6 +1064,7 @@ M3.3:
     - E Ramirez-Llodra
     - IG Priede
     - DA Keith
+    current: true
     update: 2022-04-06
 M3.4:
   v1.0:
@@ -1045,6 +1088,7 @@ M3.4:
     - AA Rowden
     - IG Priede
     - DA Keith
+    current: true
     update: 2022-04-06
 M3.5:
   v1.0:
@@ -1068,6 +1112,7 @@ M3.5:
     - UC Fernandez-Arcaya
     - S Rossi
     - DA Keith
+    current: true
     update: 2022-04-06
 M3.6:
   v1.0:
@@ -1094,6 +1139,7 @@ M3.6:
     - AJ Jamieson
     - IG Priede
     - DA Keith
+    current: true
     update: 2022-04-06
 M3.7:
   v1.0:
@@ -1114,6 +1160,7 @@ M3.7:
     - UC Fernandez-Arcaya
     - S Rossi
     - DA Keith
+    current: true
     update: 2022-04-06
 M4.1:
   v1.0:
@@ -1136,6 +1183,7 @@ M4.1:
     - JT Claisse
     - TP Crowe
     - DA Keith
+    current: true
     update: 2022-04-06
 M4.2:
   v1.0:
@@ -1155,6 +1203,7 @@ M4.2:
     - DA Keith
     - M Beveridge
     - LB Firth
+    current: true
     update: 2022-04-06
 MFT1.1:
   v1.0:
@@ -1172,6 +1221,7 @@ MFT1.1:
     contributors:
     - DA Keith
     - RT Kingsford
+    current: true
     update: 2022-04-06
 MFT1.2:
   v1.0:
@@ -1194,6 +1244,7 @@ MFT1.2:
     - AH Altieri
     - TS Bianchi
     - DA Keith
+    current: true
     update: 2022-04-06
 MFT1.3:
   v1.0:
@@ -1216,6 +1267,7 @@ MFT1.3:
     - AH Altieri
     - J Loidi
     - MJ Bishop
+    current: true
     update: 2022-04-06
 MT1.1:
   v1.0:
@@ -1242,6 +1294,7 @@ MT1.1:
     - TP Crowe
     - AH Altieri
     - DA Keith
+    current: true
     update: 2022-04-06
 MT1.2:
   v1.0:
@@ -1265,6 +1318,7 @@ MT1.2:
     - NJ Murray
     - SE Swearer
     - DA Keith
+    current: true
     update: 2022-04-06
 MT1.3:
   v1.0:
@@ -1286,6 +1340,7 @@ MT1.3:
     - MJ Bishop
     - SL McSweeney
     - DA Keith
+    current: true
     update: 2022-04-06
 MT1.4:
   v1.0:
@@ -1308,6 +1363,7 @@ MT1.4:
     - SL McSweeney
     - AH Altieri
     - DA Keith
+    current: true
     update: 2022-04-06
 MT2.1:
   v1.0:
@@ -1327,6 +1383,7 @@ MT2.1:
     - DA Keith
     - J Loidi
     - ATR Acosta
+    current: true
     update: 2022-04-06
 MT2.2:
   v2.1:
@@ -1335,6 +1392,7 @@ MT2.2:
     - SF Bokhorst
     - JC. Ellis
     - DA Keith
+    current: true
     update: 2022-04-06
 MT3.1:
   v1.0:
@@ -1357,6 +1415,7 @@ MT3.1:
     - MJ Bishop
     - LB Firth
     - KA Dafforn. DA Keith
+    current: true
     update: 2022-04-06
 S1.1:
   v1.0:
@@ -1374,6 +1433,7 @@ S1.1:
     contributors:
     - DA Keith
     - GC Hose
+    current: true
     update: 2022-04-06
 S1.2:
   v1.0:
@@ -1399,6 +1459,7 @@ S1.2:
     - B Gonzalez
     - D Brankovits
     - A Martínez García
+    current: true
     update: 2022-04-06
 S2.1:
   v1.0:
@@ -1424,6 +1485,7 @@ S2.1:
     - B Gonzalez
     - D Brankovits
     - A Martínez García
+    current: true
     update: 2022-04-06
 SF1.1:
   v1.0:
@@ -1441,6 +1503,7 @@ SF1.1:
     contributors:
     - DA Keith
     - GC Hose
+    current: true
     update: 2022-04-06
 SF1.2:
   v1.0:
@@ -1468,6 +1531,7 @@ SF1.2:
     - D Brankovits
     - A Martínez García
     - GC Hose
+    current: true
     update: 2022-04-06
 SF2.1:
   v1.0:
@@ -1493,6 +1557,7 @@ SF2.1:
     - B Gonzalez
     - D Brankovits
     - A Martínez García
+    current: true
     update: 2022-04-06
 SF2.2:
   v2.0:
@@ -1506,6 +1571,7 @@ SF2.2:
     contributors:
     - DA Keith
     - TM Iliffe
+    current: true
     update: 2022-04-06
 SM1.1:
   v1.0:
@@ -1531,6 +1597,7 @@ SM1.1:
     - B Gonzalez
     - A Martínez García
     - DA Keith
+    current: true
     update: 2022-04-06
 SM1.2:
   v2.0:
@@ -1556,6 +1623,7 @@ SM1.2:
     - J Havird
     - TM Iliffe
     - DA Keith
+    current: true
     update: 2022-04-06
 SM1.3:
   v2.0:
@@ -1578,6 +1646,7 @@ SM1.3:
     - B Gonzalez
     - A Martínez García
     - DA Keith
+    current: true
     update: 2022-04-06
 T1.1:
   v1.0:
@@ -1597,6 +1666,7 @@ T1.1:
     - DA Keith
     - KR Young
     - RT Corlett
+    current: true
     update: 2022-04-06
 T1.2:
   v1.0:
@@ -1628,6 +1698,7 @@ T1.2:
     - KR Young
     - RT Corlett
     - DA Keith
+    current: true
     update: 2022-04-06
 T1.3:
   v1.0:
@@ -1653,6 +1724,7 @@ T1.3:
     - KR Young
     - RT Corlett
     - A Etter
+    current: true
     update: 2022-04-06
 T1.4:
   v1.0:
@@ -1673,6 +1745,7 @@ T1.4:
     - DA Keith
     - RT Young
     - A Etter
+    current: true
     update: 2022-04-06
 T2.1:
   v1.0:
@@ -1700,6 +1773,7 @@ T2.1:
     - T Kontula
     - J Franklin
     - NA Brummitt
+    current: true
     update: 2022-04-06
 T2.2:
   v1.0:
@@ -1724,6 +1798,7 @@ T2.2:
     - NA Brummitt
     - F Essl
     - D Faber-Langendoen
+    current: true
     update: 2022-04-06
 T2.3:
   v1.0:
@@ -1753,6 +1828,7 @@ T2.3:
     - F Essl
     - MS McGlone
     - D Faber-Langendoen
+    current: true
     update: 2022-04-06
 T2.4:
   v1.0:
@@ -1778,6 +1854,7 @@ T2.4:
     - D Faber-Langendoen
     - RT Corlett
     - MS McGlone
+    current: true
     update: 2022-04-06
 T2.5:
   v1.0:
@@ -1796,6 +1873,7 @@ T2.5:
     contributors:
     - DA Keith
     - R Mac Nally
+    current: true
     update: 2022-04-06
 T2.6:
   v1.0:
@@ -1820,6 +1898,7 @@ T2.6:
     - F Essl
     - J Franklin
     - R Mac Nally
+    current: true
     update: 2022-04-06
 T3.1:
   v1.0:
@@ -1837,6 +1916,7 @@ T3.1:
     contributors:
     - DA Keith
     - J Russell-Smith
+    current: true
     update: 2022-04-06
 T3.2:
   v1.0:
@@ -1854,6 +1934,7 @@ T3.2:
     contributors:
     - DA Keith
     - J Loidi
+    current: true
     update: 2022-04-06
 T3.3:
   v1.0:
@@ -1877,6 +1958,7 @@ T3.3:
     - F Essl
     - NA Brummitt
     - J Loidi
+    current: true
     update: 2022-04-06
 T3.4:
   v1.0:
@@ -1894,6 +1976,7 @@ T3.4:
     contributors:
     - DA Keith
     - NA Cutler
+    current: true
     update: 2022-04-06
 T4.1:
   v1.0:
@@ -1912,6 +1995,7 @@ T4.1:
     contributors:
     - CER Lehmann
     - DA Keith
+    current: true
     update: 2022-04-06
 T4.2:
   v1.0:
@@ -1935,6 +2019,7 @@ T4.2:
     - A Etter
     - KR Young
     - DA Keith
+    current: true
     update: 2022-04-06
 T4.3:
   v1.0:
@@ -1952,6 +2037,7 @@ T4.3:
     contributors:
     - DA Keith
     - RJ Williams
+    current: true
     update: 2022-04-06
 T4.4:
   v1.0:
@@ -1973,6 +2059,7 @@ T4.4:
     - DA Keith
     - D Faber-Langendoen
     - J Franklin
+    current: true
     update: 2022-04-06
 T4.5:
   v1.0:
@@ -1993,6 +2080,7 @@ T4.5:
     - DA Keith
     - F Essl
     - DJ Gibson
+    current: true
     update: 2022-04-06
 T5.1:
   v1.0:
@@ -2012,6 +2100,7 @@ T5.1:
     - MG Tozer
     - DJ Eldridge
     - DA Keith
+    current: true
     update: 2022-04-06
 T5.2:
   v1.0:
@@ -2030,6 +2119,7 @@ T5.2:
     contributors:
     - MG Tozer
     - DA Keith
+    current: true
     update: 2022-04-06
 T5.3:
   v1.0:
@@ -2048,6 +2138,7 @@ T5.3:
     contributors:
     - MG Tozer
     - DA Keith
+    current: true
     update: 2022-04-06
 T5.4:
   v1.0:
@@ -2071,6 +2162,7 @@ T5.4:
     - DJ Eldridge
     - D Faber-Langendoen
     - DA Keith
+    current: true
     update: 2022-04-06
 T5.5:
   v1.0:
@@ -2092,6 +2184,7 @@ T5.5:
     - MG Tozer
     - D Faber-Langendoen
     - DA Keith
+    current: true
     update: 2022-04-06
 T6.1:
   v1.0:
@@ -2112,6 +2205,7 @@ T6.1:
     - DA Keith
     - A Terauds
     - AMB Anesio
+    current: true
     update: 2022-04-06
 T6.2:
   v1.0:
@@ -2132,6 +2226,7 @@ T6.2:
     - DA Keith
     - KR Young
     - A Terauds
+    current: true
     update: 2022-04-06
 T6.3:
   v1.0:
@@ -2154,6 +2249,7 @@ T6.3:
     - F Essl
     - KR Young
     - CH Körner
+    current: true
     update: 2022-04-06
 T6.4:
   v1.0:
@@ -2176,6 +2272,7 @@ T6.4:
     - F Essl
     - KR Young
     - CH Körner
+    current: true
     update: 2022-04-06
 T6.5:
   v1.0:
@@ -2194,6 +2291,7 @@ T6.5:
     contributors:
     - DA Keith
     - A Etter
+    current: true
     update: 2022-04-06
 T7.1:
   v1.0:
@@ -2211,6 +2309,7 @@ T7.1:
     contributors:
     - DA Keith
     - R Harper
+    current: true
     update: 2022-04-06
 T7.2:
   v1.0:
@@ -2228,6 +2327,7 @@ T7.2:
     contributors:
     - DA Keith
     - R Harper
+    current: true
     update: 2022-04-06
 T7.3:
   v1.0:
@@ -2245,6 +2345,7 @@ T7.3:
     contributors:
     - DA Keith
     - KR Young
+    current: true
     update: 2022-04-06
 T7.4:
   v1.0:
@@ -2262,6 +2363,7 @@ T7.4:
     contributors:
     - DA Keith
     - RT Corlett
+    current: true
     update: 2022-04-06
 T7.5:
   v1.0:
@@ -2279,6 +2381,7 @@ T7.5:
     contributors:
     - DA Keith
     - PW Bogaart
+    current: true
     update: 2022-04-06
 TF1.1:
   v1.0:
@@ -2306,6 +2409,7 @@ TF1.1:
     - R Mac Nally
     - KM Rodriguez-Clark
     - A Etter
+    current: true
     update: 2022-04-06
 TF1.2:
   v1.0:
@@ -2331,6 +2435,7 @@ TF1.2:
     - JA Catford
     - B Robson
     - DA Keith
+    current: true
     update: 2022-04-06
 TF1.3:
   v1.0:
@@ -2355,6 +2460,7 @@ TF1.3:
     - MC Rains
     - B Robson
     - DA Keith
+    current: true
     update: 2022-04-06
 TF1.4:
   v1.0:
@@ -2390,6 +2496,7 @@ TF1.4:
     - K Irvine
     - KM Rodriguez-Clark
     - A Etter
+    current: true
     update: 2022-04-06
 TF1.5:
   v1.0:
@@ -2417,6 +2524,7 @@ TF1.5:
     - JA Catford
     - B Robson
     - DA Keith
+    current: true
     update: 2022-04-06
 TF1.6:
   v1.0:
@@ -2448,6 +2556,7 @@ TF1.6:
     - M Kelly-Quinn
     - KR Young
     - T Tahvanainen
+    current: true
     update: 2022-04-06
 TF1.7:
   v1.0:
@@ -2479,4 +2588,5 @@ TF1.7:
     - M Kelly-Quinn
     - KR Young
     - T Tahvanainen
+    current: true
     update: 2022-04-06
