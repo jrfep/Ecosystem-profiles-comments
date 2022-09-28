@@ -1,26 +1,18 @@
 ---
 name: MFT1.3 Coastal saltmarshes and reedbeds
+shortname: MFT1.3 Coastal saltmarsh
 biome: MFT1. Brackish tidal biome
-realm: Marine, Freshwater, Terrestrial
+realm: ['Marine', 'Freshwater', 'Terrestrial']
 code: MFT1.3
 biomecode: MFT1
-contributors: DA Keith, AH Altieri, J Loidi, MJ Bishop
-version: v2.1 (2022-04-06)
-mapcode: MFT1.3.IM.orig_v1.0
 ---
-# Ecosystem properties
 
-Coastal saltmarshes are vegetated by salt-tolerant forbs, grasses, and shrubs, with fine-scale mosaics related to strong local hydrological and salinity gradients, as well as competition and facilitation. Plant traits such as succulence, salt excretion, osmotic regulation, reduced transpiration, C4 photosynthesis (among grasses), modular growth forms, and aerenchymatous tissues confer varied degrees of tolerance to salinity, desiccation, and substrate anoxia. Adjacent marine and terrestrial ecosystems influence the complexity and function of the trophic network, while freshwater inputs mediate resource availability and physiological stress. Angiosperms are structurally dominant autotrophs, but algal mats and phytoplankton imported by tidal waters contribute to primary production. Cyanobacteria and rhizobial bacteria are important N-fixers. Tides and run-off bring subsidies of organic detritus and nutrients (including nitrates) from marine and terrestrial sources, respectively. Nitrogen is imported into saltmarshes mainly as inorganic forms and exported largely as organic forms, providing important subsidies to the trophic networks of adjacent estuarine fish nurseries (FM1.2). Fungi and bacteria decompose dissolved and particulate organic matter, while sulphate-reducing bacteria are important in the decay of substantial biomass in the anaerobic subsoil. Protozoans consume microbial decomposers, while in situ detritivores and herbivores include a range of crustaceans, polychaetes, and molluscs. Many of these ingest a mixture of organic material and sediment, structuring, aerating, and increasing the micro-scale heterogeneity of the substrate with burrows and faecal pellets. Fish move through saltmarsh vegetation at high tide, feeding mainly on algae. They include small-bodied residents and juveniles of larger species that then move offshore. Itinerant terrestrial mammals consume higher plants, regulating competition and vegetation structure. Colonial and solitary shorebirds breed and/or forage in saltmarsh. Migratory species that play important roles in the dispersal of plants, invertebrates, and microbes, while abundant foragers may force top-down transformational change.
+Coastal salt marshes and reedbeds are mosaics of salt-tolerant grasses and low, typically succulent shrubs. structured by strong gradients of salinity and tidal influence. Salts may approach hypersaline levels near the limit of high spring tides, especially in the tropics. As well as larger plants, algal mats and phytoplankton contribute to productivity, while freshwater run-off and tides bring organic material and nutrients. Bacteria and fungi decompose biomass in oxygen-poor subsoils, and support a range of crustaceans, worms, snails and small fish. Shorebirds breed and forage in saltmarshes, with migratory species dispersing plants and animals.
 
-# Ecological Drivers
+### Key Features
 
-High and variable salt concentration is driven by alternating episodes of soil desiccation and flushing, associated with cycles of tidal inundation and drying combined with freshwater seepage, rainfall, and run-off in the upper intertidal zone. These interacting processes produce dynamic fine-scale hydrological and salinity gradients, which may drive transformation to intertidal forests (MFT1.2). Marshes are associated with low-energy depositional coasts but may occur on sea cliffs and headlands where wind deposits salt from wave splash (i.e. salt spray) and aerosol inputs. Salt approaches hypersaline levels where flushing events are infrequent. Other nutrients make up a low proportion of the total ionic content. Subsoils are generally anaerobic, but this varies depending on seepage water and the frequency of tidal inundation. Tidal cycles also influence temperature extremes, irregularities in photoperiod, physical disturbance, and deposition of sediment.
+Variable salinity tidal system dominated by salt-tolerant plants, with invertebrates, small/juvenile fish and birds..
 
-# Diagramatic assembly model
+### Overview of distribution
 
-{% include DAM.html %}
-
-# Distribution
-
-Widely distributed, mostly on low-energy coasts from arctic to tropical and subantarctic latitudes.
-
+Mostly low energy coasts from tropical to arctic and subantarctic latitudes.

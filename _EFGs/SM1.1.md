@@ -1,26 +1,18 @@
 ---
 name: SM1.1 Anchialine caves
+shortname: SM1.1 Anchialine caves
 biome: SM1. Subterranean tidal biome
-realm: Subterranean, Marine
+realm: ['Subterranean', 'Marine']
 code: SM1.1
 biomecode: SM1
-contributors: TM Iliffe, D Brankovits, V Gerovasileiou, B Gonzalez, A Martínez García, DA Keith
-version: v2.1 (2022-04-06)
-mapcode: SM1.1.IM.grid_v3.0
 ---
-# Ecosystem properties
 
-Anchialine caves contain bodies of saline or brackish waters with subterranean connections to the sea. Since virtually all anchialine biota are marine in origin, these caves have a larger and more diverse species pool than underground freshwaters. The trophic network is truncated and dominated by heterotrophs (scavenging and filter-feeding detritivores and their predators), with photosynthetic primary producers and herbivores only present where sinkholes connect caves to the surface and sunlight. Productivity is limited by the scarcity of light and food, but less so than in insular freshwater subterranean systems (SF1.1) due to influx of marine detritus and biota. The dominant fauna includes planktonic bacteria, protozoans, annelids, crustaceans, and fish. Anchialine obligates inhabit locations deep within the caves, with marine biota increasing in frequency with proximity to the sea. Caves closely connected with the ocean tend to have stronger tidal currents and biota such as sponges and hydroids commonly associated with sea caves (SM1.3). Distinctive traits of cave obligates that reflect selection under darkness and food scarcity include varying degrees of eye loss and depigmentation, increased tactile and chemical sensitivity, reproduction with few large eggs, long lifespans, and slow metabolism and growth rates. Some anchialine biota are related to deep sea species, including shrimps that retain red pigmentation, while others include relict taxa inhabiting anchialine caves on opposite sides of ocean basins. Characteristic anchialine taxa also occur in isolated water bodies, far within extensive seafloor cave systems.
+Anchialine caves contain water bodies that have a subterranean connection to the sea and no or little direct connection to the atmosphere. These ecosystems are structured by strong salinity gradients. A primarily marine community influenced by tides and currents at the cave entrance transitioning to a more insular and specialised biota in still brackish waters influenced by rainfall percolation deep in the landward section of the cave.  They occur where carbonate rocks and lava tubes meet coastlines worldwide.
 
-# Ecological Drivers
+### Key Features
 
-Anchialine caves originate from seawater penetration into faults, fractures, and lava tubes as well as sea-level rise into limestone caves formed by solution. Cave waters are characterised by an absence or scarcity of light, low food abundance, and strong salinity gradients. Sharp haloclines, which fluctuate with tides and rainfall percolation, occur at deeper depths with increasing distance inland. Tidal connections result in suck and blow phases of water movement that diminish with increasing distance from the sea. In karst terrain with no surface runoff, anchialine caves are closely linked via hydrology to overlying subaerial coastal systems and can serve as subterranean rivers with haloclines separating seaward flowing freshwater from underlying saltwater. Temperatures are moderate, increasing at the halocline, then stabilise with depth. Dissolved oxygen declines with depth.
+Cave-bound waterbodies connected to the sea with a gradient of tidal influence and salinity. Filter feeders, scavengers and predators limited by light and nutrients.
 
-# Diagramatic assembly model
+### Overview of distribution
 
-{% include DAM.html %}
-
-# Distribution
-
-Scattered worldwide, mostly in the Northern Hemisphere in limestone, basalt flows, and more rarely other lithic substrates.
-
+Limestone, basalt and more rarely lithic substrates coastal regions globally.

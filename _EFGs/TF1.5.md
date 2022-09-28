@@ -1,26 +1,18 @@
 ---
 name: TF1.5 Episodic arid floodplains
+shortname: TF1.5 Episodic arid floodplains
 biome: TF1. Palustrine wetlands biome
-realm: Terrestrial, Freshwater
+realm: ['Terrestrial', 'Freshwater']
 code: TF1.5
 biomecode: TF1
-contributors: RT Kingsford, R Mac Nally, AH Arthington, JA Catford, B Robson, DA Keith
-version: v2.1 (2022-04-06)
-mapcode: MISSING
 ---
-# Ecosystem properties
 
-Highly episodic freshwater floodplains are distinct from, but associated with, adjacent river channels, which provide water and sediment during flooding. These are low-productivity systems during long, dry periods (maybe years), with periodic spikes of very high productivity when first inundated. These floodplains have a high diversity of aquatic and terrestrial biota in complex trophic networks, with ruderal life-history traits enabling the exploitation of transient water and nutrient availability. Primary producers include flood-dependent macrophytes and algae with physiological traits for water conservation or drought avoidance. Lower trophic levels (e.g. algae, invertebrate consumers) avoid desiccation with traits such as dormant life-cycle phases, deposition of resting eggs (e.g. crustaceans and rotifers), and burial in sediments banks (e.g. larvae of cyclopoid copepods). Higher trophic levels (e.g. fish, amphibians, reptiles, and waterbirds) are highly mobile in large numbers or with resting strategies (e.g. burrowing frogs). These taxa can be important mobile links for the movement of biota and resources, but floods are the primary allochthonous sources of energy and nutrients. Floods are important triggers for life-history processes such as seed germination, emergence from larval stages, dispersal, and reproduction. Common lifeforms include detritus-feeding invertebrate collector-gatherers, indicating a reliance on heterotrophic energy pathways.
+Episodic arid floodplains rarely flood and are predominantly dry, sometimes for years.  They are supplied by temporary rivers in semi-arid and arid regions of all continents. When floods come, there is a spike in productivity as nutrients mobilise from leaf litter and organic matter. At such times, dormant plants and animals form complex food webs, capitalising on short periods of high productivity.
 
-# Ecological Drivers
+### Key Features
 
-Multi-year dry periods are punctuated by brief intervals of shallow inundation caused by the overspill from flooding river channels. These boom-bust systems have temporarily high productivity driven by water and partly by elevated levels of dissolved Carbon and nutrients (notably N and P) released from leaf litter, oxygen, and organic matter in newly inundated, shallow areas. High temperatures promote productivity and rapid drying in arid environments. Water may be turbid or clear, which affects light environments and may limit benthic algal production to the shallow littoral margins of small channels. This in turn affects aquatic food webs and Carbon dynamics. Drainage is predominantly horizontal and bidirectional (i.e. in and out of the river), but infiltration and evapotranspiration can be significant in the flat terrain and may influence salinity if there are sources of salt in the catchment or ground water.
+Highly productive floodplains when flooded, supporting highly diverse and complex trophic networks, followed by long periods of low productivity when dry.
 
-# Diagramatic assembly model
+### Overview of distribution
 
-{% include DAM.html %}
-
-# Distribution
-
-Connected to ephemeral rivers in semi-arid and arid regions of all continents.
-
+Semi-ard and arid regions.
