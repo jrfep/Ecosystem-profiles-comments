@@ -47,13 +47,10 @@ Aleks Terauds,
 Michael A. Chadwick,
 Nicholas J. Murray,
 Justin Moat,
-Patricio Pliscoff ,
+Patricio Pliscoff,
 Irene Zager,
 Richard T. Kingsford
-
-*A function-based typology for Earth’s ecosystems*
-
-(**in preparation**)
+*A function-based typology for Earth’s ecosystems* **Nature** DOI:[10.1038/s41586-022-05318-4](https://doi.org/10.1038/s41586-022-05318-4).
 
 # Related resources
 
