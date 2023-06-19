@@ -20,6 +20,8 @@ The text describes key ecological traits diagnosed from literature and expert kn
 Each profile is illustrated with a photograph that shows some of the ecological features mentioned in the text. Although representative examples were chosen for illustration, they may not represent the range of variability in features expressed within each functional group, some of which have extensive global distributions.
 //-->
 
+A workbook with profile content for Ecosystem Functional Groups of the IUCN Global Ecosystem Typology (Level 3 units) is available in an [OSF repository](https://osf.io/4dcea).
+
 # Major ecosystem drivers
 
 The text identifies key ecological drivers that shape the ecological character of ecosystem types within a functional group. These are primarily abiotic features and processes, including disturbance regimes that directly or indirectly influence resource availability. Human influence is only addressed in anthropogenic ecosystem functional groups, even though it profoundly affects most ecosystems on earth. These effects vary greatly in type, intensity and spatially in a manner that reflects social, cultural and economic norms and opportunities, technology and access, etc. as well as ecosystem characteristics. Specific influences of anthropogenic processes ecosystem state and will therefore be addressed in IUCN Red List assessments.
@@ -35,6 +37,9 @@ For each Ecosystem Functional Group, the generic ecosystem assembly model <!--//
 Maps are indicative of global distribution patterns are not intended to represent fine-scale patterns. The maps show areas of the world containing major (coloured red) or minor occurrences (coloured yellow) of each ecosystem functional group. Minor occurrences are areas where an ecosystem functional group is scattered in patches within matrices of other ecosystem functional groups or where they occur in substantial areas, but only within a segment of a larger region. Small but important occurrences are identified with an indicative black ellipse. Most maps were prepared using a coarse-scale template (e.g. ecoregions of Spalding et al. 2007; Abell et al. 2008; Dinerstein et al. 2017), but some were compiled from higher resolution spatial data where available (see details below). Higher resolution mapping is planned in future publications.
 
 We emphasise that spatial representation of Ecosystem Functional Groups does not follow higher-order groupings described in respective ecoregion classifications (provinces of Spalding 2007; major habitat types of Abell et al. 2008; biomes of Olsen et al. 2001 and Dinerstein et al. 2017). Consequently, when Ecosystem Functional Groups are aggregated into functional biomes (Level 2 of the Global Ecosystem Typology), spatial patterns may differ from those of biogeogreaphic biomes as mapped by Olsen et al (2001) and Dinerstein et al. (2017). Differences reflect the distinctions between functional and biogeographic interpretations of the term, “biome” (Mucina 2018).
+
+Indicative maps are available in a data repository:
+Keith, David A., Ferrer-Paris, Jose R., Nicholson, Emily, & Kingsford, Richard T. (eds.) (2020). Indicative distribution maps for Ecosystem Functional Groups - Level 3 of IUCN Global Ecosystem Typology (Version 2.1.1) [Data set]. Zenodo. DOI: [10.5281/zenodo.3546513](10.5281/zenodo.3546513)
 
 # References
 
