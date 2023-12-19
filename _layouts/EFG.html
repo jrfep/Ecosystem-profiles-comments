@@ -2,18 +2,94 @@
 layout: default
 section: browse
 ---
+
+
 <h1>{{ page.name }}</h1>
 <h3>Biome: <a href="../Biomes/{{ page.biomecode }}.html">{{ page.biome }}</a></h3>
-<h4>Contributors:<br/> {{ page.contributors }} (texts)<br/> {{ page.mapcontributors }} (maps)</h4>
-<b style="color: #333333;font-size: 12px;">Version: {{ page.version }} [<a href='https://global-ecosystems.org/explore/groups/{{ page.code }}'>see current version</a>]</b>
+<h4>Contributors:<br/> {{ page.contributors }} (texts)</h4>
 <div style=";
    position: relative;
   left: 0px;
   padding: 15px;
-  width: 60%;">
-
+  width: 80%;">
 
 {{ content }}
+
+<h3>Profile versions</h3>
+{% assign efg_vers = site.data.efgversions[page.code] %}
+<ul>
+{% for efg_ver in efg_vers %}
+  <li>{{efg_ver[0]}} ({{efg_ver[1]['update']}}): {{efg_ver[1]['contributors'] | join: "; " }}
+    {% if efg_ver[1]['current'] == true %}
+      <b style="color: #333333;font-size: 12px;"> <a href='https://global-ecosystems.org/explore/groups/{{ page.code }}' target='next'>Full profile available at official site</a></b>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+<h3>Main references</h3>
+<p>Selected references for this functional group:</p>
+<ul>
+  {% assign mainref = site.data.efgrefs[page.code] %}
+{% for ref in mainref %}
+<li>{{site.data.references[ref] | markdownify}}</li>
+{% endfor %}
+</ul>
+
+<h2>Diagrammatic assembly model</h2>
+<figure>
+  <img src="../assets/diagrams/{{ page.code }}.png" width="100%"/>
+ <figcaption>
+Diagrammatic assembly model of {{ page.name }}. <a href="../Profile-structure.html#DAM" style="font-size: 10px;font-weight: bold;font-color: red;">See general notes on diagrams.</a> <a href="../assets/diagrams/{{ page.code }}.png" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
+ </figcaption>
+</figure>
+
+
+<h2>Maps</h2>
+<p>Maps are indicative of global distribution patterns are not intended to represent fine-scale patterns. The maps show areas of the world containing major (coloured red) or minor occurrences (coloured yellow) of each ecosystem functional group. <a href="/Ecosystem-profiles-comments/Profile-structure.html#MAP" style="font-weight: bold;font-color: red;">See general notes on maps.</a></p>
+
+{% assign slc_maps = site.data.mapinfo | where: "efg", page.code %}
+{% assign valid_maps = slc_maps | where: "status", "valid" %}
+
+{% if valid_maps.size >1 %}
+<p>There are {{valid_maps.size}} alternative versions of the indicative map for this functional group, please compare description and sources below.</p>
+{% else %}
+<p>Information about the current valid indicative map for this functional group is shown below.</p>
+{% endif %}
+
+  {% for map in valid_maps %}
+  {% capture mapcode %}{{map.code}}_{{map.version}}{% endcapture %}
+
+<h3>{{ mapcode }}</h3>
+
+  {% assign map_files = site.static_files | where: "basename", mapcode %}
+    {% for myimage in map_files %}
+      <figure>
+      <img src="../{{ myimage.path }}" width="100%"/>
+       <figcaption>
+          {{ map.description }} <a href="../{{ myimage.path }}" style="font-size: 10px;font-weight: bold;font-color: red;" target="_blank">Open image full size.</a>
+       </figcaption>
+      </figure>
+    {% endfor %}
+
+  {% assign datasets = site.data.maprefs[mapcode].datasets %}
+  <h4>Datasets</h4>
+  <ul>
+  {% for ref in datasets  %}
+  <li>{{ref}}</li>
+  {% endfor %}
+  </ul>
+
+  {% assign maprefs = site.data.maprefs[mapcode].references %}
+  <h4>Map references</h4>
+  <ul>
+  {% for ref in maprefs  %}
+  <li>{{site.data.references[ref] | markdownify}}</li>
+  {% endfor %}
+  </ul>
+
+
+{% endfor %}
 
 Back to: <a href="../Realms.html">Realm overview</a>
 {% for therealm in site.Realms %}
@@ -28,6 +104,6 @@ Back to: <a href="../Realms.html">Realm overview</a>
    {% endif %}
 {% endfor %}
 <br/>
-Check: <a href="../Glossary.html"> the Glossary</a> / <a href="../Profile-structure.html"> Profile structure</a> / <a href="https://iucnrle.org/about-rle/ongoing-initiatives/global-ecosystem-typology/" target="_blank">the public document</a>
+Check: <a href="../Glossary.html"> the Glossary</a> / <a href="../Profile-structure.html"> Profile structure</a> / <a href="https://doi.org/10.2305/IUCN.CH.2020.13.en" target="_blank">the public document</a>
 
 </div>
