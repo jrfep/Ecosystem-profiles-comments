@@ -1777,8 +1777,19 @@ T1.3.WM.nwx_v1.0:
     degree spatial resolution and cells reclassified as major occurrences (>25% of
     cell area) and minor occurrences (< 25% of cell area).
   efg: T1.3
-  status: valid
+  status: replaced
   version: v1.0
+T1.3.WM.nwx_v1.1:
+  code: T1.3.WM.nwx
+  contributors: JR Ferrer-Paris
+  description: The distribution of tropical montane rainforest was approximated from
+    a model of environmental suitability based on climatic variables and cloud cover
+    (Karger et al. 2021). Occurrences were derived from aggregated mean of percent
+    of area covered from 2001 to 2018 using heuristic thresholds for major and minor
+    occurrences.
+  efg: T1.3
+  status: valid
+  version: v1.1
 T1.3.web.alt_v2.1:
   code: T1.3.web.alt
   contributors: JR Ferrer-Paris, DA Keith
